@@ -1,0 +1,3 @@
+# Results and verification files record SHA-256 values of the manifest, the classifier and
+# the prototype file. Keep the exact bytes of every file on every host.
+* -text

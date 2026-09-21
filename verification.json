@@ -1,0 +1,14 @@
+{
+  "manifest_sha256": "7ef5c01c82cf4c86e8b56461438f4f94fe153206e66946ae5fe6c4747da186a1",
+  "split_counts": {
+    "test": 70,
+    "validation": 175,
+    "train": 1009,
+    "ood_validation": 27,
+    "ood_test": 1
+  },
+  "all_features_finite_5120": true,
+  "within_class_authors_disjoint": true,
+  "unique_sha256": true,
+  "test_ids_match_frozen_manifest": true
+}

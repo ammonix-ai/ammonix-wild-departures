@@ -1,0 +1,4617 @@
+[
+  {
+    "id": "inat-132177041",
+    "trials": [
+      {
+        "prediction": "lizard",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9966905117034912,
+        "novelty_score": 0.7447746992111206,
+        "escalated": false,
+        "classifier_ms": 4.312099999879138,
+        "preprocess_ms": 9.272400000554626,
+        "qwen_ms": 1517.0829999997295,
+        "feature_ms": 363.44629999985045,
+        "ammonix_ms": 367.7583999997296,
+        "traditional_ms": 1517.0829999997295,
+        "traditional_answer": "The animal shown is a lizard, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a lizard, which is a reptile."
+      },
+      {
+        "prediction": "lizard",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9966905117034912,
+        "novelty_score": 0.7447746992111206,
+        "escalated": false,
+        "classifier_ms": 4.222900000058871,
+        "preprocess_ms": 9.467699999731849,
+        "qwen_ms": 1502.090999999382,
+        "feature_ms": 368.2606999991549,
+        "ammonix_ms": 372.48359999921377,
+        "traditional_ms": 1502.090999999382,
+        "traditional_answer": "The animal shown is a lizard, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a lizard, which is a reptile."
+      },
+      {
+        "prediction": "lizard",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9966905117034912,
+        "novelty_score": 0.7447746992111206,
+        "escalated": false,
+        "classifier_ms": 4.18089999948279,
+        "preprocess_ms": 11.947799999688868,
+        "qwen_ms": 1534.955600000103,
+        "feature_ms": 376.89919999957056,
+        "ammonix_ms": 381.08009999905335,
+        "traditional_ms": 1534.955600000103,
+        "traditional_answer": "The animal shown is a lizard, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a lizard, which is a reptile."
+      }
+    ]
+  },
+  {
+    "id": "158898059",
+    "trials": [
+      {
+        "prediction": "tiger",
+        "gate": "MAMMALS",
+        "confidence": 0.8130942583084106,
+        "novelty_score": 0.675530195236206,
+        "escalated": false,
+        "classifier_ms": 4.268699999556702,
+        "preprocess_ms": 15.564000000267697,
+        "qwen_ms": 1565.1566999995339,
+        "feature_ms": 450.82670000010694,
+        "ammonix_ms": 455.09539999966364,
+        "traditional_ms": 1565.1566999995339,
+        "traditional_answer": "The animal shown is a tiger, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a tiger, which is a mammal."
+      },
+      {
+        "prediction": "tiger",
+        "gate": "MAMMALS",
+        "confidence": 0.8130942583084106,
+        "novelty_score": 0.675530195236206,
+        "escalated": false,
+        "classifier_ms": 4.169600000750506,
+        "preprocess_ms": 18.690199999582546,
+        "qwen_ms": 1506.1744999993607,
+        "feature_ms": 378.319499999634,
+        "ammonix_ms": 382.4891000003845,
+        "traditional_ms": 1506.1744999993607,
+        "traditional_answer": "The animal shown is a tiger, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a tiger, which is a mammal."
+      },
+      {
+        "prediction": "tiger",
+        "gate": "MAMMALS",
+        "confidence": 0.8130942583084106,
+        "novelty_score": 0.675530195236206,
+        "escalated": false,
+        "classifier_ms": 4.241500000716769,
+        "preprocess_ms": 16.37029999983497,
+        "qwen_ms": 1589.7045000001526,
+        "feature_ms": 376.2987999998586,
+        "ammonix_ms": 380.54030000057537,
+        "traditional_ms": 1589.7045000001526,
+        "traditional_answer": "The animal shown is a tiger, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a tiger, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "inat-12609944",
+    "trials": [
+      {
+        "prediction": "monkey",
+        "gate": "MAMMALS",
+        "confidence": 0.9983842372894287,
+        "novelty_score": 0.6675857305526733,
+        "escalated": false,
+        "classifier_ms": 4.28609999926266,
+        "preprocess_ms": 11.742900000172085,
+        "qwen_ms": 1477.0525000003545,
+        "feature_ms": 366.1652000000686,
+        "ammonix_ms": 370.45129999933124,
+        "traditional_ms": 1477.0525000003545,
+        "traditional_answer": "The animal shown is a monkey, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a monkey, which is a mammal."
+      },
+      {
+        "prediction": "monkey",
+        "gate": "MAMMALS",
+        "confidence": 0.9983842372894287,
+        "novelty_score": 0.6675857305526733,
+        "escalated": false,
+        "classifier_ms": 4.3087000003652065,
+        "preprocess_ms": 9.220799999638984,
+        "qwen_ms": 1496.1212000007436,
+        "feature_ms": 370.25809999977355,
+        "ammonix_ms": 374.56680000013876,
+        "traditional_ms": 1496.1212000007436,
+        "traditional_answer": "The animal shown is a monkey, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a monkey, which is a mammal."
+      },
+      {
+        "prediction": "monkey",
+        "gate": "MAMMALS",
+        "confidence": 0.9983842372894287,
+        "novelty_score": 0.6675857305526733,
+        "escalated": false,
+        "classifier_ms": 4.286299999876064,
+        "preprocess_ms": 11.25069999943662,
+        "qwen_ms": 1531.3231000000087,
+        "feature_ms": 372.1442999994906,
+        "ammonix_ms": 376.4305999993667,
+        "traditional_ms": 1531.3231000000087,
+        "traditional_answer": "The animal shown is a monkey, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a monkey, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "inat-48579715",
+    "trials": [
+      {
+        "prediction": "ladybug",
+        "gate": "ARTHROPODS",
+        "confidence": 0.998790442943573,
+        "novelty_score": 0.8713619112968445,
+        "escalated": false,
+        "classifier_ms": 4.178199999842036,
+        "preprocess_ms": 9.219600000506034,
+        "qwen_ms": 1622.7551000001768,
+        "feature_ms": 366.47720000019035,
+        "ammonix_ms": 370.6554000000324,
+        "traditional_ms": 1622.7551000001768,
+        "traditional_answer": "The animal shown is a ladybug, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a ladybug, which is an arthropod."
+      },
+      {
+        "prediction": "ladybug",
+        "gate": "ARTHROPODS",
+        "confidence": 0.998790442943573,
+        "novelty_score": 0.8713619112968445,
+        "escalated": false,
+        "classifier_ms": 4.236299999320181,
+        "preprocess_ms": 11.238000000048487,
+        "qwen_ms": 1640.2359000003344,
+        "feature_ms": 371.6852999996263,
+        "ammonix_ms": 375.9215999989465,
+        "traditional_ms": 1640.2359000003344,
+        "traditional_answer": "The animal shown is a ladybug, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a ladybug, which is an arthropod."
+      },
+      {
+        "prediction": "ladybug",
+        "gate": "ARTHROPODS",
+        "confidence": 0.998790442943573,
+        "novelty_score": 0.8713619112968445,
+        "escalated": false,
+        "classifier_ms": 4.136399999879359,
+        "preprocess_ms": 9.95249999959924,
+        "qwen_ms": 1633.7159000004249,
+        "feature_ms": 365.7117000002472,
+        "ammonix_ms": 369.8481000001266,
+        "traditional_ms": 1633.7159000004249,
+        "traditional_answer": "The animal shown is a ladybug, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a ladybug, which is an arthropod."
+      }
+    ]
+  },
+  {
+    "id": "inat-19610738",
+    "trials": [
+      {
+        "prediction": "dragonfly",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9985639452934265,
+        "novelty_score": 0.7618211507797241,
+        "escalated": false,
+        "classifier_ms": 4.24250000014581,
+        "preprocess_ms": 11.660299999675772,
+        "qwen_ms": 1717.188999999962,
+        "feature_ms": 475.47320000012405,
+        "ammonix_ms": 479.71570000026986,
+        "traditional_ms": 1717.188999999962,
+        "traditional_answer": "The image shows a dragonfly, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The image shows a dragonfly, which is an arthropod."
+      },
+      {
+        "prediction": "dragonfly",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9985639452934265,
+        "novelty_score": 0.7618211507797241,
+        "escalated": false,
+        "classifier_ms": 4.209300000184157,
+        "preprocess_ms": 10.01300000007177,
+        "qwen_ms": 1570.8667999997488,
+        "feature_ms": 364.5790999999008,
+        "ammonix_ms": 368.78840000008495,
+        "traditional_ms": 1570.8667999997488,
+        "traditional_answer": "The image shows a dragonfly, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The image shows a dragonfly, which is an arthropod."
+      },
+      {
+        "prediction": "dragonfly",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9985639452934265,
+        "novelty_score": 0.7618211507797241,
+        "escalated": false,
+        "classifier_ms": 4.191699999864795,
+        "preprocess_ms": 11.764200000470737,
+        "qwen_ms": 1597.566999999799,
+        "feature_ms": 371.3746000003084,
+        "ammonix_ms": 375.5663000001732,
+        "traditional_ms": 1597.566999999799,
+        "traditional_answer": "The image shows a dragonfly, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The image shows a dragonfly, which is an arthropod."
+      }
+    ]
+  },
+  {
+    "id": "inat-627324902",
+    "trials": [
+      {
+        "prediction": "alligator",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9987688660621643,
+        "novelty_score": 0.9419537782669067,
+        "escalated": false,
+        "classifier_ms": 4.472900000109803,
+        "preprocess_ms": 10.259399999995367,
+        "qwen_ms": 1723.3955000001515,
+        "feature_ms": 437.696799999685,
+        "ammonix_ms": 442.16969999979483,
+        "traditional_ms": 1723.3955000001515,
+        "traditional_answer": "The animal shown is a crocodile, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a crocodile, which is a reptile."
+      },
+      {
+        "prediction": "alligator",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9987688660621643,
+        "novelty_score": 0.9419537782669067,
+        "escalated": false,
+        "classifier_ms": 4.240799999934097,
+        "preprocess_ms": 11.743099999875994,
+        "qwen_ms": 1559.0170000004946,
+        "feature_ms": 370.98210000021936,
+        "ammonix_ms": 375.22290000015346,
+        "traditional_ms": 1559.0170000004946,
+        "traditional_answer": "The animal shown is a crocodile, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a crocodile, which is a reptile."
+      },
+      {
+        "prediction": "alligator",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9987688660621643,
+        "novelty_score": 0.9419537782669067,
+        "escalated": false,
+        "classifier_ms": 4.158100000495324,
+        "preprocess_ms": 9.620499999982712,
+        "qwen_ms": 1547.7009000005637,
+        "feature_ms": 357.3969999997644,
+        "ammonix_ms": 361.5551000002597,
+        "traditional_ms": 1547.7009000005637,
+        "traditional_answer": "The animal shown is a crocodile, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a crocodile, which is a reptile."
+      }
+    ]
+  },
+  {
+    "id": "inat-661889415",
+    "trials": [
+      {
+        "prediction": "grasshopper",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9989257454872131,
+        "novelty_score": 0.7560056447982788,
+        "escalated": false,
+        "classifier_ms": 3.334500000164553,
+        "preprocess_ms": 11.316899999656016,
+        "qwen_ms": 1806.2926000002335,
+        "feature_ms": 328.80629999999655,
+        "ammonix_ms": 332.1408000001611,
+        "traditional_ms": 1806.2926000002335,
+        "traditional_answer": "The animal shown is a grasshopper, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 19,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a grasshopper, which is an arthropod."
+      },
+      {
+        "prediction": "grasshopper",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9989257454872131,
+        "novelty_score": 0.7560056447982788,
+        "escalated": false,
+        "classifier_ms": 4.156600000897015,
+        "preprocess_ms": 9.53179999942222,
+        "qwen_ms": 1691.8050999993284,
+        "feature_ms": 357.0806999996421,
+        "ammonix_ms": 361.2373000005391,
+        "traditional_ms": 1691.8050999993284,
+        "traditional_answer": "The animal shown is a grasshopper, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 19,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a grasshopper, which is an arthropod."
+      },
+      {
+        "prediction": "grasshopper",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9989257454872131,
+        "novelty_score": 0.7560056447982788,
+        "escalated": false,
+        "classifier_ms": 4.110199999558972,
+        "preprocess_ms": 11.28789999984292,
+        "qwen_ms": 1718.5428000002503,
+        "feature_ms": 369.9690000003102,
+        "ammonix_ms": 374.07919999986916,
+        "traditional_ms": 1718.5428000002503,
+        "traditional_answer": "The animal shown is a grasshopper, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 19,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a grasshopper, which is an arthropod."
+      }
+    ]
+  },
+  {
+    "id": "171046731",
+    "trials": [
+      {
+        "prediction": "cow",
+        "gate": "MAMMALS",
+        "confidence": 0.9958012700080872,
+        "novelty_score": 0.7864384651184082,
+        "escalated": false,
+        "classifier_ms": 4.298900000321737,
+        "preprocess_ms": 16.277099999570055,
+        "qwen_ms": 1292.3455999998623,
+        "feature_ms": 373.07349999991857,
+        "ammonix_ms": 377.3724000002403,
+        "traditional_ms": 1292.3455999998623,
+        "traditional_answer": "The animals shown are goats, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 13,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animals shown are goats, which are mammals."
+      },
+      {
+        "prediction": "cow",
+        "gate": "MAMMALS",
+        "confidence": 0.9958012700080872,
+        "novelty_score": 0.7864384651184082,
+        "escalated": false,
+        "classifier_ms": 4.174199999397388,
+        "preprocess_ms": 18.32840000042779,
+        "qwen_ms": 1266.6573999995308,
+        "feature_ms": 377.7150000005349,
+        "ammonix_ms": 381.8891999999323,
+        "traditional_ms": 1266.6573999995308,
+        "traditional_answer": "The animals shown are goats, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 13,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animals shown are goats, which are mammals."
+      },
+      {
+        "prediction": "cow",
+        "gate": "MAMMALS",
+        "confidence": 0.9958012700080872,
+        "novelty_score": 0.7864384651184082,
+        "escalated": false,
+        "classifier_ms": 4.220199999508623,
+        "preprocess_ms": 15.53429999967193,
+        "qwen_ms": 1282.375800000409,
+        "feature_ms": 366.01189999964845,
+        "ammonix_ms": 370.2320999991571,
+        "traditional_ms": 1282.375800000409,
+        "traditional_answer": "The animals shown are goats, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 13,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animals shown are goats, which are mammals."
+      }
+    ]
+  },
+  {
+    "id": "inat-347818660",
+    "trials": [
+      {
+        "prediction": "beetle",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9122478365898132,
+        "novelty_score": 0.5235785245895386,
+        "escalated": false,
+        "classifier_ms": 4.147900000134541,
+        "preprocess_ms": 11.296900000161259,
+        "qwen_ms": 1590.7979000003252,
+        "feature_ms": 369.74220000047353,
+        "ammonix_ms": 373.8901000006081,
+        "traditional_ms": 1590.7979000003252,
+        "traditional_answer": "The animal shown is a beetle, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a beetle, which is an arthropod."
+      },
+      {
+        "prediction": "beetle",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9122478365898132,
+        "novelty_score": 0.5235785245895386,
+        "escalated": false,
+        "classifier_ms": 4.28120000015042,
+        "preprocess_ms": 9.507599999778904,
+        "qwen_ms": 1605.2675999999337,
+        "feature_ms": 360.51430000043183,
+        "ammonix_ms": 364.79550000058225,
+        "traditional_ms": 1605.2675999999337,
+        "traditional_answer": "The animal shown is a beetle, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a beetle, which is an arthropod."
+      },
+      {
+        "prediction": "beetle",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9122478365898132,
+        "novelty_score": 0.5235785245895386,
+        "escalated": false,
+        "classifier_ms": 4.258699999809323,
+        "preprocess_ms": 11.474400000224705,
+        "qwen_ms": 1604.6643999998196,
+        "feature_ms": 375.6324999994831,
+        "ammonix_ms": 379.89119999929244,
+        "traditional_ms": 1604.6643999998196,
+        "traditional_answer": "The animal shown is a beetle, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a beetle, which is an arthropod."
+      }
+    ]
+  },
+  {
+    "id": "inat-350385448",
+    "trials": [
+      {
+        "prediction": "ostrich",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9986580610275269,
+        "novelty_score": 0.9117885828018188,
+        "escalated": false,
+        "classifier_ms": 4.207199999655131,
+        "preprocess_ms": 9.80379999964498,
+        "qwen_ms": 1608.5112999999183,
+        "feature_ms": 365.63740000019607,
+        "ammonix_ms": 369.8445999998512,
+        "traditional_ms": 1608.5112999999183,
+        "traditional_answer": "The animal shown is an ostrich, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is an ostrich, which is a bird."
+      },
+      {
+        "prediction": "ostrich",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9986580610275269,
+        "novelty_score": 0.9117885828018188,
+        "escalated": false,
+        "classifier_ms": 4.256899999745656,
+        "preprocess_ms": 11.399900000469643,
+        "qwen_ms": 1520.5754999997225,
+        "feature_ms": 369.94159999994736,
+        "ammonix_ms": 374.198499999693,
+        "traditional_ms": 1520.5754999997225,
+        "traditional_answer": "The animal shown is an ostrich, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is an ostrich, which is a bird."
+      },
+      {
+        "prediction": "ostrich",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9986580610275269,
+        "novelty_score": 0.9117885828018188,
+        "escalated": false,
+        "classifier_ms": 3.35090000044147,
+        "preprocess_ms": 9.319000000687083,
+        "qwen_ms": 1431.3184000002366,
+        "feature_ms": 313.55119999989256,
+        "ammonix_ms": 316.90210000033403,
+        "traditional_ms": 1431.3184000002366,
+        "traditional_answer": "The animal shown is an ostrich, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is an ostrich, which is a bird."
+      }
+    ]
+  },
+  {
+    "id": "inat-335359538",
+    "trials": [
+      {
+        "prediction": "chicken",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9993487000465393,
+        "novelty_score": 0.8738784790039062,
+        "escalated": false,
+        "classifier_ms": 3.1584999996994156,
+        "preprocess_ms": 8.83590000012191,
+        "qwen_ms": 1485.4711999996653,
+        "feature_ms": 386.96879999952216,
+        "ammonix_ms": 390.1272999992216,
+        "traditional_ms": 1485.4711999996653,
+        "traditional_answer": "The animal shown is a rooster, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a rooster, which is a bird."
+      },
+      {
+        "prediction": "chicken",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9993487000465393,
+        "novelty_score": 0.8738784790039062,
+        "escalated": false,
+        "classifier_ms": 3.3682000002954737,
+        "preprocess_ms": 9.122899999965739,
+        "qwen_ms": 1434.4906999995146,
+        "feature_ms": 328.1669999996666,
+        "ammonix_ms": 331.53519999996206,
+        "traditional_ms": 1434.4906999995146,
+        "traditional_answer": "The animal shown is a rooster, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a rooster, which is a bird."
+      },
+      {
+        "prediction": "chicken",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9993487000465393,
+        "novelty_score": 0.8738784790039062,
+        "escalated": false,
+        "classifier_ms": 3.3360999996148166,
+        "preprocess_ms": 9.091900000385067,
+        "qwen_ms": 1423.6590000000433,
+        "feature_ms": 327.9468000000634,
+        "ammonix_ms": 331.2828999996782,
+        "traditional_ms": 1423.6590000000433,
+        "traditional_answer": "The animal shown is a rooster, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a rooster, which is a bird."
+      }
+    ]
+  },
+  {
+    "id": "inat-122525688",
+    "trials": [
+      {
+        "prediction": "bee",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9123963117599487,
+        "novelty_score": 0.6365648508071899,
+        "escalated": false,
+        "classifier_ms": 3.2787000000098487,
+        "preprocess_ms": 9.224999999787542,
+        "qwen_ms": 1517.808800000239,
+        "feature_ms": 335.1075000000492,
+        "ammonix_ms": 338.38620000005903,
+        "traditional_ms": 1517.808800000239,
+        "traditional_answer": "The animal shown is a bee, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a bee, which is an arthropod."
+      },
+      {
+        "prediction": "bee",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9123963117599487,
+        "novelty_score": 0.6365648508071899,
+        "escalated": false,
+        "classifier_ms": 3.2582999992882833,
+        "preprocess_ms": 9.073399999579124,
+        "qwen_ms": 1544.9720999995407,
+        "feature_ms": 321.9259999996211,
+        "ammonix_ms": 325.1842999989094,
+        "traditional_ms": 1544.9720999995407,
+        "traditional_answer": "The animal shown is a bee, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a bee, which is an arthropod."
+      },
+      {
+        "prediction": "bee",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9123963117599487,
+        "novelty_score": 0.6365648508071899,
+        "escalated": false,
+        "classifier_ms": 3.2906999995248043,
+        "preprocess_ms": 9.308499999860942,
+        "qwen_ms": 1516.1238999999114,
+        "feature_ms": 328.0138000000079,
+        "ammonix_ms": 331.3044999995327,
+        "traditional_ms": 1516.1238999999114,
+        "traditional_answer": "The animal shown is a bee, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a bee, which is an arthropod."
+      }
+    ]
+  },
+  {
+    "id": "inat-73600033",
+    "trials": [
+      {
+        "prediction": "butterfly",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9914752244949341,
+        "novelty_score": 0.5279281735420227,
+        "escalated": false,
+        "classifier_ms": 3.3540000003995374,
+        "preprocess_ms": 10.019199999987904,
+        "qwen_ms": 1502.9665000001842,
+        "feature_ms": 324.05910000034055,
+        "ammonix_ms": 327.4131000007401,
+        "traditional_ms": 1502.9665000001842,
+        "traditional_answer": "The animal shown is a butterfly, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a butterfly, which is an arthropod."
+      },
+      {
+        "prediction": "butterfly",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9914752244949341,
+        "novelty_score": 0.5279281735420227,
+        "escalated": false,
+        "classifier_ms": 3.201700000317942,
+        "preprocess_ms": 9.54829999955109,
+        "qwen_ms": 1500.336499999321,
+        "feature_ms": 326.63099999990663,
+        "ammonix_ms": 329.8327000002246,
+        "traditional_ms": 1500.336499999321,
+        "traditional_answer": "The animal shown is a butterfly, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a butterfly, which is an arthropod."
+      },
+      {
+        "prediction": "butterfly",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9914752244949341,
+        "novelty_score": 0.5279281735420227,
+        "escalated": false,
+        "classifier_ms": 3.534899999976915,
+        "preprocess_ms": 10.076599999592872,
+        "qwen_ms": 1502.0394000002852,
+        "feature_ms": 347.03389999958745,
+        "ammonix_ms": 350.56879999956436,
+        "traditional_ms": 1502.0394000002852,
+        "traditional_answer": "The animal shown is a butterfly, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a butterfly, which is an arthropod."
+      }
+    ]
+  },
+  {
+    "id": "inat-347743310",
+    "trials": [
+      {
+        "prediction": "crocodile",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9229615330696106,
+        "novelty_score": 0.6906828880310059,
+        "escalated": false,
+        "classifier_ms": 3.434700000070734,
+        "preprocess_ms": 9.489299999586365,
+        "qwen_ms": 1481.4414000002216,
+        "feature_ms": 344.55760000037117,
+        "ammonix_ms": 347.9923000004419,
+        "traditional_ms": 1481.4414000002216,
+        "traditional_answer": "The animal shown is a crocodile, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a crocodile, which is a reptile."
+      },
+      {
+        "prediction": "crocodile",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9229615330696106,
+        "novelty_score": 0.6906828880310059,
+        "escalated": false,
+        "classifier_ms": 3.131800000119256,
+        "preprocess_ms": 9.837000000516127,
+        "qwen_ms": 1519.521899999745,
+        "feature_ms": 323.6370000004172,
+        "ammonix_ms": 326.76880000053643,
+        "traditional_ms": 1519.521899999745,
+        "traditional_answer": "The animal shown is a crocodile, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a crocodile, which is a reptile."
+      },
+      {
+        "prediction": "crocodile",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9229615330696106,
+        "novelty_score": 0.6906828880310059,
+        "escalated": false,
+        "classifier_ms": 3.3424000002924004,
+        "preprocess_ms": 9.35360000039509,
+        "qwen_ms": 1509.7814999999173,
+        "feature_ms": 311.3979999998264,
+        "ammonix_ms": 314.7404000001188,
+        "traditional_ms": 1509.7814999999173,
+        "traditional_answer": "The animal shown is a crocodile, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a crocodile, which is a reptile."
+      }
+    ]
+  },
+  {
+    "id": "inat-684792955",
+    "trials": [
+      {
+        "prediction": "lizard",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.968906819820404,
+        "novelty_score": 0.6498376131057739,
+        "escalated": false,
+        "classifier_ms": 3.2578999998804647,
+        "preprocess_ms": 8.909500000299886,
+        "qwen_ms": 1625.9158000002571,
+        "feature_ms": 310.06929999966815,
+        "ammonix_ms": 313.3271999995486,
+        "traditional_ms": 1625.9158000002571,
+        "traditional_answer": "The animal shown is a green iguana, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 19,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a green iguana, which is a reptile."
+      },
+      {
+        "prediction": "lizard",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.968906819820404,
+        "novelty_score": 0.6498376131057739,
+        "escalated": false,
+        "classifier_ms": 3.3387000003131106,
+        "preprocess_ms": 8.958200000051875,
+        "qwen_ms": 1638.7410999996064,
+        "feature_ms": 318.6180000002423,
+        "ammonix_ms": 321.95670000055543,
+        "traditional_ms": 1638.7410999996064,
+        "traditional_answer": "The animal shown is a green iguana, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 19,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a green iguana, which is a reptile."
+      },
+      {
+        "prediction": "lizard",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.968906819820404,
+        "novelty_score": 0.6498376131057739,
+        "escalated": false,
+        "classifier_ms": 3.208000000086031,
+        "preprocess_ms": 8.733700000448152,
+        "qwen_ms": 1645.4297000000224,
+        "feature_ms": 322.27210000019113,
+        "ammonix_ms": 325.48010000027716,
+        "traditional_ms": 1645.4297000000224,
+        "traditional_answer": "The animal shown is a green iguana, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 19,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a green iguana, which is a reptile."
+      }
+    ]
+  },
+  {
+    "id": "inat-94184711",
+    "trials": [
+      {
+        "prediction": "zebra",
+        "gate": "MAMMALS",
+        "confidence": 0.9989544153213501,
+        "novelty_score": 0.9218695163726807,
+        "escalated": false,
+        "classifier_ms": 3.2860000001164735,
+        "preprocess_ms": 9.405200000401237,
+        "qwen_ms": 1562.0398999999452,
+        "feature_ms": 314.797300000464,
+        "ammonix_ms": 318.0833000005805,
+        "traditional_ms": 1562.0398999999452,
+        "traditional_answer": "The animal species shown is a zebra, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal species shown is a zebra, which is a mammal."
+      },
+      {
+        "prediction": "zebra",
+        "gate": "MAMMALS",
+        "confidence": 0.9989544153213501,
+        "novelty_score": 0.9218695163726807,
+        "escalated": false,
+        "classifier_ms": 3.4012000005532173,
+        "preprocess_ms": 9.252200000446464,
+        "qwen_ms": 1547.0737000005101,
+        "feature_ms": 314.81470000017,
+        "ammonix_ms": 318.2159000007232,
+        "traditional_ms": 1547.0737000005101,
+        "traditional_answer": "The animal species shown is a zebra, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal species shown is a zebra, which is a mammal."
+      },
+      {
+        "prediction": "zebra",
+        "gate": "MAMMALS",
+        "confidence": 0.9989544153213501,
+        "novelty_score": 0.9218695163726807,
+        "escalated": false,
+        "classifier_ms": 3.2691000005797832,
+        "preprocess_ms": 9.37290000001667,
+        "qwen_ms": 1570.994900000187,
+        "feature_ms": 318.9233000002787,
+        "ammonix_ms": 322.19240000085847,
+        "traditional_ms": 1570.994900000187,
+        "traditional_answer": "The animal species shown is a zebra, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal species shown is a zebra, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "151503586",
+    "trials": [
+      {
+        "prediction": "cat",
+        "gate": "MAMMALS",
+        "confidence": 0.9905214309692383,
+        "novelty_score": 0.8605853319168091,
+        "escalated": false,
+        "classifier_ms": 3.3085999994000304,
+        "preprocess_ms": 16.012899999623187,
+        "qwen_ms": 1419.3759999998292,
+        "feature_ms": 321.61489999998594,
+        "ammonix_ms": 324.92349999938597,
+        "traditional_ms": 1419.3759999998292,
+        "traditional_answer": "The animal shown is a cat, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a cat, which is a mammal."
+      },
+      {
+        "prediction": "cat",
+        "gate": "MAMMALS",
+        "confidence": 0.9905214309692383,
+        "novelty_score": 0.8605853319168091,
+        "escalated": false,
+        "classifier_ms": 3.228099999432743,
+        "preprocess_ms": 14.505900000585825,
+        "qwen_ms": 1417.9838000000018,
+        "feature_ms": 318.1915000004665,
+        "ammonix_ms": 321.4195999998992,
+        "traditional_ms": 1417.9838000000018,
+        "traditional_answer": "The animal shown is a cat, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a cat, which is a mammal."
+      },
+      {
+        "prediction": "cat",
+        "gate": "MAMMALS",
+        "confidence": 0.9905214309692383,
+        "novelty_score": 0.8605853319168091,
+        "escalated": false,
+        "classifier_ms": 3.370500000528409,
+        "preprocess_ms": 14.626199999838718,
+        "qwen_ms": 1458.767899999657,
+        "feature_ms": 323.5892000002423,
+        "ammonix_ms": 326.9597000007707,
+        "traditional_ms": 1458.767899999657,
+        "traditional_answer": "The animal shown is a cat, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a cat, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "inat-485980643",
+    "trials": [
+      {
+        "prediction": "bear",
+        "gate": "MAMMALS",
+        "confidence": 0.9986696243286133,
+        "novelty_score": 0.8326929807662964,
+        "escalated": false,
+        "classifier_ms": 4.35269999979937,
+        "preprocess_ms": 12.900900000204274,
+        "qwen_ms": 1575.0004999999874,
+        "feature_ms": 393.8386999998329,
+        "ammonix_ms": 398.19139999963227,
+        "traditional_ms": 1575.0004999999874,
+        "traditional_answer": "The animal shown is a polar bear, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a polar bear, which is a mammal."
+      },
+      {
+        "prediction": "bear",
+        "gate": "MAMMALS",
+        "confidence": 0.9986696243286133,
+        "novelty_score": 0.8326929807662964,
+        "escalated": false,
+        "classifier_ms": 4.256199999872479,
+        "preprocess_ms": 11.599699999351287,
+        "qwen_ms": 1591.5850000001228,
+        "feature_ms": 379.54069999977946,
+        "ammonix_ms": 383.79689999965194,
+        "traditional_ms": 1591.5850000001228,
+        "traditional_answer": "The animal shown is a polar bear, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a polar bear, which is a mammal."
+      },
+      {
+        "prediction": "bear",
+        "gate": "MAMMALS",
+        "confidence": 0.9986696243286133,
+        "novelty_score": 0.8326929807662964,
+        "escalated": false,
+        "classifier_ms": 3.3368000003974885,
+        "preprocess_ms": 9.409000000232481,
+        "qwen_ms": 1566.9547000006787,
+        "feature_ms": 324.76130000031844,
+        "ammonix_ms": 328.09810000071593,
+        "traditional_ms": 1566.9547000006787,
+        "traditional_answer": "The animal shown is a polar bear, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a polar bear, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "49212434",
+    "trials": [
+      {
+        "prediction": "lion",
+        "gate": "MAMMALS",
+        "confidence": 0.999107301235199,
+        "novelty_score": 0.8781791925430298,
+        "escalated": false,
+        "classifier_ms": 3.3272000000579283,
+        "preprocess_ms": 14.23389999945357,
+        "qwen_ms": 1419.6246999999858,
+        "feature_ms": 326.6081000001577,
+        "ammonix_ms": 329.93530000021565,
+        "traditional_ms": 1419.6246999999858,
+        "traditional_answer": "The animal shown is a lion, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a lion, which is a mammal."
+      },
+      {
+        "prediction": "lion",
+        "gate": "MAMMALS",
+        "confidence": 0.999107301235199,
+        "novelty_score": 0.8781791925430298,
+        "escalated": false,
+        "classifier_ms": 3.261400000155845,
+        "preprocess_ms": 13.755899999523535,
+        "qwen_ms": 1410.658599999806,
+        "feature_ms": 321.5072999992117,
+        "ammonix_ms": 324.7686999993675,
+        "traditional_ms": 1410.658599999806,
+        "traditional_answer": "The animal shown is a lion, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a lion, which is a mammal."
+      },
+      {
+        "prediction": "lion",
+        "gate": "MAMMALS",
+        "confidence": 0.999107301235199,
+        "novelty_score": 0.8781791925430298,
+        "escalated": false,
+        "classifier_ms": 3.2450999997308827,
+        "preprocess_ms": 14.020400000845257,
+        "qwen_ms": 1430.3735999992568,
+        "feature_ms": 320.9857000001648,
+        "ammonix_ms": 324.2307999998957,
+        "traditional_ms": 1430.3735999992568,
+        "traditional_answer": "The animal shown is a lion, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a lion, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "inat-60565921",
+    "trials": [
+      {
+        "prediction": "turtle",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9988816380500793,
+        "novelty_score": 0.8114055395126343,
+        "escalated": false,
+        "classifier_ms": 4.145900000366964,
+        "preprocess_ms": 9.544499999719847,
+        "qwen_ms": 1530.1783000004434,
+        "feature_ms": 367.36259999997856,
+        "ammonix_ms": 371.5085000003455,
+        "traditional_ms": 1530.1783000004434,
+        "traditional_answer": "The animal shown is a box turtle, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a box turtle, which is a reptile."
+      },
+      {
+        "prediction": "turtle",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9988816380500793,
+        "novelty_score": 0.8114055395126343,
+        "escalated": false,
+        "classifier_ms": 4.2192000000795815,
+        "preprocess_ms": 11.261900000135938,
+        "qwen_ms": 1582.0393000003605,
+        "feature_ms": 373.75880000035977,
+        "ammonix_ms": 377.97800000043935,
+        "traditional_ms": 1582.0393000003605,
+        "traditional_answer": "The animal shown is a box turtle, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a box turtle, which is a reptile."
+      },
+      {
+        "prediction": "turtle",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9988816380500793,
+        "novelty_score": 0.8114055395126343,
+        "escalated": false,
+        "classifier_ms": 4.271400000106951,
+        "preprocess_ms": 9.009299999888754,
+        "qwen_ms": 1565.6668000001446,
+        "feature_ms": 360.57049999999435,
+        "ammonix_ms": 364.8419000001013,
+        "traditional_ms": 1565.6668000001446,
+        "traditional_answer": "The animal shown is a box turtle, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a box turtle, which is a reptile."
+      }
+    ]
+  },
+  {
+    "id": "131422822",
+    "trials": [
+      {
+        "prediction": "horse",
+        "gate": "MAMMALS",
+        "confidence": 0.9987381100654602,
+        "novelty_score": 0.8882660269737244,
+        "escalated": false,
+        "classifier_ms": 4.167799999777344,
+        "preprocess_ms": 15.818099999705737,
+        "qwen_ms": 1213.9322000002721,
+        "feature_ms": 370.81510000007256,
+        "ammonix_ms": 374.9828999998499,
+        "traditional_ms": 1213.9322000002721,
+        "traditional_answer": "The image shows horses, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 12,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The image shows horses, which are mammals."
+      },
+      {
+        "prediction": "horse",
+        "gate": "MAMMALS",
+        "confidence": 0.9987381100654602,
+        "novelty_score": 0.8882660269737244,
+        "escalated": false,
+        "classifier_ms": 4.195399999844085,
+        "preprocess_ms": 14.449400000557944,
+        "qwen_ms": 1237.8834000001007,
+        "feature_ms": 383.4677000004376,
+        "ammonix_ms": 387.6631000002817,
+        "traditional_ms": 1237.8834000001007,
+        "traditional_answer": "The image shows horses, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 12,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The image shows horses, which are mammals."
+      },
+      {
+        "prediction": "horse",
+        "gate": "MAMMALS",
+        "confidence": 0.9987381100654602,
+        "novelty_score": 0.8882660269737244,
+        "escalated": false,
+        "classifier_ms": 4.262199999175209,
+        "preprocess_ms": 16.1764000004041,
+        "qwen_ms": 1235.2293000003556,
+        "feature_ms": 387.2258999999758,
+        "ammonix_ms": 391.488099999151,
+        "traditional_ms": 1235.2293000003556,
+        "traditional_answer": "The image shows horses, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 12,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The image shows horses, which are mammals."
+      }
+    ]
+  },
+  {
+    "id": "110364679",
+    "trials": [
+      {
+        "prediction": "pig",
+        "gate": "MAMMALS",
+        "confidence": 0.9984502792358398,
+        "novelty_score": 0.8523202538490295,
+        "escalated": false,
+        "classifier_ms": 4.193900000245776,
+        "preprocess_ms": 16.29750000029162,
+        "qwen_ms": 1284.9538000000393,
+        "feature_ms": 382.024000000456,
+        "ammonix_ms": 386.2179000007018,
+        "traditional_ms": 1284.9538000000393,
+        "traditional_answer": "The animals shown are pigs, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 13,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animals shown are pigs, which are mammals."
+      },
+      {
+        "prediction": "pig",
+        "gate": "MAMMALS",
+        "confidence": 0.9984502792358398,
+        "novelty_score": 0.8523202538490295,
+        "escalated": false,
+        "classifier_ms": 4.218799999762268,
+        "preprocess_ms": 17.340499999590975,
+        "qwen_ms": 1298.1872999998814,
+        "feature_ms": 377.1473999995578,
+        "ammonix_ms": 381.3661999993201,
+        "traditional_ms": 1298.1872999998814,
+        "traditional_answer": "The animals shown are pigs, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 13,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animals shown are pigs, which are mammals."
+      },
+      {
+        "prediction": "pig",
+        "gate": "MAMMALS",
+        "confidence": 0.9984502792358398,
+        "novelty_score": 0.8523202538490295,
+        "escalated": false,
+        "classifier_ms": 4.180300000371062,
+        "preprocess_ms": 14.799500000663102,
+        "qwen_ms": 1270.5054000007294,
+        "feature_ms": 371.1958000003506,
+        "ammonix_ms": 375.37610000072164,
+        "traditional_ms": 1270.5054000007294,
+        "traditional_answer": "The animals shown are pigs, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 13,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animals shown are pigs, which are mammals."
+      }
+    ]
+  },
+  {
+    "id": "inat-154330958",
+    "trials": [
+      {
+        "prediction": "bee",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9939077496528625,
+        "novelty_score": 0.6664389371871948,
+        "escalated": false,
+        "classifier_ms": 4.058399999848916,
+        "preprocess_ms": 13.244099999610626,
+        "qwen_ms": 1592.4533999996129,
+        "feature_ms": 404.42499999971915,
+        "ammonix_ms": 408.48339999956806,
+        "traditional_ms": 1592.4533999996129,
+        "traditional_answer": "The animal shown is a bee, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a bee, which is an arthropod."
+      },
+      {
+        "prediction": "bee",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9939077496528625,
+        "novelty_score": 0.6664389371871948,
+        "escalated": false,
+        "classifier_ms": 4.127899999730289,
+        "preprocess_ms": 10.521500000322703,
+        "qwen_ms": 1571.140000000014,
+        "feature_ms": 362.6666000000114,
+        "ammonix_ms": 366.7944999997417,
+        "traditional_ms": 1571.140000000014,
+        "traditional_answer": "The animal shown is a bee, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a bee, which is an arthropod."
+      },
+      {
+        "prediction": "bee",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9939077496528625,
+        "novelty_score": 0.6664389371871948,
+        "escalated": false,
+        "classifier_ms": 4.004299999905925,
+        "preprocess_ms": 12.361899999632442,
+        "qwen_ms": 1571.3405000005878,
+        "feature_ms": 373.2344000000012,
+        "ammonix_ms": 377.2386999999071,
+        "traditional_ms": 1571.3405000005878,
+        "traditional_answer": "The animal shown is a bee, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a bee, which is an arthropod."
+      }
+    ]
+  },
+  {
+    "id": "inat-327299656",
+    "trials": [
+      {
+        "prediction": "ant",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9932627081871033,
+        "novelty_score": 0.7915161848068237,
+        "escalated": false,
+        "classifier_ms": 4.105400000298687,
+        "preprocess_ms": 9.68280000051891,
+        "qwen_ms": 1625.2588999996078,
+        "feature_ms": 366.71879999994417,
+        "ammonix_ms": 370.82420000024285,
+        "traditional_ms": 1625.2588999996078,
+        "traditional_answer": "The animal shown is an ant, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is an ant, which is an arthropod."
+      },
+      {
+        "prediction": "ant",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9932627081871033,
+        "novelty_score": 0.7915161848068237,
+        "escalated": false,
+        "classifier_ms": 3.2714999997551786,
+        "preprocess_ms": 11.416700000154378,
+        "qwen_ms": 1539.501399999608,
+        "feature_ms": 373.25009999949543,
+        "ammonix_ms": 376.5215999992506,
+        "traditional_ms": 1539.501399999608,
+        "traditional_answer": "The animal shown is an ant, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is an ant, which is an arthropod."
+      },
+      {
+        "prediction": "ant",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9932627081871033,
+        "novelty_score": 0.7915161848068237,
+        "escalated": false,
+        "classifier_ms": 4.146300000684278,
+        "preprocess_ms": 9.058099999492697,
+        "qwen_ms": 1564.4389999997657,
+        "feature_ms": 362.6390999997966,
+        "ammonix_ms": 366.7854000004809,
+        "traditional_ms": 1564.4389999997657,
+        "traditional_answer": "The animal shown is an ant, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is an ant, which is an arthropod."
+      }
+    ]
+  },
+  {
+    "id": "inat-431626632",
+    "trials": [
+      {
+        "prediction": "ostrich",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9989317059516907,
+        "novelty_score": 0.9723777174949646,
+        "escalated": false,
+        "classifier_ms": 4.137500000069849,
+        "preprocess_ms": 12.337099999967904,
+        "qwen_ms": 1474.181999999928,
+        "feature_ms": 373.07590000000346,
+        "ammonix_ms": 377.2134000000733,
+        "traditional_ms": 1474.181999999928,
+        "traditional_answer": "The animal shown is an ostrich, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is an ostrich, which is a bird."
+      },
+      {
+        "prediction": "ostrich",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9989317059516907,
+        "novelty_score": 0.9723777174949646,
+        "escalated": false,
+        "classifier_ms": 4.284800000277755,
+        "preprocess_ms": 9.374800000841788,
+        "qwen_ms": 1485.5367000000115,
+        "feature_ms": 364.52230000031705,
+        "ammonix_ms": 368.8071000005948,
+        "traditional_ms": 1485.5367000000115,
+        "traditional_answer": "The animal shown is an ostrich, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is an ostrich, which is a bird."
+      },
+      {
+        "prediction": "ostrich",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9989317059516907,
+        "novelty_score": 0.9723777174949646,
+        "escalated": false,
+        "classifier_ms": 4.245000000082655,
+        "preprocess_ms": 11.521800000082294,
+        "qwen_ms": 1505.4830999997648,
+        "feature_ms": 374.36629999956494,
+        "ammonix_ms": 378.6112999996476,
+        "traditional_ms": 1505.4830999997648,
+        "traditional_answer": "The animal shown is an ostrich, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is an ostrich, which is a bird."
+      }
+    ]
+  },
+  {
+    "id": "inat-715688764",
+    "trials": [
+      {
+        "prediction": "giraffe",
+        "gate": "MAMMALS",
+        "confidence": 0.9993675351142883,
+        "novelty_score": 0.9443007707595825,
+        "escalated": false,
+        "classifier_ms": 4.011299999547191,
+        "preprocess_ms": 8.854599999722268,
+        "qwen_ms": 1581.1257000004844,
+        "feature_ms": 362.54600000029313,
+        "ammonix_ms": 366.5572999998403,
+        "traditional_ms": 1581.1257000004844,
+        "traditional_answer": "The animal shown is a giraffe, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a giraffe, which is a mammal."
+      },
+      {
+        "prediction": "giraffe",
+        "gate": "MAMMALS",
+        "confidence": 0.9993675351142883,
+        "novelty_score": 0.9443007707595825,
+        "escalated": false,
+        "classifier_ms": 4.057600000123784,
+        "preprocess_ms": 10.844700000234297,
+        "qwen_ms": 1572.0218999995268,
+        "feature_ms": 367.164799999955,
+        "ammonix_ms": 371.2224000000788,
+        "traditional_ms": 1572.0218999995268,
+        "traditional_answer": "The animal shown is a giraffe, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a giraffe, which is a mammal."
+      },
+      {
+        "prediction": "giraffe",
+        "gate": "MAMMALS",
+        "confidence": 0.9993675351142883,
+        "novelty_score": 0.9443007707595825,
+        "escalated": false,
+        "classifier_ms": 4.181799999969371,
+        "preprocess_ms": 9.05389999934414,
+        "qwen_ms": 1556.5108000000691,
+        "feature_ms": 362.7498999994714,
+        "ammonix_ms": 366.93169999944075,
+        "traditional_ms": 1556.5108000000691,
+        "traditional_answer": "The animal shown is a giraffe, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a giraffe, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "inat-28719064",
+    "trials": [
+      {
+        "prediction": "snake",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9895665645599365,
+        "novelty_score": 0.5527400374412537,
+        "escalated": false,
+        "classifier_ms": 4.074599999512429,
+        "preprocess_ms": 12.376399999993737,
+        "qwen_ms": 1636.270400000285,
+        "feature_ms": 370.39609999919776,
+        "ammonix_ms": 374.4706999987102,
+        "traditional_ms": 1636.270400000285,
+        "traditional_answer": "The animal shown is a green tree python, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a green tree python, which is a reptile."
+      },
+      {
+        "prediction": "snake",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9895665645599365,
+        "novelty_score": 0.5527400374412537,
+        "escalated": false,
+        "classifier_ms": 4.181000000244239,
+        "preprocess_ms": 9.879299999738578,
+        "qwen_ms": 1627.8105000001233,
+        "feature_ms": 361.90669999996317,
+        "ammonix_ms": 366.0877000002074,
+        "traditional_ms": 1627.8105000001233,
+        "traditional_answer": "The animal shown is a green tree python, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a green tree python, which is a reptile."
+      },
+      {
+        "prediction": "snake",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9895665645599365,
+        "novelty_score": 0.5527400374412537,
+        "escalated": false,
+        "classifier_ms": 4.16640000003099,
+        "preprocess_ms": 11.437099999966449,
+        "qwen_ms": 1666.6543999999703,
+        "feature_ms": 370.0703999993493,
+        "ammonix_ms": 374.2367999993803,
+        "traditional_ms": 1666.6543999999703,
+        "traditional_answer": "The animal shown is a green tree python, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a green tree python, which is a reptile."
+      }
+    ]
+  },
+  {
+    "id": "inat-2421674",
+    "trials": [
+      {
+        "prediction": "butterfly",
+        "gate": "ARTHROPODS",
+        "confidence": 0.682020902633667,
+        "novelty_score": 0.480063796043396,
+        "escalated": false,
+        "classifier_ms": 4.424800000379037,
+        "preprocess_ms": 8.687100000315695,
+        "qwen_ms": 1633.2027000007656,
+        "feature_ms": 362.5795999996626,
+        "ammonix_ms": 367.00440000004164,
+        "traditional_ms": 1633.2027000007656,
+        "traditional_answer": "The animal shown is a dragonfly, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a dragonfly, which is an arthropod."
+      },
+      {
+        "prediction": "butterfly",
+        "gate": "ARTHROPODS",
+        "confidence": 0.682020902633667,
+        "novelty_score": 0.480063796043396,
+        "escalated": false,
+        "classifier_ms": 4.161800000474614,
+        "preprocess_ms": 10.540799999944284,
+        "qwen_ms": 1644.6959000004426,
+        "feature_ms": 367.71239999961836,
+        "ammonix_ms": 371.87420000009297,
+        "traditional_ms": 1644.6959000004426,
+        "traditional_answer": "The animal shown is a dragonfly, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a dragonfly, which is an arthropod."
+      },
+      {
+        "prediction": "butterfly",
+        "gate": "ARTHROPODS",
+        "confidence": 0.682020902633667,
+        "novelty_score": 0.480063796043396,
+        "escalated": false,
+        "classifier_ms": 4.127199999857112,
+        "preprocess_ms": 8.843900000101712,
+        "qwen_ms": 1625.6530000000566,
+        "feature_ms": 359.8808000006102,
+        "ammonix_ms": 364.0080000004673,
+        "traditional_ms": 1625.6530000000566,
+        "traditional_answer": "The animal shown is a dragonfly, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a dragonfly, which is an arthropod."
+      }
+    ]
+  },
+  {
+    "id": "132512172",
+    "trials": [
+      {
+        "prediction": "rabbit",
+        "gate": "MAMMALS",
+        "confidence": 0.9978311657905579,
+        "novelty_score": 0.8795400261878967,
+        "escalated": false,
+        "classifier_ms": 4.232799999954295,
+        "preprocess_ms": 19.518699999935052,
+        "qwen_ms": 1496.3882000001831,
+        "feature_ms": 382.0810999995956,
+        "ammonix_ms": 386.3138999995499,
+        "traditional_ms": 1496.3882000001831,
+        "traditional_answer": "The animal shown is a rabbit, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a rabbit, which is a mammal."
+      },
+      {
+        "prediction": "rabbit",
+        "gate": "MAMMALS",
+        "confidence": 0.9978311657905579,
+        "novelty_score": 0.8795400261878967,
+        "escalated": false,
+        "classifier_ms": 4.133200000069337,
+        "preprocess_ms": 15.40019999993092,
+        "qwen_ms": 1428.6129000001893,
+        "feature_ms": 368.2315000005474,
+        "ammonix_ms": 372.3647000006167,
+        "traditional_ms": 1428.6129000001893,
+        "traditional_answer": "The animal shown is a rabbit, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a rabbit, which is a mammal."
+      },
+      {
+        "prediction": "rabbit",
+        "gate": "MAMMALS",
+        "confidence": 0.9978311657905579,
+        "novelty_score": 0.8795400261878967,
+        "escalated": false,
+        "classifier_ms": 4.309500000090338,
+        "preprocess_ms": 17.80579999922338,
+        "qwen_ms": 1535.4949000002307,
+        "feature_ms": 377.81399999948917,
+        "ammonix_ms": 382.1234999995795,
+        "traditional_ms": 1535.4949000002307,
+        "traditional_answer": "The animal shown is a rabbit, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a rabbit, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "inat-426780572",
+    "trials": [
+      {
+        "prediction": "turtle",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9965644478797913,
+        "novelty_score": 0.7911794185638428,
+        "escalated": false,
+        "classifier_ms": 4.12510000023758,
+        "preprocess_ms": 9.381200000461831,
+        "qwen_ms": 1497.2639999996318,
+        "feature_ms": 367.5760000005539,
+        "ammonix_ms": 371.7011000007915,
+        "traditional_ms": 1497.2639999996318,
+        "traditional_answer": "The animal shown is a turtle, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a turtle, which is a reptile."
+      },
+      {
+        "prediction": "turtle",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9965644478797913,
+        "novelty_score": 0.7911794185638428,
+        "escalated": false,
+        "classifier_ms": 4.108399999495305,
+        "preprocess_ms": 11.427399999774934,
+        "qwen_ms": 1492.944699999498,
+        "feature_ms": 367.98559999988356,
+        "ammonix_ms": 372.09399999937887,
+        "traditional_ms": 1492.944699999498,
+        "traditional_answer": "The animal shown is a turtle, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a turtle, which is a reptile."
+      },
+      {
+        "prediction": "turtle",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9965644478797913,
+        "novelty_score": 0.7911794185638428,
+        "escalated": false,
+        "classifier_ms": 4.1775999998208135,
+        "preprocess_ms": 9.871299999758776,
+        "qwen_ms": 1482.8176000000894,
+        "feature_ms": 362.7483999998731,
+        "ammonix_ms": 366.9259999996939,
+        "traditional_ms": 1482.8176000000894,
+        "traditional_answer": "The animal shown is a turtle, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a turtle, which is a reptile."
+      }
+    ]
+  },
+  {
+    "id": "141562823",
+    "trials": [
+      {
+        "prediction": "cat",
+        "gate": "MAMMALS",
+        "confidence": 0.9985944628715515,
+        "novelty_score": 0.8585518598556519,
+        "escalated": false,
+        "classifier_ms": 4.115999999157793,
+        "preprocess_ms": 22.086899999521847,
+        "qwen_ms": 1505.1345000001675,
+        "feature_ms": 378.7656999993487,
+        "ammonix_ms": 382.8816999985065,
+        "traditional_ms": 1505.1345000001675,
+        "traditional_answer": "The animal shown is a cat, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a cat, which is a mammal."
+      },
+      {
+        "prediction": "cat",
+        "gate": "MAMMALS",
+        "confidence": 0.9985944628715515,
+        "novelty_score": 0.8585518598556519,
+        "escalated": false,
+        "classifier_ms": 4.357400000117195,
+        "preprocess_ms": 17.162899999675574,
+        "qwen_ms": 1493.9033999999083,
+        "feature_ms": 368.5916000003999,
+        "ammonix_ms": 372.9490000005171,
+        "traditional_ms": 1493.9033999999083,
+        "traditional_answer": "The animal shown is a cat, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a cat, which is a mammal."
+      },
+      {
+        "prediction": "cat",
+        "gate": "MAMMALS",
+        "confidence": 0.9985944628715515,
+        "novelty_score": 0.8585518598556519,
+        "escalated": false,
+        "classifier_ms": 4.07329999961803,
+        "preprocess_ms": 20.022400000016205,
+        "qwen_ms": 1504.7328000000562,
+        "feature_ms": 376.80940000063856,
+        "ammonix_ms": 380.8827000002566,
+        "traditional_ms": 1504.7328000000562,
+        "traditional_answer": "The animal shown is a cat, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a cat, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "123631596",
+    "trials": [
+      {
+        "prediction": "bear",
+        "gate": "MAMMALS",
+        "confidence": 0.9991974234580994,
+        "novelty_score": 0.8892604112625122,
+        "escalated": false,
+        "classifier_ms": 4.265500000656175,
+        "preprocess_ms": 14.13200000024517,
+        "qwen_ms": 1563.9983000000939,
+        "feature_ms": 367.0508000004702,
+        "ammonix_ms": 371.31630000112636,
+        "traditional_ms": 1563.9983000000939,
+        "traditional_answer": "The animal shown is a brown bear, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a brown bear, which is a mammal."
+      },
+      {
+        "prediction": "bear",
+        "gate": "MAMMALS",
+        "confidence": 0.9991974234580994,
+        "novelty_score": 0.8892604112625122,
+        "escalated": false,
+        "classifier_ms": 4.1614000001573,
+        "preprocess_ms": 16.44899999973859,
+        "qwen_ms": 1568.7828000000081,
+        "feature_ms": 372.7003000003606,
+        "ammonix_ms": 376.8617000005179,
+        "traditional_ms": 1568.7828000000081,
+        "traditional_answer": "The animal shown is a brown bear, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a brown bear, which is a mammal."
+      },
+      {
+        "prediction": "bear",
+        "gate": "MAMMALS",
+        "confidence": 0.9991974234580994,
+        "novelty_score": 0.8892604112625122,
+        "escalated": false,
+        "classifier_ms": 4.102400000192574,
+        "preprocess_ms": 14.240600000448467,
+        "qwen_ms": 1560.599700000239,
+        "feature_ms": 367.4661000004562,
+        "ammonix_ms": 371.5685000006488,
+        "traditional_ms": 1560.599700000239,
+        "traditional_answer": "The animal shown is a brown bear, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a brown bear, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "inat-314355873",
+    "trials": [
+      {
+        "prediction": "flamingo",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.998481810092926,
+        "novelty_score": 0.8642452359199524,
+        "escalated": false,
+        "classifier_ms": 4.122000000279513,
+        "preprocess_ms": 11.43339999998716,
+        "qwen_ms": 1495.2249999996639,
+        "feature_ms": 368.8721999997142,
+        "ammonix_ms": 372.9941999999937,
+        "traditional_ms": 1495.2249999996639,
+        "traditional_answer": "The animal shown is a flamingo, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a flamingo, which is a bird."
+      },
+      {
+        "prediction": "flamingo",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.998481810092926,
+        "novelty_score": 0.8642452359199524,
+        "escalated": false,
+        "classifier_ms": 4.1998999995485065,
+        "preprocess_ms": 8.690000000569853,
+        "qwen_ms": 1489.7961000006035,
+        "feature_ms": 361.2898999999743,
+        "ammonix_ms": 365.4897999995228,
+        "traditional_ms": 1489.7961000006035,
+        "traditional_answer": "The animal shown is a flamingo, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a flamingo, which is a bird."
+      },
+      {
+        "prediction": "flamingo",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.998481810092926,
+        "novelty_score": 0.8642452359199524,
+        "escalated": false,
+        "classifier_ms": 4.1412999999010935,
+        "preprocess_ms": 10.570800000095915,
+        "qwen_ms": 1489.9757000002865,
+        "feature_ms": 369.6023000002242,
+        "ammonix_ms": 373.7436000001253,
+        "traditional_ms": 1489.9757000002865,
+        "traditional_answer": "The animal shown is a flamingo, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a flamingo, which is a bird."
+      }
+    ]
+  },
+  {
+    "id": "inat-250365683",
+    "trials": [
+      {
+        "prediction": "eagle",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9991008043289185,
+        "novelty_score": 0.9316231608390808,
+        "escalated": false,
+        "classifier_ms": 4.0815999991536955,
+        "preprocess_ms": 8.876300000338233,
+        "qwen_ms": 1413.610300000073,
+        "feature_ms": 360.53629999969417,
+        "ammonix_ms": 364.61789999884786,
+        "traditional_ms": 1413.610300000073,
+        "traditional_answer": "The animal shown is a bird, specifically a golden eagle.",
+        "traditional_completion": {
+          "generated_tokens": 15,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a bird, specifically a golden eagle."
+      },
+      {
+        "prediction": "eagle",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9991008043289185,
+        "novelty_score": 0.9316231608390808,
+        "escalated": false,
+        "classifier_ms": 4.183799999736948,
+        "preprocess_ms": 10.726499999691441,
+        "qwen_ms": 1410.6657000002087,
+        "feature_ms": 376.2409999999363,
+        "ammonix_ms": 380.42479999967327,
+        "traditional_ms": 1410.6657000002087,
+        "traditional_answer": "The animal shown is a bird, specifically a golden eagle.",
+        "traditional_completion": {
+          "generated_tokens": 15,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a bird, specifically a golden eagle."
+      },
+      {
+        "prediction": "eagle",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9991008043289185,
+        "novelty_score": 0.9316231608390808,
+        "escalated": false,
+        "classifier_ms": 4.083599999830767,
+        "preprocess_ms": 9.068200000001525,
+        "qwen_ms": 1429.0055999999822,
+        "feature_ms": 363.003800000115,
+        "ammonix_ms": 367.0873999999458,
+        "traditional_ms": 1429.0055999999822,
+        "traditional_answer": "The animal shown is a bird, specifically a golden eagle.",
+        "traditional_completion": {
+          "generated_tokens": 15,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a bird, specifically a golden eagle."
+      }
+    ]
+  },
+  {
+    "id": "95803124",
+    "trials": [
+      {
+        "prediction": "lion",
+        "gate": "MAMMALS",
+        "confidence": 0.9989769458770752,
+        "novelty_score": 0.9233361482620239,
+        "escalated": false,
+        "classifier_ms": 4.11069999972824,
+        "preprocess_ms": 20.24740000069869,
+        "qwen_ms": 1498.5275999997612,
+        "feature_ms": 378.42490000002726,
+        "ammonix_ms": 382.5355999997555,
+        "traditional_ms": 1498.5275999997612,
+        "traditional_answer": "The animal shown is a lion, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a lion, which is a mammal."
+      },
+      {
+        "prediction": "lion",
+        "gate": "MAMMALS",
+        "confidence": 0.9989769458770752,
+        "novelty_score": 0.9233361482620239,
+        "escalated": false,
+        "classifier_ms": 4.138999999668158,
+        "preprocess_ms": 15.903399999842804,
+        "qwen_ms": 1497.8916000000027,
+        "feature_ms": 369.80469999980414,
+        "ammonix_ms": 373.9436999994723,
+        "traditional_ms": 1497.8916000000027,
+        "traditional_answer": "The animal shown is a lion, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a lion, which is a mammal."
+      },
+      {
+        "prediction": "lion",
+        "gate": "MAMMALS",
+        "confidence": 0.9989769458770752,
+        "novelty_score": 0.9233361482620239,
+        "escalated": false,
+        "classifier_ms": 4.040000000713917,
+        "preprocess_ms": 18.38950000001205,
+        "qwen_ms": 1585.457399999541,
+        "feature_ms": 374.2754999993849,
+        "ammonix_ms": 378.31550000009884,
+        "traditional_ms": 1585.457399999541,
+        "traditional_answer": "The animal shown is a lion, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a lion, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "12103261",
+    "trials": [
+      {
+        "prediction": "elephant",
+        "gate": "MAMMALS",
+        "confidence": 0.9944853186607361,
+        "novelty_score": 0.7778195142745972,
+        "escalated": false,
+        "classifier_ms": 4.1466000002401415,
+        "preprocess_ms": 13.731099999858998,
+        "qwen_ms": 1598.329399999784,
+        "feature_ms": 365.0364000004629,
+        "ammonix_ms": 369.18300000070303,
+        "traditional_ms": 1598.329399999784,
+        "traditional_answer": "The animal shown is an elephant, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is an elephant, which is a mammal."
+      },
+      {
+        "prediction": "elephant",
+        "gate": "MAMMALS",
+        "confidence": 0.9944853186607361,
+        "novelty_score": 0.7778195142745972,
+        "escalated": false,
+        "classifier_ms": 4.158599999755097,
+        "preprocess_ms": 16.218400000070687,
+        "qwen_ms": 1497.8406999998697,
+        "feature_ms": 372.3632000001089,
+        "ammonix_ms": 376.521799999864,
+        "traditional_ms": 1497.8406999998697,
+        "traditional_answer": "The animal shown is an elephant, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is an elephant, which is a mammal."
+      },
+      {
+        "prediction": "elephant",
+        "gate": "MAMMALS",
+        "confidence": 0.9944853186607361,
+        "novelty_score": 0.7778195142745972,
+        "escalated": false,
+        "classifier_ms": 4.176200000074459,
+        "preprocess_ms": 13.828400000420515,
+        "qwen_ms": 1498.9327000002959,
+        "feature_ms": 367.43640000076994,
+        "ammonix_ms": 371.6126000008444,
+        "traditional_ms": 1498.9327000002959,
+        "traditional_answer": "The animal shown is an elephant, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is an elephant, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "inat-67828767",
+    "trials": [
+      {
+        "prediction": "flamingo",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9990233182907104,
+        "novelty_score": 0.9147090315818787,
+        "escalated": false,
+        "classifier_ms": 4.258899999513233,
+        "preprocess_ms": 12.394700000186276,
+        "qwen_ms": 1491.8786999996883,
+        "feature_ms": 388.16049999968527,
+        "ammonix_ms": 392.4193999991985,
+        "traditional_ms": 1491.8786999996883,
+        "traditional_answer": "The animal shown is a flamingo, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a flamingo, which is a bird."
+      },
+      {
+        "prediction": "flamingo",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9990233182907104,
+        "novelty_score": 0.9147090315818787,
+        "escalated": false,
+        "classifier_ms": 4.1608999999880325,
+        "preprocess_ms": 9.431299999960174,
+        "qwen_ms": 1488.382300000012,
+        "feature_ms": 361.79660000016156,
+        "ammonix_ms": 365.9575000001496,
+        "traditional_ms": 1488.382300000012,
+        "traditional_answer": "The animal shown is a flamingo, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a flamingo, which is a bird."
+      },
+      {
+        "prediction": "flamingo",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9990233182907104,
+        "novelty_score": 0.9147090315818787,
+        "escalated": false,
+        "classifier_ms": 4.208999999718799,
+        "preprocess_ms": 11.319799999910174,
+        "qwen_ms": 1505.4616000006718,
+        "feature_ms": 366.59919999965496,
+        "ammonix_ms": 370.80819999937376,
+        "traditional_ms": 1505.4616000006718,
+        "traditional_answer": "The animal shown is a flamingo, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a flamingo, which is a bird."
+      }
+    ]
+  },
+  {
+    "id": "inat-537885725",
+    "trials": [
+      {
+        "prediction": "ant",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9978352189064026,
+        "novelty_score": 0.8233910799026489,
+        "escalated": false,
+        "classifier_ms": 4.246899999998277,
+        "preprocess_ms": 8.816300000034971,
+        "qwen_ms": 1564.5110999994358,
+        "feature_ms": 373.4115000006568,
+        "ammonix_ms": 377.6584000006551,
+        "traditional_ms": 1564.5110999994358,
+        "traditional_answer": "The animal shown is an ant, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is an ant, which is an arthropod."
+      },
+      {
+        "prediction": "ant",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9978352189064026,
+        "novelty_score": 0.8233910799026489,
+        "escalated": false,
+        "classifier_ms": 4.167299999608076,
+        "preprocess_ms": 11.163899999701243,
+        "qwen_ms": 1582.5877000006585,
+        "feature_ms": 368.31160000019736,
+        "ammonix_ms": 372.47889999980544,
+        "traditional_ms": 1582.5877000006585,
+        "traditional_answer": "The animal shown is an ant, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is an ant, which is an arthropod."
+      },
+      {
+        "prediction": "ant",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9978352189064026,
+        "novelty_score": 0.8233910799026489,
+        "escalated": false,
+        "classifier_ms": 4.214200000205892,
+        "preprocess_ms": 9.239199999683478,
+        "qwen_ms": 1560.522800000399,
+        "feature_ms": 364.02300000008836,
+        "ammonix_ms": 368.23720000029425,
+        "traditional_ms": 1560.522800000399,
+        "traditional_answer": "The animal shown is an ant, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is an ant, which is an arthropod."
+      }
+    ]
+  },
+  {
+    "id": "inat-352308304",
+    "trials": [
+      {
+        "prediction": "owl",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9917307496070862,
+        "novelty_score": 0.6757879257202148,
+        "escalated": false,
+        "classifier_ms": 4.296699999940756,
+        "preprocess_ms": 11.565699999664503,
+        "qwen_ms": 1352.335999999923,
+        "feature_ms": 373.60369999987597,
+        "ammonix_ms": 377.9003999998167,
+        "traditional_ms": 1352.335999999923,
+        "traditional_answer": "The animals shown are owls, which are birds.",
+        "traditional_completion": {
+          "generated_tokens": 14,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animals shown are owls, which are birds."
+      },
+      {
+        "prediction": "owl",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9917307496070862,
+        "novelty_score": 0.6757879257202148,
+        "escalated": false,
+        "classifier_ms": 4.036099999211729,
+        "preprocess_ms": 8.74999999996362,
+        "qwen_ms": 1343.2010999995327,
+        "feature_ms": 364.9856000001819,
+        "ammonix_ms": 369.0216999993936,
+        "traditional_ms": 1343.2010999995327,
+        "traditional_answer": "The animals shown are owls, which are birds.",
+        "traditional_completion": {
+          "generated_tokens": 14,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animals shown are owls, which are birds."
+      },
+      {
+        "prediction": "owl",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9917307496070862,
+        "novelty_score": 0.6757879257202148,
+        "escalated": false,
+        "classifier_ms": 4.4589999997697305,
+        "preprocess_ms": 11.085699999966891,
+        "qwen_ms": 1338.4501000000455,
+        "feature_ms": 370.0866000008318,
+        "ammonix_ms": 374.54560000060155,
+        "traditional_ms": 1338.4501000000455,
+        "traditional_answer": "The animals shown are owls, which are birds.",
+        "traditional_completion": {
+          "generated_tokens": 14,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animals shown are owls, which are birds."
+      }
+    ]
+  },
+  {
+    "id": "75068269",
+    "trials": [
+      {
+        "prediction": "dog",
+        "gate": "MAMMALS",
+        "confidence": 0.9563878774642944,
+        "novelty_score": 0.6038855910301208,
+        "escalated": false,
+        "classifier_ms": 4.136699999435223,
+        "preprocess_ms": 13.768800000434567,
+        "qwen_ms": 1715.6377999999677,
+        "feature_ms": 365.67009999998845,
+        "ammonix_ms": 369.8067999994237,
+        "traditional_ms": 1715.6377999999677,
+        "traditional_answer": "The animal shown is a Siberian Husky, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 19,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a Siberian Husky, which is a mammal."
+      },
+      {
+        "prediction": "dog",
+        "gate": "MAMMALS",
+        "confidence": 0.9563878774642944,
+        "novelty_score": 0.6038855910301208,
+        "escalated": false,
+        "classifier_ms": 4.25820000054955,
+        "preprocess_ms": 15.527300000030664,
+        "qwen_ms": 1728.5359000006792,
+        "feature_ms": 372.39229999977397,
+        "ammonix_ms": 376.6505000003235,
+        "traditional_ms": 1728.5359000006792,
+        "traditional_answer": "The animal shown is a Siberian Husky, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 19,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a Siberian Husky, which is a mammal."
+      },
+      {
+        "prediction": "dog",
+        "gate": "MAMMALS",
+        "confidence": 0.9563878774642944,
+        "novelty_score": 0.6038855910301208,
+        "escalated": false,
+        "classifier_ms": 4.26789999983157,
+        "preprocess_ms": 13.391600000431936,
+        "qwen_ms": 1762.881099999504,
+        "feature_ms": 368.5066000007282,
+        "ammonix_ms": 372.7745000005598,
+        "traditional_ms": 1762.881099999504,
+        "traditional_answer": "The animal shown is a Siberian Husky, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 19,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a Siberian Husky, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "35294317",
+    "trials": [
+      {
+        "prediction": "goat",
+        "gate": "MAMMALS",
+        "confidence": 0.9972972273826599,
+        "novelty_score": 0.799366295337677,
+        "escalated": false,
+        "classifier_ms": 4.166599999734899,
+        "preprocess_ms": 18.976700000166602,
+        "qwen_ms": 1272.5058000005447,
+        "feature_ms": 379.98330000027636,
+        "ammonix_ms": 384.14990000001126,
+        "traditional_ms": 1272.5058000005447,
+        "traditional_answer": "The animals shown are goats, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 13,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animals shown are goats, which are mammals."
+      },
+      {
+        "prediction": "goat",
+        "gate": "MAMMALS",
+        "confidence": 0.9972972273826599,
+        "novelty_score": 0.799366295337677,
+        "escalated": false,
+        "classifier_ms": 4.186200000731333,
+        "preprocess_ms": 14.767700000447803,
+        "qwen_ms": 1267.5805999997465,
+        "feature_ms": 369.20809999992343,
+        "ammonix_ms": 373.39430000065477,
+        "traditional_ms": 1267.5805999997465,
+        "traditional_answer": "The animals shown are goats, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 13,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animals shown are goats, which are mammals."
+      },
+      {
+        "prediction": "goat",
+        "gate": "MAMMALS",
+        "confidence": 0.9972972273826599,
+        "novelty_score": 0.799366295337677,
+        "escalated": false,
+        "classifier_ms": 4.227700000228651,
+        "preprocess_ms": 16.973200000393263,
+        "qwen_ms": 1274.084099999527,
+        "feature_ms": 373.546300000271,
+        "ammonix_ms": 377.77400000049965,
+        "traditional_ms": 1274.084099999527,
+        "traditional_answer": "The animals shown are goats, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 13,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animals shown are goats, which are mammals."
+      }
+    ]
+  },
+  {
+    "id": "inat-382627539",
+    "trials": [
+      {
+        "prediction": "butterfly",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9995478987693787,
+        "novelty_score": 0.7626038193702698,
+        "escalated": false,
+        "classifier_ms": 4.153300000325544,
+        "preprocess_ms": 9.562600000208477,
+        "qwen_ms": 1580.864499999734,
+        "feature_ms": 367.48500000066997,
+        "ammonix_ms": 371.6383000009955,
+        "traditional_ms": 1580.864499999734,
+        "traditional_answer": "The animal shown is a butterfly, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a butterfly, which is an arthropod."
+      },
+      {
+        "prediction": "butterfly",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9995478987693787,
+        "novelty_score": 0.7626038193702698,
+        "escalated": false,
+        "classifier_ms": 4.1258000001107575,
+        "preprocess_ms": 10.962199999994482,
+        "qwen_ms": 1611.7174000000887,
+        "feature_ms": 374.17699999969045,
+        "ammonix_ms": 378.3027999998012,
+        "traditional_ms": 1611.7174000000887,
+        "traditional_answer": "The animal shown is a butterfly, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a butterfly, which is an arthropod."
+      },
+      {
+        "prediction": "butterfly",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9995478987693787,
+        "novelty_score": 0.7626038193702698,
+        "escalated": false,
+        "classifier_ms": 4.295300000194402,
+        "preprocess_ms": 9.530700000141223,
+        "qwen_ms": 1607.7961000000869,
+        "feature_ms": 374.08940000022994,
+        "ammonix_ms": 378.38470000042435,
+        "traditional_ms": 1607.7961000000869,
+        "traditional_answer": "The animal shown is a butterfly, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a butterfly, which is an arthropod."
+      }
+    ]
+  },
+  {
+    "id": "117686683",
+    "trials": [
+      {
+        "prediction": "horse",
+        "gate": "MAMMALS",
+        "confidence": 0.9972579479217529,
+        "novelty_score": 0.8404776453971863,
+        "escalated": false,
+        "classifier_ms": 4.389900000205671,
+        "preprocess_ms": 17.589300000508956,
+        "qwen_ms": 1554.858299999978,
+        "feature_ms": 388.49320000008447,
+        "ammonix_ms": 392.88310000029014,
+        "traditional_ms": 1554.858299999978,
+        "traditional_answer": "The animal shown is a horse, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a horse, which is a mammal."
+      },
+      {
+        "prediction": "horse",
+        "gate": "MAMMALS",
+        "confidence": 0.9972579479217529,
+        "novelty_score": 0.8404776453971863,
+        "escalated": false,
+        "classifier_ms": 4.190200000266486,
+        "preprocess_ms": 15.121399999770802,
+        "qwen_ms": 1517.4235000004046,
+        "feature_ms": 368.8535999999658,
+        "ammonix_ms": 373.0438000002323,
+        "traditional_ms": 1517.4235000004046,
+        "traditional_answer": "The animal shown is a horse, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a horse, which is a mammal."
+      },
+      {
+        "prediction": "horse",
+        "gate": "MAMMALS",
+        "confidence": 0.9972579479217529,
+        "novelty_score": 0.8404776453971863,
+        "escalated": false,
+        "classifier_ms": 4.132299999582756,
+        "preprocess_ms": 17.264799999793468,
+        "qwen_ms": 1493.846499999563,
+        "feature_ms": 375.96510000003036,
+        "ammonix_ms": 380.0973999996131,
+        "traditional_ms": 1493.846499999563,
+        "traditional_answer": "The animal shown is a horse, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a horse, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "inat-61309091",
+    "trials": [
+      {
+        "prediction": "grasshopper",
+        "gate": "ARTHROPODS",
+        "confidence": 0.8144163489341736,
+        "novelty_score": 0.3638194799423218,
+        "escalated": false,
+        "classifier_ms": 4.3278999992253375,
+        "preprocess_ms": 9.62450000042736,
+        "qwen_ms": 1731.742199999644,
+        "feature_ms": 367.92960000002495,
+        "ammonix_ms": 372.2574999992503,
+        "traditional_ms": 1731.742199999644,
+        "traditional_answer": "The animal shown is a longhorn beetle, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 19,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a longhorn beetle, which is an arthropod."
+      },
+      {
+        "prediction": "grasshopper",
+        "gate": "ARTHROPODS",
+        "confidence": 0.8144163489341736,
+        "novelty_score": 0.3638194799423218,
+        "escalated": false,
+        "classifier_ms": 4.192499999589927,
+        "preprocess_ms": 11.612000000241096,
+        "qwen_ms": 1718.3826999998928,
+        "feature_ms": 370.5976000001101,
+        "ammonix_ms": 374.79009999970003,
+        "traditional_ms": 1718.3826999998928,
+        "traditional_answer": "The animal shown is a longhorn beetle, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 19,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a longhorn beetle, which is an arthropod."
+      },
+      {
+        "prediction": "grasshopper",
+        "gate": "ARTHROPODS",
+        "confidence": 0.8144163489341736,
+        "novelty_score": 0.3638194799423218,
+        "escalated": false,
+        "classifier_ms": 3.255200000239711,
+        "preprocess_ms": 9.12250000055792,
+        "qwen_ms": 1649.9179000002187,
+        "feature_ms": 325.2671000000191,
+        "ammonix_ms": 328.52230000025884,
+        "traditional_ms": 1649.9179000002187,
+        "traditional_answer": "The animal shown is a longhorn beetle, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 19,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a longhorn beetle, which is an arthropod."
+      }
+    ]
+  },
+  {
+    "id": "inat-347033488",
+    "trials": [
+      {
+        "prediction": "parrot",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9969484210014343,
+        "novelty_score": 0.6145919561386108,
+        "escalated": false,
+        "classifier_ms": 3.1055999997988692,
+        "preprocess_ms": 8.843999999953667,
+        "qwen_ms": 1497.3387999998522,
+        "feature_ms": 322.7077999999892,
+        "ammonix_ms": 325.8133999997881,
+        "traditional_ms": 1497.3387999998522,
+        "traditional_answer": "The animal shown is a cockatoo, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a cockatoo, which is a bird."
+      },
+      {
+        "prediction": "parrot",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9969484210014343,
+        "novelty_score": 0.6145919561386108,
+        "escalated": false,
+        "classifier_ms": 3.176799999891955,
+        "preprocess_ms": 8.701300000211631,
+        "qwen_ms": 1495.7788000001528,
+        "feature_ms": 323.6479999995936,
+        "ammonix_ms": 326.82479999948555,
+        "traditional_ms": 1495.7788000001528,
+        "traditional_answer": "The animal shown is a cockatoo, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a cockatoo, which is a bird."
+      },
+      {
+        "prediction": "parrot",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9969484210014343,
+        "novelty_score": 0.6145919561386108,
+        "escalated": false,
+        "classifier_ms": 3.2547999999223975,
+        "preprocess_ms": 8.816800000204239,
+        "qwen_ms": 1490.8728999998857,
+        "feature_ms": 323.21349999983795,
+        "ammonix_ms": 326.46829999976035,
+        "traditional_ms": 1490.8728999998857,
+        "traditional_answer": "The animal shown is a cockatoo, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a cockatoo, which is a bird."
+      }
+    ]
+  },
+  {
+    "id": "inat-118585036",
+    "trials": [
+      {
+        "prediction": "duck",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9936243295669556,
+        "novelty_score": 0.6674712896347046,
+        "escalated": false,
+        "classifier_ms": 3.1612000002496643,
+        "preprocess_ms": 9.256399999685527,
+        "qwen_ms": 1348.4482000003482,
+        "feature_ms": 315.14399999923626,
+        "ammonix_ms": 318.3051999994859,
+        "traditional_ms": 1348.4482000003482,
+        "traditional_answer": "The animal shown is a duck, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 15,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a duck, which is a bird."
+      },
+      {
+        "prediction": "duck",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9936243295669556,
+        "novelty_score": 0.6674712896347046,
+        "escalated": false,
+        "classifier_ms": 3.0723999998372165,
+        "preprocess_ms": 9.259000000383821,
+        "qwen_ms": 1349.7087000005195,
+        "feature_ms": 313.2324999996854,
+        "ammonix_ms": 316.3048999995226,
+        "traditional_ms": 1349.7087000005195,
+        "traditional_answer": "The animal shown is a duck, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 15,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a duck, which is a bird."
+      },
+      {
+        "prediction": "duck",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9936243295669556,
+        "novelty_score": 0.6674712896347046,
+        "escalated": false,
+        "classifier_ms": 3.1611000003977097,
+        "preprocess_ms": 9.016999999403197,
+        "qwen_ms": 1341.9474000002083,
+        "feature_ms": 312.70279999989725,
+        "ammonix_ms": 315.86390000029496,
+        "traditional_ms": 1341.9474000002083,
+        "traditional_answer": "The animal shown is a duck, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 15,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a duck, which is a bird."
+      }
+    ]
+  },
+  {
+    "id": "58541167",
+    "trials": [
+      {
+        "prediction": "tiger",
+        "gate": "MAMMALS",
+        "confidence": 0.9989839196205139,
+        "novelty_score": 0.958242654800415,
+        "escalated": false,
+        "classifier_ms": 3.201900000021851,
+        "preprocess_ms": 13.37599999988015,
+        "qwen_ms": 1445.2977000000828,
+        "feature_ms": 348.17670000029466,
+        "ammonix_ms": 351.3786000003165,
+        "traditional_ms": 1445.2977000000828,
+        "traditional_answer": "The animal shown is a tiger, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a tiger, which is a mammal."
+      },
+      {
+        "prediction": "tiger",
+        "gate": "MAMMALS",
+        "confidence": 0.9989839196205139,
+        "novelty_score": 0.958242654800415,
+        "escalated": false,
+        "classifier_ms": 3.351000000293425,
+        "preprocess_ms": 13.693299999431474,
+        "qwen_ms": 1441.340799999125,
+        "feature_ms": 357.97439999987546,
+        "ammonix_ms": 361.3254000001689,
+        "traditional_ms": 1441.340799999125,
+        "traditional_answer": "The animal shown is a tiger, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a tiger, which is a mammal."
+      },
+      {
+        "prediction": "tiger",
+        "gate": "MAMMALS",
+        "confidence": 0.9989839196205139,
+        "novelty_score": 0.958242654800415,
+        "escalated": false,
+        "classifier_ms": 3.091900000072201,
+        "preprocess_ms": 13.744099999712489,
+        "qwen_ms": 1430.3703000005044,
+        "feature_ms": 322.29069999993953,
+        "ammonix_ms": 325.38260000001173,
+        "traditional_ms": 1430.3703000005044,
+        "traditional_answer": "The animal shown is a tiger, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a tiger, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "inat-444393111",
+    "trials": [
+      {
+        "prediction": "ladybug",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9982104301452637,
+        "novelty_score": 0.7484279274940491,
+        "escalated": false,
+        "classifier_ms": 3.156499999931839,
+        "preprocess_ms": 9.328600000117149,
+        "qwen_ms": 2000.244400000156,
+        "feature_ms": 319.05790000018897,
+        "ammonix_ms": 322.2144000001208,
+        "traditional_ms": 2000.244400000156,
+        "traditional_answer": "The animal shown is a ladybug (ladybird beetle), which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 23,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a ladybug (ladybird beetle), which is an arthropod."
+      },
+      {
+        "prediction": "ladybug",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9982104301452637,
+        "novelty_score": 0.7484279274940491,
+        "escalated": false,
+        "classifier_ms": 3.0999000000520027,
+        "preprocess_ms": 10.042500000054133,
+        "qwen_ms": 1963.7147000003097,
+        "feature_ms": 329.71180000004097,
+        "ammonix_ms": 332.81170000009297,
+        "traditional_ms": 1963.7147000003097,
+        "traditional_answer": "The animal shown is a ladybug (ladybird beetle), which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 23,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a ladybug (ladybird beetle), which is an arthropod."
+      },
+      {
+        "prediction": "ladybug",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9982104301452637,
+        "novelty_score": 0.7484279274940491,
+        "escalated": false,
+        "classifier_ms": 3.216000000065833,
+        "preprocess_ms": 9.30160000007163,
+        "qwen_ms": 1965.834900000118,
+        "feature_ms": 317.0401999996102,
+        "ammonix_ms": 320.256199999676,
+        "traditional_ms": 1965.834900000118,
+        "traditional_answer": "The animal shown is a ladybug (ladybird beetle), which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 23,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a ladybug (ladybird beetle), which is an arthropod."
+      }
+    ]
+  },
+  {
+    "id": "177475652",
+    "trials": [
+      {
+        "prediction": "elephant",
+        "gate": "MAMMALS",
+        "confidence": 0.9988622665405273,
+        "novelty_score": 0.8857240676879883,
+        "escalated": false,
+        "classifier_ms": 3.2027000006564776,
+        "preprocess_ms": 14.928900000086287,
+        "qwen_ms": 1433.0817999998544,
+        "feature_ms": 324.8010000006616,
+        "ammonix_ms": 328.00370000131807,
+        "traditional_ms": 1433.0817999998544,
+        "traditional_answer": "The animal shown is an elephant, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is an elephant, which is a mammal."
+      },
+      {
+        "prediction": "elephant",
+        "gate": "MAMMALS",
+        "confidence": 0.9988622665405273,
+        "novelty_score": 0.8857240676879883,
+        "escalated": false,
+        "classifier_ms": 3.1420999994224985,
+        "preprocess_ms": 14.460999999755586,
+        "qwen_ms": 1540.1477000004888,
+        "feature_ms": 331.26739999988786,
+        "ammonix_ms": 334.40949999931036,
+        "traditional_ms": 1540.1477000004888,
+        "traditional_answer": "The animal shown is an elephant, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is an elephant, which is a mammal."
+      },
+      {
+        "prediction": "elephant",
+        "gate": "MAMMALS",
+        "confidence": 0.9988622665405273,
+        "novelty_score": 0.8857240676879883,
+        "escalated": false,
+        "classifier_ms": 3.3266000000367058,
+        "preprocess_ms": 14.34270000027027,
+        "qwen_ms": 1455.651499999476,
+        "feature_ms": 332.5782000001709,
+        "ammonix_ms": 335.9048000002076,
+        "traditional_ms": 1455.651499999476,
+        "traditional_answer": "The animal shown is an elephant, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is an elephant, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "120008381",
+    "trials": [
+      {
+        "prediction": "dog",
+        "gate": "MAMMALS",
+        "confidence": 0.9985352754592896,
+        "novelty_score": 0.8556826710700989,
+        "escalated": false,
+        "classifier_ms": 3.238199999941571,
+        "preprocess_ms": 15.590500000143948,
+        "qwen_ms": 1448.333399999683,
+        "feature_ms": 335.3223000003709,
+        "ammonix_ms": 338.56050000031246,
+        "traditional_ms": 1448.333399999683,
+        "traditional_answer": "The animal shown is a dog, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a dog, which is a mammal."
+      },
+      {
+        "prediction": "dog",
+        "gate": "MAMMALS",
+        "confidence": 0.9985352754592896,
+        "novelty_score": 0.8556826710700989,
+        "escalated": false,
+        "classifier_ms": 3.1652999996367726,
+        "preprocess_ms": 15.472899999622314,
+        "qwen_ms": 1430.3411000000779,
+        "feature_ms": 329.9955000002228,
+        "ammonix_ms": 333.1607999998596,
+        "traditional_ms": 1430.3411000000779,
+        "traditional_answer": "The animal shown is a dog, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a dog, which is a mammal."
+      },
+      {
+        "prediction": "dog",
+        "gate": "MAMMALS",
+        "confidence": 0.9985352754592896,
+        "novelty_score": 0.8556826710700989,
+        "escalated": false,
+        "classifier_ms": 3.2921000001806533,
+        "preprocess_ms": 15.206600000055914,
+        "qwen_ms": 1430.4831999997987,
+        "feature_ms": 334.7308000002158,
+        "ammonix_ms": 338.0229000003965,
+        "traditional_ms": 1430.4831999997987,
+        "traditional_answer": "The animal shown is a dog, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a dog, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "inat-12000242",
+    "trials": [
+      {
+        "prediction": "chicken",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.999200165271759,
+        "novelty_score": 0.8140547871589661,
+        "escalated": false,
+        "classifier_ms": 3.1650999999328633,
+        "preprocess_ms": 9.074600000531063,
+        "qwen_ms": 1438.586999999643,
+        "feature_ms": 329.9099000005299,
+        "ammonix_ms": 333.07500000046275,
+        "traditional_ms": 1438.586999999643,
+        "traditional_answer": "The animal species shown is a chicken, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal species shown is a chicken, which is a bird."
+      },
+      {
+        "prediction": "chicken",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.999200165271759,
+        "novelty_score": 0.8140547871589661,
+        "escalated": false,
+        "classifier_ms": 3.274300000157382,
+        "preprocess_ms": 9.219699999448494,
+        "qwen_ms": 1427.3376000001008,
+        "feature_ms": 325.1336999992418,
+        "ammonix_ms": 328.4079999993992,
+        "traditional_ms": 1427.3376000001008,
+        "traditional_answer": "The animal species shown is a chicken, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal species shown is a chicken, which is a bird."
+      },
+      {
+        "prediction": "chicken",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.999200165271759,
+        "novelty_score": 0.8140547871589661,
+        "escalated": false,
+        "classifier_ms": 3.2567000007475144,
+        "preprocess_ms": 9.774099999958707,
+        "qwen_ms": 1426.3028000004851,
+        "feature_ms": 318.7259999995149,
+        "ammonix_ms": 321.9827000002624,
+        "traditional_ms": 1426.3028000004851,
+        "traditional_answer": "The animal species shown is a chicken, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal species shown is a chicken, which is a bird."
+      }
+    ]
+  },
+  {
+    "id": "inat-1341046",
+    "trials": [
+      {
+        "prediction": "parrot",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9984943866729736,
+        "novelty_score": 0.7742478847503662,
+        "escalated": false,
+        "classifier_ms": 3.1902000000627595,
+        "preprocess_ms": 9.147899999334186,
+        "qwen_ms": 1424.34669999966,
+        "feature_ms": 317.05179999971733,
+        "ammonix_ms": 320.2419999997801,
+        "traditional_ms": 1424.34669999966,
+        "traditional_answer": "The animal shown is a parrot, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a parrot, which is a bird."
+      },
+      {
+        "prediction": "parrot",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9984943866729736,
+        "novelty_score": 0.7742478847503662,
+        "escalated": false,
+        "classifier_ms": 3.3400000002075103,
+        "preprocess_ms": 9.232299999894167,
+        "qwen_ms": 1413.2927000000564,
+        "feature_ms": 312.5497000000905,
+        "ammonix_ms": 315.88970000029803,
+        "traditional_ms": 1413.2927000000564,
+        "traditional_answer": "The animal shown is a parrot, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a parrot, which is a bird."
+      },
+      {
+        "prediction": "parrot",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9984943866729736,
+        "novelty_score": 0.7742478847503662,
+        "escalated": false,
+        "classifier_ms": 3.2521999992241035,
+        "preprocess_ms": 8.978199999546632,
+        "qwen_ms": 1415.9449999997378,
+        "feature_ms": 313.6773999995057,
+        "ammonix_ms": 316.9295999987298,
+        "traditional_ms": 1415.9449999997378,
+        "traditional_answer": "The animal shown is a parrot, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a parrot, which is a bird."
+      }
+    ]
+  },
+  {
+    "id": "170440255",
+    "trials": [
+      {
+        "prediction": "cow",
+        "gate": "MAMMALS",
+        "confidence": 0.9991992115974426,
+        "novelty_score": 0.9208751916885376,
+        "escalated": false,
+        "classifier_ms": 3.2023999992816243,
+        "preprocess_ms": 14.382600000317325,
+        "qwen_ms": 1487.6260000000912,
+        "feature_ms": 315.50270000025193,
+        "ammonix_ms": 318.70509999953356,
+        "traditional_ms": 1487.6260000000912,
+        "traditional_answer": "The animal species shown is a cow, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal species shown is a cow, which is a mammal."
+      },
+      {
+        "prediction": "cow",
+        "gate": "MAMMALS",
+        "confidence": 0.9991992115974426,
+        "novelty_score": 0.9208751916885376,
+        "escalated": false,
+        "classifier_ms": 3.2129000001077657,
+        "preprocess_ms": 14.202600000317034,
+        "qwen_ms": 1503.9094000003388,
+        "feature_ms": 322.166400000242,
+        "ammonix_ms": 325.37930000034976,
+        "traditional_ms": 1503.9094000003388,
+        "traditional_answer": "The animal species shown is a cow, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal species shown is a cow, which is a mammal."
+      },
+      {
+        "prediction": "cow",
+        "gate": "MAMMALS",
+        "confidence": 0.9991992115974426,
+        "novelty_score": 0.9208751916885376,
+        "escalated": false,
+        "classifier_ms": 3.36189999961789,
+        "preprocess_ms": 14.55569999961881,
+        "qwen_ms": 1504.5509999999922,
+        "feature_ms": 320.9361999997782,
+        "ammonix_ms": 324.2980999993961,
+        "traditional_ms": 1504.5509999999922,
+        "traditional_answer": "The animal species shown is a cow, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal species shown is a cow, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "inat-71141",
+    "trials": [
+      {
+        "prediction": "penguin",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9950116872787476,
+        "novelty_score": 0.7282789349555969,
+        "escalated": false,
+        "classifier_ms": 3.2905000007303897,
+        "preprocess_ms": 9.48199999947974,
+        "qwen_ms": 1416.4513999994597,
+        "feature_ms": 321.7008999999962,
+        "ammonix_ms": 324.99140000072657,
+        "traditional_ms": 1416.4513999994597,
+        "traditional_answer": "The animal shown is a penguin, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a penguin, which is a bird."
+      },
+      {
+        "prediction": "penguin",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9950116872787476,
+        "novelty_score": 0.7282789349555969,
+        "escalated": false,
+        "classifier_ms": 3.2281000003422378,
+        "preprocess_ms": 9.74820000010368,
+        "qwen_ms": 1440.5580000002374,
+        "feature_ms": 317.4414000004617,
+        "ammonix_ms": 320.66950000080396,
+        "traditional_ms": 1440.5580000002374,
+        "traditional_answer": "The animal shown is a penguin, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a penguin, which is a bird."
+      },
+      {
+        "prediction": "penguin",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9950116872787476,
+        "novelty_score": 0.7282789349555969,
+        "escalated": false,
+        "classifier_ms": 3.221799999664654,
+        "preprocess_ms": 9.657200000219746,
+        "qwen_ms": 1434.69770000047,
+        "feature_ms": 316.17650000043795,
+        "ammonix_ms": 319.3983000001026,
+        "traditional_ms": 1434.69770000047,
+        "traditional_answer": "The animal shown is a penguin, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a penguin, which is a bird."
+      }
+    ]
+  },
+  {
+    "id": "inat-436466325",
+    "trials": [
+      {
+        "prediction": "giraffe",
+        "gate": "MAMMALS",
+        "confidence": 0.9989250302314758,
+        "novelty_score": 0.8863086104393005,
+        "escalated": false,
+        "classifier_ms": 3.2765999994808226,
+        "preprocess_ms": 11.768099999244441,
+        "qwen_ms": 1289.8328999999649,
+        "feature_ms": 320.3583999993498,
+        "ammonix_ms": 323.6349999988306,
+        "traditional_ms": 1289.8328999999649,
+        "traditional_answer": "The image shows giraffes, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 14,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The image shows giraffes, which are mammals."
+      },
+      {
+        "prediction": "giraffe",
+        "gate": "MAMMALS",
+        "confidence": 0.9989250302314758,
+        "novelty_score": 0.8863086104393005,
+        "escalated": false,
+        "classifier_ms": 3.2003999995140475,
+        "preprocess_ms": 10.368600000219885,
+        "qwen_ms": 1287.3117999997703,
+        "feature_ms": 319.5898000003581,
+        "ammonix_ms": 322.79019999987213,
+        "traditional_ms": 1287.3117999997703,
+        "traditional_answer": "The image shows giraffes, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 14,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The image shows giraffes, which are mammals."
+      },
+      {
+        "prediction": "giraffe",
+        "gate": "MAMMALS",
+        "confidence": 0.9989250302314758,
+        "novelty_score": 0.8863086104393005,
+        "escalated": false,
+        "classifier_ms": 3.3051000000341446,
+        "preprocess_ms": 10.6699000007211,
+        "qwen_ms": 1285.6056999999055,
+        "feature_ms": 318.47280000056344,
+        "ammonix_ms": 321.7779000005976,
+        "traditional_ms": 1285.6056999999055,
+        "traditional_answer": "The image shows giraffes, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 14,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The image shows giraffes, which are mammals."
+      }
+    ]
+  },
+  {
+    "id": "110632922",
+    "trials": [
+      {
+        "prediction": "sheep",
+        "gate": "MAMMALS",
+        "confidence": 0.9988595247268677,
+        "novelty_score": 0.9028775095939636,
+        "escalated": false,
+        "classifier_ms": 3.275699999903736,
+        "preprocess_ms": 13.532100000702485,
+        "qwen_ms": 1440.3606000005311,
+        "feature_ms": 421.93110000062006,
+        "ammonix_ms": 425.2068000005238,
+        "traditional_ms": 1440.3606000005311,
+        "traditional_answer": "The animal shown is a sheep, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a sheep, which is a mammal."
+      },
+      {
+        "prediction": "sheep",
+        "gate": "MAMMALS",
+        "confidence": 0.9988595247268677,
+        "novelty_score": 0.9028775095939636,
+        "escalated": false,
+        "classifier_ms": 3.217399999812187,
+        "preprocess_ms": 14.27120000062132,
+        "qwen_ms": 1997.2932999999102,
+        "feature_ms": 778.982900000301,
+        "ammonix_ms": 782.2003000001132,
+        "traditional_ms": 1997.2932999999102,
+        "traditional_answer": "The animal shown is a sheep, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a sheep, which is a mammal."
+      },
+      {
+        "prediction": "sheep",
+        "gate": "MAMMALS",
+        "confidence": 0.9988595247268677,
+        "novelty_score": 0.9028775095939636,
+        "escalated": false,
+        "classifier_ms": 3.213599999980943,
+        "preprocess_ms": 13.310099999216618,
+        "qwen_ms": 1452.0708000000013,
+        "feature_ms": 333.14509999945585,
+        "ammonix_ms": 336.3586999994368,
+        "traditional_ms": 1452.0708000000013,
+        "traditional_answer": "The animal shown is a sheep, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a sheep, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "inat-208905856",
+    "trials": [
+      {
+        "prediction": "grasshopper",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9993137121200562,
+        "novelty_score": 0.8319301605224609,
+        "escalated": false,
+        "classifier_ms": 3.3530999999129563,
+        "preprocess_ms": 8.968600000116567,
+        "qwen_ms": 1701.1625999994067,
+        "feature_ms": 344.896499999777,
+        "ammonix_ms": 348.24959999968996,
+        "traditional_ms": 1701.1625999994067,
+        "traditional_answer": "The animal shown is a grasshopper, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 19,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a grasshopper, which is an arthropod."
+      },
+      {
+        "prediction": "grasshopper",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9993137121200562,
+        "novelty_score": 0.8319301605224609,
+        "escalated": false,
+        "classifier_ms": 3.3684999998513376,
+        "preprocess_ms": 8.951799999522336,
+        "qwen_ms": 1679.2455999993763,
+        "feature_ms": 330.00170000013895,
+        "ammonix_ms": 333.3701999999903,
+        "traditional_ms": 1679.2455999993763,
+        "traditional_answer": "The animal shown is a grasshopper, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 19,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a grasshopper, which is an arthropod."
+      },
+      {
+        "prediction": "grasshopper",
+        "gate": "ARTHROPODS",
+        "confidence": 0.9993137121200562,
+        "novelty_score": 0.8319301605224609,
+        "escalated": false,
+        "classifier_ms": 3.2990999998219195,
+        "preprocess_ms": 8.92530000055558,
+        "qwen_ms": 1669.559300000401,
+        "feature_ms": 334.6434000004592,
+        "ammonix_ms": 337.94250000028114,
+        "traditional_ms": 1669.559300000401,
+        "traditional_answer": "The animal shown is a grasshopper, which is an arthropod.",
+        "traditional_completion": {
+          "generated_tokens": 19,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a grasshopper, which is an arthropod."
+      }
+    ]
+  },
+  {
+    "id": "inat-132052896",
+    "trials": [
+      {
+        "prediction": "duck",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9979935884475708,
+        "novelty_score": 0.7567126750946045,
+        "escalated": false,
+        "classifier_ms": 3.3626999993430218,
+        "preprocess_ms": 9.48789999984001,
+        "qwen_ms": 1354.6853999996529,
+        "feature_ms": 327.16270000037184,
+        "ammonix_ms": 330.52539999971486,
+        "traditional_ms": 1354.6853999996529,
+        "traditional_answer": "The animal shown is a duck, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 15,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a duck, which is a bird."
+      },
+      {
+        "prediction": "duck",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9979935884475708,
+        "novelty_score": 0.7567126750946045,
+        "escalated": false,
+        "classifier_ms": 3.1999000002542743,
+        "preprocess_ms": 10.110399999575748,
+        "qwen_ms": 1361.8062000005011,
+        "feature_ms": 324.4649999996909,
+        "ammonix_ms": 327.6648999999452,
+        "traditional_ms": 1361.8062000005011,
+        "traditional_answer": "The animal shown is a duck, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 15,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a duck, which is a bird."
+      },
+      {
+        "prediction": "duck",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9979935884475708,
+        "novelty_score": 0.7567126750946045,
+        "escalated": false,
+        "classifier_ms": 3.181300000505871,
+        "preprocess_ms": 9.991699999773118,
+        "qwen_ms": 1378.1978999995772,
+        "feature_ms": 328.24729999992996,
+        "ammonix_ms": 331.42860000043584,
+        "traditional_ms": 1378.1978999995772,
+        "traditional_answer": "The animal shown is a duck, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 15,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a duck, which is a bird."
+      }
+    ]
+  },
+  {
+    "id": "inat-592743046",
+    "trials": [
+      {
+        "prediction": "crocodile",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9075605273246765,
+        "novelty_score": 0.8482475280761719,
+        "escalated": false,
+        "classifier_ms": 3.1445000004168833,
+        "preprocess_ms": 11.543300000084855,
+        "qwen_ms": 1511.857499999678,
+        "feature_ms": 328.4942999998748,
+        "ammonix_ms": 331.63880000029167,
+        "traditional_ms": 1511.857499999678,
+        "traditional_answer": "The animal shown is a crocodile, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a crocodile, which is a reptile."
+      },
+      {
+        "prediction": "crocodile",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9075605273246765,
+        "novelty_score": 0.8482475280761719,
+        "escalated": false,
+        "classifier_ms": 3.1722999992780387,
+        "preprocess_ms": 10.531000000810309,
+        "qwen_ms": 1488.155099999858,
+        "feature_ms": 316.7862000000241,
+        "ammonix_ms": 319.95849999930215,
+        "traditional_ms": 1488.155099999858,
+        "traditional_answer": "The animal shown is a crocodile, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a crocodile, which is a reptile."
+      },
+      {
+        "prediction": "crocodile",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9075605273246765,
+        "novelty_score": 0.8482475280761719,
+        "escalated": false,
+        "classifier_ms": 3.3783999997467618,
+        "preprocess_ms": 10.713199999372591,
+        "qwen_ms": 1902.754200000345,
+        "feature_ms": 320.4264999994848,
+        "ammonix_ms": 323.80489999923157,
+        "traditional_ms": 1902.754200000345,
+        "traditional_answer": "The animal shown is a crocodile, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a crocodile, which is a reptile."
+      }
+    ]
+  },
+  {
+    "id": "inat-34825790",
+    "trials": [
+      {
+        "prediction": "pig",
+        "gate": "MAMMALS",
+        "confidence": 0.9825169444084167,
+        "novelty_score": 0.6058009266853333,
+        "escalated": false,
+        "classifier_ms": 3.2888999994611368,
+        "preprocess_ms": 9.316600000602193,
+        "qwen_ms": 1561.6282000000865,
+        "feature_ms": 313.0529000000024,
+        "ammonix_ms": 316.34179999946355,
+        "traditional_ms": 1561.6282000000865,
+        "traditional_answer": "The animal shown is a wild boar, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a wild boar, which is a mammal."
+      },
+      {
+        "prediction": "pig",
+        "gate": "MAMMALS",
+        "confidence": 0.9825169444084167,
+        "novelty_score": 0.6058009266853333,
+        "escalated": false,
+        "classifier_ms": 3.3283000002484187,
+        "preprocess_ms": 9.268100000554114,
+        "qwen_ms": 1564.7310999993351,
+        "feature_ms": 314.7412999996959,
+        "ammonix_ms": 318.06959999994433,
+        "traditional_ms": 1564.7310999993351,
+        "traditional_answer": "The animal shown is a wild boar, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a wild boar, which is a mammal."
+      },
+      {
+        "prediction": "pig",
+        "gate": "MAMMALS",
+        "confidence": 0.9825169444084167,
+        "novelty_score": 0.6058009266853333,
+        "escalated": false,
+        "classifier_ms": 3.1988999999157386,
+        "preprocess_ms": 9.29210000049352,
+        "qwen_ms": 1556.9211000001815,
+        "feature_ms": 315.28660000003583,
+        "ammonix_ms": 318.48549999995157,
+        "traditional_ms": 1556.9211000001815,
+        "traditional_answer": "The animal shown is a wild boar, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a wild boar, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "inat-128995686",
+    "trials": [
+      {
+        "prediction": "owl",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9994255304336548,
+        "novelty_score": 0.869907557964325,
+        "escalated": false,
+        "classifier_ms": 3.2131999996636296,
+        "preprocess_ms": 8.515000000443251,
+        "qwen_ms": 1622.3187000005055,
+        "feature_ms": 385.94430000011926,
+        "ammonix_ms": 389.1574999997829,
+        "traditional_ms": 1622.3187000005055,
+        "traditional_answer": "The animal shown is a Great Horned Owl, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a Great Horned Owl, which is a bird."
+      },
+      {
+        "prediction": "owl",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9994255304336548,
+        "novelty_score": 0.869907557964325,
+        "escalated": false,
+        "classifier_ms": 3.20579999970505,
+        "preprocess_ms": 8.313299999826995,
+        "qwen_ms": 1552.9186000003392,
+        "feature_ms": 320.8766999996442,
+        "ammonix_ms": 324.08249999934924,
+        "traditional_ms": 1552.9186000003392,
+        "traditional_answer": "The animal shown is a Great Horned Owl, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a Great Horned Owl, which is a bird."
+      },
+      {
+        "prediction": "owl",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9994255304336548,
+        "novelty_score": 0.869907557964325,
+        "escalated": false,
+        "classifier_ms": 3.224000000045635,
+        "preprocess_ms": 8.67270000071585,
+        "qwen_ms": 1557.0006999996622,
+        "feature_ms": 317.50300000021525,
+        "ammonix_ms": 320.7270000002609,
+        "traditional_ms": 1557.0006999996622,
+        "traditional_answer": "The animal shown is a Great Horned Owl, which is a bird.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a Great Horned Owl, which is a bird."
+      }
+    ]
+  },
+  {
+    "id": "51439382",
+    "trials": [
+      {
+        "prediction": "sheep",
+        "gate": "MAMMALS",
+        "confidence": 0.9991301894187927,
+        "novelty_score": 0.8823289275169373,
+        "escalated": false,
+        "classifier_ms": 3.2697999995434657,
+        "preprocess_ms": 13.109099999383034,
+        "qwen_ms": 1192.5764000006893,
+        "feature_ms": 317.62309999976424,
+        "ammonix_ms": 320.8928999993077,
+        "traditional_ms": 1192.5764000006893,
+        "traditional_answer": "The animals shown are sheep, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 13,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animals shown are sheep, which are mammals."
+      },
+      {
+        "prediction": "sheep",
+        "gate": "MAMMALS",
+        "confidence": 0.9991301894187927,
+        "novelty_score": 0.8823289275169373,
+        "escalated": false,
+        "classifier_ms": 3.6421999993763166,
+        "preprocess_ms": 13.248599999315047,
+        "qwen_ms": 1761.1444000003758,
+        "feature_ms": 355.0889999996798,
+        "ammonix_ms": 358.7311999990561,
+        "traditional_ms": 1761.1444000003758,
+        "traditional_answer": "The animals shown are sheep, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 13,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animals shown are sheep, which are mammals."
+      },
+      {
+        "prediction": "sheep",
+        "gate": "MAMMALS",
+        "confidence": 0.9991301894187927,
+        "novelty_score": 0.8823289275169373,
+        "escalated": false,
+        "classifier_ms": 3.2202000002143905,
+        "preprocess_ms": 13.280399999530346,
+        "qwen_ms": 1196.5675999999803,
+        "feature_ms": 319.41149999966,
+        "ammonix_ms": 322.6316999998744,
+        "traditional_ms": 1196.5675999999803,
+        "traditional_answer": "The animals shown are sheep, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 13,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animals shown are sheep, which are mammals."
+      }
+    ]
+  },
+  {
+    "id": "104859780",
+    "trials": [
+      {
+        "prediction": "goat",
+        "gate": "MAMMALS",
+        "confidence": 0.9980394244194031,
+        "novelty_score": 0.8240503668785095,
+        "escalated": false,
+        "classifier_ms": 3.191499999957159,
+        "preprocess_ms": 15.628000000106113,
+        "qwen_ms": 1128.8039000000936,
+        "feature_ms": 320.3083999997034,
+        "ammonix_ms": 323.49989999966056,
+        "traditional_ms": 1128.8039000000936,
+        "traditional_answer": "The image shows goats, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 12,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The image shows goats, which are mammals."
+      },
+      {
+        "prediction": "goat",
+        "gate": "MAMMALS",
+        "confidence": 0.9980394244194031,
+        "novelty_score": 0.8240503668785095,
+        "escalated": false,
+        "classifier_ms": 3.1659999995099497,
+        "preprocess_ms": 14.855599999464175,
+        "qwen_ms": 1197.4245999999766,
+        "feature_ms": 331.43659999950614,
+        "ammonix_ms": 334.6025999990161,
+        "traditional_ms": 1197.4245999999766,
+        "traditional_answer": "The image shows goats, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 12,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The image shows goats, which are mammals."
+      },
+      {
+        "prediction": "goat",
+        "gate": "MAMMALS",
+        "confidence": 0.9980394244194031,
+        "novelty_score": 0.8240503668785095,
+        "escalated": false,
+        "classifier_ms": 3.2374000002164394,
+        "preprocess_ms": 15.306100000088918,
+        "qwen_ms": 1127.6918000003207,
+        "feature_ms": 320.6301000000167,
+        "ammonix_ms": 323.8675000002331,
+        "traditional_ms": 1127.6918000003207,
+        "traditional_answer": "The image shows goats, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 12,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The image shows goats, which are mammals."
+      }
+    ]
+  },
+  {
+    "id": "inat-27976881",
+    "trials": [
+      {
+        "prediction": "alligator",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.6580685973167419,
+        "novelty_score": 0.6154035925865173,
+        "escalated": false,
+        "classifier_ms": 3.121599999758473,
+        "preprocess_ms": 9.259100000235776,
+        "qwen_ms": 1502.8167999998914,
+        "feature_ms": 324.92739999997866,
+        "ammonix_ms": 328.04899999973713,
+        "traditional_ms": 1502.8167999998914,
+        "traditional_answer": "The animal shown is a crocodile, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a crocodile, which is a reptile."
+      },
+      {
+        "prediction": "alligator",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.6580685973167419,
+        "novelty_score": 0.6154035925865173,
+        "escalated": false,
+        "classifier_ms": 4.279900000256021,
+        "preprocess_ms": 9.324199999355187,
+        "qwen_ms": 1754.2358999999124,
+        "feature_ms": 390.64029999917693,
+        "ammonix_ms": 394.92019999943295,
+        "traditional_ms": 1754.2358999999124,
+        "traditional_answer": "The animal shown is a crocodile, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a crocodile, which is a reptile."
+      },
+      {
+        "prediction": "alligator",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.6580685973167419,
+        "novelty_score": 0.6154035925865173,
+        "escalated": false,
+        "classifier_ms": 3.3152000005429727,
+        "preprocess_ms": 9.556599999996251,
+        "qwen_ms": 1719.6094000000812,
+        "feature_ms": 414.84940000009374,
+        "ammonix_ms": 418.1646000006367,
+        "traditional_ms": 1719.6094000000812,
+        "traditional_answer": "The animal shown is a crocodile, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 17,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a crocodile, which is a reptile."
+      }
+    ]
+  },
+  {
+    "id": "inat-527815525",
+    "trials": [
+      {
+        "prediction": "zebra",
+        "gate": "MAMMALS",
+        "confidence": 0.9955732822418213,
+        "novelty_score": 0.8401583433151245,
+        "escalated": false,
+        "classifier_ms": 4.2088000000148895,
+        "preprocess_ms": 11.789600000156497,
+        "qwen_ms": 1395.2441000001272,
+        "feature_ms": 437.92149999990215,
+        "ammonix_ms": 442.13029999991704,
+        "traditional_ms": 1395.2441000001272,
+        "traditional_answer": "The image shows zebras, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 13,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The image shows zebras, which are mammals."
+      },
+      {
+        "prediction": "zebra",
+        "gate": "MAMMALS",
+        "confidence": 0.9955732822418213,
+        "novelty_score": 0.8401583433151245,
+        "escalated": false,
+        "classifier_ms": 4.142499999943539,
+        "preprocess_ms": 9.165699999357457,
+        "qwen_ms": 1414.482400000452,
+        "feature_ms": 423.7585000000763,
+        "ammonix_ms": 427.90100000001985,
+        "traditional_ms": 1414.482400000452,
+        "traditional_answer": "The image shows zebras, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 13,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The image shows zebras, which are mammals."
+      },
+      {
+        "prediction": "zebra",
+        "gate": "MAMMALS",
+        "confidence": 0.9955732822418213,
+        "novelty_score": 0.8401583433151245,
+        "escalated": false,
+        "classifier_ms": 4.110599999876285,
+        "preprocess_ms": 11.258400000770052,
+        "qwen_ms": 1428.479100000004,
+        "feature_ms": 440.85010000071634,
+        "ammonix_ms": 444.9607000005926,
+        "traditional_ms": 1428.479100000004,
+        "traditional_answer": "The image shows zebras, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 13,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The image shows zebras, which are mammals."
+      }
+    ]
+  },
+  {
+    "id": "inat-115182667",
+    "trials": [
+      {
+        "prediction": "duck",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.16884414851665497,
+        "novelty_score": 0.026986196637153625,
+        "escalated": true,
+        "classifier_ms": 3.1225000002450543,
+        "preprocess_ms": 9.35849999950733,
+        "qwen_ms": 1652.9883000002883,
+        "feature_ms": 424.1892000000007,
+        "ammonix_ms": 427.31170000024576,
+        "traditional_ms": 1652.9883000002883,
+        "traditional_answer": "The animal shown is a dolphin, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a dolphin, which is a mammal."
+      },
+      {
+        "prediction": "duck",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.16884414851665497,
+        "novelty_score": 0.026986196637153625,
+        "escalated": true,
+        "classifier_ms": 3.247100000407954,
+        "preprocess_ms": 8.731099999749858,
+        "qwen_ms": 1641.9621999993979,
+        "feature_ms": 424.0628999996261,
+        "ammonix_ms": 427.31000000003405,
+        "traditional_ms": 1641.9621999993979,
+        "traditional_answer": "The animal shown is a dolphin, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a dolphin, which is a mammal."
+      },
+      {
+        "prediction": "duck",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.16884414851665497,
+        "novelty_score": 0.026986196637153625,
+        "escalated": true,
+        "classifier_ms": 4.126599999835889,
+        "preprocess_ms": 8.843000000524626,
+        "qwen_ms": 1604.0021000007982,
+        "feature_ms": 436.2708000007842,
+        "ammonix_ms": 440.3974000006201,
+        "traditional_ms": 1604.0021000007982,
+        "traditional_answer": "The animal shown is a dolphin, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a dolphin, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "inat-54362492",
+    "trials": [
+      {
+        "prediction": "snake",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9967857599258423,
+        "novelty_score": 0.7284630537033081,
+        "escalated": false,
+        "classifier_ms": 3.3161999999720138,
+        "preprocess_ms": 9.343400000034308,
+        "qwen_ms": 1711.5022999996654,
+        "feature_ms": 416.41189999972994,
+        "ammonix_ms": 419.72809999970195,
+        "traditional_ms": 1711.5022999996654,
+        "traditional_answer": "The animal shown is a garter snake, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a garter snake, which is a reptile."
+      },
+      {
+        "prediction": "snake",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9967857599258423,
+        "novelty_score": 0.7284630537033081,
+        "escalated": false,
+        "classifier_ms": 4.075800000464369,
+        "preprocess_ms": 9.332300000096438,
+        "qwen_ms": 1789.7290000000794,
+        "feature_ms": 435.4884000003949,
+        "ammonix_ms": 439.5642000008593,
+        "traditional_ms": 1789.7290000000794,
+        "traditional_answer": "The animal shown is a garter snake, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a garter snake, which is a reptile."
+      },
+      {
+        "prediction": "snake",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.9967857599258423,
+        "novelty_score": 0.7284630537033081,
+        "escalated": false,
+        "classifier_ms": 4.155300000093121,
+        "preprocess_ms": 11.263399999734247,
+        "qwen_ms": 1840.0222000000213,
+        "feature_ms": 436.33890000000974,
+        "ammonix_ms": 440.49420000010286,
+        "traditional_ms": 1840.0222000000213,
+        "traditional_answer": "The animal shown is a garter snake, which is a reptile.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a garter snake, which is a reptile."
+      }
+    ]
+  },
+  {
+    "id": "inat-360749842",
+    "trials": [
+      {
+        "prediction": "monkey",
+        "gate": "MAMMALS",
+        "confidence": 0.9986051917076111,
+        "novelty_score": 0.7861047387123108,
+        "escalated": false,
+        "classifier_ms": 4.230900000038673,
+        "preprocess_ms": 10.231700000076671,
+        "qwen_ms": 1660.468199999741,
+        "feature_ms": 443.15740000001824,
+        "ammonix_ms": 447.3883000000569,
+        "traditional_ms": 1660.468199999741,
+        "traditional_answer": "The animal shown is a monkey, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a monkey, which is a mammal."
+      },
+      {
+        "prediction": "monkey",
+        "gate": "MAMMALS",
+        "confidence": 0.9986051917076111,
+        "novelty_score": 0.7861047387123108,
+        "escalated": false,
+        "classifier_ms": 4.038600000058068,
+        "preprocess_ms": 11.48899999952846,
+        "qwen_ms": 1685.6695999995281,
+        "feature_ms": 445.40150000011636,
+        "ammonix_ms": 449.4401000001744,
+        "traditional_ms": 1685.6695999995281,
+        "traditional_answer": "The animal shown is a monkey, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a monkey, which is a mammal."
+      },
+      {
+        "prediction": "monkey",
+        "gate": "MAMMALS",
+        "confidence": 0.9986051917076111,
+        "novelty_score": 0.7861047387123108,
+        "escalated": false,
+        "classifier_ms": 3.4877999996751896,
+        "preprocess_ms": 9.047099999406782,
+        "qwen_ms": 1450.5123999997522,
+        "feature_ms": 328.4061999993355,
+        "ammonix_ms": 331.8939999990107,
+        "traditional_ms": 1450.5123999997522,
+        "traditional_answer": "The animal shown is a monkey, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a monkey, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "116104032",
+    "trials": [
+      {
+        "prediction": "rabbit",
+        "gate": "MAMMALS",
+        "confidence": 0.9983880519866943,
+        "novelty_score": 0.822155237197876,
+        "escalated": false,
+        "classifier_ms": 3.290499999820895,
+        "preprocess_ms": 18.42029999988881,
+        "qwen_ms": 1430.9069000000818,
+        "feature_ms": 325.7464999996955,
+        "ammonix_ms": 329.0369999995164,
+        "traditional_ms": 1430.9069000000818,
+        "traditional_answer": "The animal shown is a rabbit, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a rabbit, which is a mammal."
+      },
+      {
+        "prediction": "rabbit",
+        "gate": "MAMMALS",
+        "confidence": 0.9983880519866943,
+        "novelty_score": 0.822155237197876,
+        "escalated": false,
+        "classifier_ms": 4.257900000084192,
+        "preprocess_ms": 17.564600000696373,
+        "qwen_ms": 1549.6064999997543,
+        "feature_ms": 373.69420000050013,
+        "ammonix_ms": 377.9521000005843,
+        "traditional_ms": 1549.6064999997543,
+        "traditional_answer": "The animal shown is a rabbit, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a rabbit, which is a mammal."
+      },
+      {
+        "prediction": "rabbit",
+        "gate": "MAMMALS",
+        "confidence": 0.9983880519866943,
+        "novelty_score": 0.822155237197876,
+        "escalated": false,
+        "classifier_ms": 4.192800000055286,
+        "preprocess_ms": 19.861600000695034,
+        "qwen_ms": 1508.3830000003218,
+        "feature_ms": 378.468700000667,
+        "ammonix_ms": 382.6615000007223,
+        "traditional_ms": 1508.3830000003218,
+        "traditional_answer": "The animal shown is a rabbit, which is a mammal.",
+        "traditional_completion": {
+          "generated_tokens": 16,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a rabbit, which is a mammal."
+      }
+    ]
+  },
+  {
+    "id": "inat-2673463",
+    "trials": [
+      {
+        "prediction": "eagle",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.998390793800354,
+        "novelty_score": 0.8615133166313171,
+        "escalated": false,
+        "classifier_ms": 4.156299999522162,
+        "preprocess_ms": 9.108700000069803,
+        "qwen_ms": 1649.6610000003784,
+        "feature_ms": 365.9698000001299,
+        "ammonix_ms": 370.12609999965207,
+        "traditional_ms": 1649.6610000003784,
+        "traditional_answer": "The animal shown is a bird, specifically a type of eagle or hawk.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a bird, specifically a type of eagle or hawk."
+      },
+      {
+        "prediction": "eagle",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.998390793800354,
+        "novelty_score": 0.8615133166313171,
+        "escalated": false,
+        "classifier_ms": 4.12999999934982,
+        "preprocess_ms": 11.594699999477598,
+        "qwen_ms": 1686.5377000003718,
+        "feature_ms": 369.3212999996831,
+        "ammonix_ms": 373.4512999990329,
+        "traditional_ms": 1686.5377000003718,
+        "traditional_answer": "The animal shown is a bird, specifically a type of eagle or hawk.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a bird, specifically a type of eagle or hawk."
+      },
+      {
+        "prediction": "eagle",
+        "gate": "BIRDS & REPTILES",
+        "confidence": 0.998390793800354,
+        "novelty_score": 0.8615133166313171,
+        "escalated": false,
+        "classifier_ms": 4.2513999997026986,
+        "preprocess_ms": 9.851300000264018,
+        "qwen_ms": 1668.3594000005542,
+        "feature_ms": 379.5668000002479,
+        "ammonix_ms": 383.8181999999506,
+        "traditional_ms": 1668.3594000005542,
+        "traditional_answer": "The animal shown is a bird, specifically a type of eagle or hawk.",
+        "traditional_completion": {
+          "generated_tokens": 18,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animal shown is a bird, specifically a type of eagle or hawk."
+      }
+    ]
+  },
+  {
+    "id": "inat-53221252",
+    "trials": [
+      {
+        "prediction": "pig",
+        "gate": "MAMMALS",
+        "confidence": 0.5463204979896545,
+        "novelty_score": 0.1203872337937355,
+        "escalated": true,
+        "classifier_ms": 4.231999999319669,
+        "preprocess_ms": 10.764599999674829,
+        "qwen_ms": 1443.932200000745,
+        "feature_ms": 374.0447000000131,
+        "ammonix_ms": 378.2766999993328,
+        "traditional_ms": 1443.932200000745,
+        "traditional_answer": "The animals shown are kangaroos, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 15,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animals shown are kangaroos, which are mammals."
+      },
+      {
+        "prediction": "pig",
+        "gate": "MAMMALS",
+        "confidence": 0.5463204979896545,
+        "novelty_score": 0.1203872337937355,
+        "escalated": true,
+        "classifier_ms": 4.189999999653082,
+        "preprocess_ms": 9.138800000073388,
+        "qwen_ms": 1434.740700000475,
+        "feature_ms": 368.98420000034093,
+        "ammonix_ms": 373.174199999994,
+        "traditional_ms": 1434.740700000475,
+        "traditional_answer": "The animals shown are kangaroos, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 15,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animals shown are kangaroos, which are mammals."
+      },
+      {
+        "prediction": "pig",
+        "gate": "MAMMALS",
+        "confidence": 0.5463204979896545,
+        "novelty_score": 0.1203872337937355,
+        "escalated": true,
+        "classifier_ms": 4.2138999997405335,
+        "preprocess_ms": 10.92880000032892,
+        "qwen_ms": 1433.8692999999694,
+        "feature_ms": 372.06270000024233,
+        "ammonix_ms": 376.27659999998286,
+        "traditional_ms": 1433.8692999999694,
+        "traditional_answer": "The animals shown are kangaroos, which are mammals.",
+        "traditional_completion": {
+          "generated_tokens": 15,
+          "finish_reason": "eos",
+          "complete": true
+        },
+        "qwen_answer": "The animals shown are kangaroos, which are mammals."
+      }
+    ]
+  }
+]

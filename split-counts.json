@@ -1,0 +1,189 @@
+{
+  "dog": {
+    "test": 2,
+    "validation": 5,
+    "train": 27
+  },
+  "cat": {
+    "train": 30,
+    "test": 2,
+    "validation": 5
+  },
+  "horse": {
+    "train": 28,
+    "test": 2,
+    "validation": 5
+  },
+  "cow": {
+    "test": 2,
+    "train": 32,
+    "validation": 5
+  },
+  "sheep": {
+    "test": 2,
+    "validation": 5,
+    "train": 28
+  },
+  "goat": {
+    "test": 2,
+    "validation": 5,
+    "train": 28
+  },
+  "pig": {
+    "test": 2,
+    "validation": 5,
+    "train": 28
+  },
+  "elephant": {
+    "test": 2,
+    "validation": 5,
+    "train": 27
+  },
+  "lion": {
+    "test": 2,
+    "train": 29,
+    "validation": 5
+  },
+  "tiger": {
+    "train": 30,
+    "test": 2,
+    "validation": 5
+  },
+  "bear": {
+    "test": 2,
+    "train": 27,
+    "validation": 5
+  },
+  "rabbit": {
+    "test": 2,
+    "validation": 5,
+    "train": 24
+  },
+  "giraffe": {
+    "train": 32,
+    "test": 2,
+    "validation": 5
+  },
+  "zebra": {
+    "test": 2,
+    "train": 27,
+    "validation": 5
+  },
+  "monkey": {
+    "test": 2,
+    "validation": 5,
+    "train": 29
+  },
+  "eagle": {
+    "test": 2,
+    "validation": 5,
+    "train": 28
+  },
+  "owl": {
+    "train": 33,
+    "test": 2,
+    "validation": 5
+  },
+  "chicken": {
+    "test": 2,
+    "validation": 5,
+    "train": 27
+  },
+  "duck": {
+    "test": 2,
+    "train": 30,
+    "validation": 5
+  },
+  "parrot": {
+    "test": 2,
+    "validation": 5,
+    "train": 28
+  },
+  "penguin": {
+    "train": 30,
+    "test": 2,
+    "validation": 5
+  },
+  "flamingo": {
+    "test": 2,
+    "validation": 5,
+    "train": 31
+  },
+  "ostrich": {
+    "test": 2,
+    "train": 29,
+    "validation": 5
+  },
+  "crocodile": {
+    "test": 2,
+    "train": 29,
+    "validation": 5
+  },
+  "alligator": {
+    "test": 2,
+    "validation": 5,
+    "train": 30
+  },
+  "snake": {
+    "test": 2,
+    "validation": 5,
+    "train": 28
+  },
+  "turtle": {
+    "test": 2,
+    "validation": 5,
+    "train": 28
+  },
+  "lizard": {
+    "test": 2,
+    "validation": 5,
+    "train": 32
+  },
+  "bee": {
+    "test": 2,
+    "validation": 5,
+    "train": 28
+  },
+  "butterfly": {
+    "test": 2,
+    "validation": 5,
+    "train": 27
+  },
+  "ant": {
+    "test": 2,
+    "train": 28,
+    "validation": 5
+  },
+  "beetle": {
+    "train": 27,
+    "test": 2,
+    "validation": 5
+  },
+  "grasshopper": {
+    "test": 2,
+    "validation": 5,
+    "train": 32
+  },
+  "dragonfly": {
+    "test": 2,
+    "train": 29,
+    "validation": 5
+  },
+  "ladybug": {
+    "train": 29,
+    "test": 2,
+    "validation": 5
+  },
+  "dolphin": {
+    "ood_validation": 10
+  },
+  "snail": {
+    "ood_validation": 9
+  },
+  "moose": {
+    "ood_validation": 8
+  },
+  "kangaroo": {
+    "ood_test": 1
+  }
+}
