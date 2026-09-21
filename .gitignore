@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+# Local settings, refits, downloads and optional benchmark output.
+settings.json
+retrained/
+work/
+models/
+gpt6-benchmark/
+benchmark-progress.json
+stop-gpt6-benchmark

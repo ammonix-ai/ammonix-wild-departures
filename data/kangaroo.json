@@ -1,0 +1,18 @@
+[
+  {
+    "id": "inat-53221252",
+    "species": "kangaroo",
+    "image": "data/kangaroo-inat-53221252.jpg",
+    "source": "https://www.inaturalist.org/observations/33858538",
+    "original": "https://inaturalist-open-data.s3.amazonaws.com/photos/53221252/medium.jpg",
+    "license": "CC-BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "author": "Shane Walker",
+    "title": "Macropus giganteus",
+    "description": "Eastern Grey Kangaroo",
+    "phash": "b6e64d412b38d94b",
+    "sha256": "e57c7250e965cfb58dababd8360bfabe0d341963d818f11f1b9b89105521f00d",
+    "label_review": "taxon-filtered source; requires visual audit",
+    "taxon_id": 42888
+  }
+]
