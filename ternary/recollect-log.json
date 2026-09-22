@@ -1,0 +1,8480 @@
+{
+ "counts": {
+  "ok": 6,
+  "sha_mismatch": 358,
+  "failed": 0,
+  "present": 0
+ },
+ "rows": {
+  "inat-253547517": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 69949,
+   "species": "dog",
+   "split": "train"
+  },
+  "inat-222711800": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 172997,
+   "species": "dog",
+   "split": "train"
+  },
+  "inat-214572955": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 153000,
+   "species": "dog",
+   "split": "train"
+  },
+  "inat-245572394": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 228159,
+   "species": "dog",
+   "split": "validation"
+  },
+  "inat-61882466": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 38887,
+   "species": "pig",
+   "split": "train"
+  },
+  "inat-46190755": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 126263,
+   "species": "horse",
+   "split": "train"
+  },
+  "inat-272288521": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 91795,
+   "species": "dog",
+   "split": "train"
+  },
+  "126677399": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 302042,
+   "species": "dog",
+   "split": "validation"
+  },
+  "inat-105929567": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 68419,
+   "species": "elephant",
+   "split": "train"
+  },
+  "inat-110278576": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 146493,
+   "species": "elephant",
+   "split": "train"
+  },
+  "inat-50020572": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 325002,
+   "species": "elephant",
+   "split": "validation"
+  },
+  "inat-3970040": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 177660,
+   "species": "elephant",
+   "split": "train"
+  },
+  "inat-110278644": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 94713,
+   "species": "elephant",
+   "split": "train"
+  },
+  "inat-219306743": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 169403,
+   "species": "elephant",
+   "split": "train"
+  },
+  "inat-113030589": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 87967,
+   "species": "elephant",
+   "split": "train"
+  },
+  "inat-93674728": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 95969,
+   "species": "elephant",
+   "split": "train"
+  },
+  "inat-20939941": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 88846,
+   "species": "elephant",
+   "split": "train"
+  },
+  "inat-110290149": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 158911,
+   "species": "elephant",
+   "split": "train"
+  },
+  "inat-219192408": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 201556,
+   "species": "elephant",
+   "split": "train"
+  },
+  "68065668": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 645296,
+   "species": "dog",
+   "split": "validation"
+  },
+  "inat-263647899": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 110200,
+   "species": "tiger",
+   "split": "train"
+  },
+  "inat-624580115": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 135414,
+   "species": "tiger",
+   "split": "train"
+  },
+  "inat-138665236": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 276488,
+   "species": "tiger",
+   "split": "validation"
+  },
+  "inat-702579943": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 132064,
+   "species": "tiger",
+   "split": "train"
+  },
+  "inat-111317641": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 225097,
+   "species": "tiger",
+   "split": "train"
+  },
+  "inat-109439406": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 82745,
+   "species": "bear",
+   "split": "validation"
+  },
+  "inat-222405547": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 243335,
+   "species": "tiger",
+   "split": "train"
+  },
+  "inat-339930368": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 75991,
+   "species": "bear",
+   "split": "train"
+  },
+  "inat-308842906": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 142584,
+   "species": "bear",
+   "split": "train"
+  },
+  "inat-9581603": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 69436,
+   "species": "bear",
+   "split": "train"
+  },
+  "inat-312611076": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 142857,
+   "species": "bear",
+   "split": "train"
+  },
+  "inat-184578489": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 138901,
+   "species": "bear",
+   "split": "train"
+  },
+  "inat-351209004": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 231600,
+   "species": "bear",
+   "split": "train"
+  },
+  "inat-334287109": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 103747,
+   "species": "bear",
+   "split": "train"
+  },
+  "inat-110501282": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 179880,
+   "species": "bear",
+   "split": "train"
+  },
+  "inat-179019504": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 45390,
+   "species": "rabbit",
+   "split": "validation"
+  },
+  "inat-244913859": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 88149,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "inat-4402909": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 76686,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "inat-662171729": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 201079,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "inat-214613218": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 64957,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "inat-186922628": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 102707,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "inat-137362674": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 70689,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "inat-281100209": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 199143,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "inat-200197791": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 112336,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "inat-634385487": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 138573,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "inat-110414233": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 159105,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-599886814": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 108126,
+   "species": "giraffe",
+   "split": "validation"
+  },
+  "inat-176040719": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 58528,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-320120344": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 39104,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-12238621": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 114423,
+   "species": "giraffe",
+   "split": "validation"
+  },
+  "inat-137981139": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 47071,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-436938754": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 100132,
+   "species": "giraffe",
+   "split": "validation"
+  },
+  "inat-230461291": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 74844,
+   "species": "giraffe",
+   "split": "validation"
+  },
+  "inat-190391944": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 118482,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-465781715": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 74644,
+   "species": "giraffe",
+   "split": "validation"
+  },
+  "inat-139593003": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 34545,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-172476625": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 69688,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-160843859": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 32705,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-67447911": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 159321,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-474418050": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 286891,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-16002081": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 553539,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-386086709": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 74163,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-219565591": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 109692,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-350253923": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 40859,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-505835643": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 29303,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-235199728": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 186263,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-29054391": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 80807,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-387567861": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 107612,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-314694627": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 81975,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-548800952": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 68515,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-461968671": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 168505,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-584655415": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 207215,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-547528610": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 94979,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-267399380": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 148508,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-460978404": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 269426,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-388240372": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 99686,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-652306489": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 83227,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-475361890": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 273204,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-446427608": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 38608,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-80009413": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 105107,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-433605122": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 186972,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-110379206": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 65901,
+   "species": "giraffe",
+   "split": "train"
+  },
+  "inat-261523831": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 121110,
+   "species": "zebra",
+   "split": "validation"
+  },
+  "inat-723255723": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 129613,
+   "species": "zebra",
+   "split": "validation"
+  },
+  "inat-607770060": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 53290,
+   "species": "zebra",
+   "split": "validation"
+  },
+  "inat-298612820": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 84875,
+   "species": "zebra",
+   "split": "train"
+  },
+  "inat-473246789": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 63877,
+   "species": "zebra",
+   "split": "train"
+  },
+  "inat-241959950": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 43507,
+   "species": "zebra",
+   "split": "train"
+  },
+  "inat-397443529": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 195466,
+   "species": "zebra",
+   "split": "train"
+  },
+  "inat-21333191": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 194354,
+   "species": "zebra",
+   "split": "train"
+  },
+  "inat-258376185": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 101247,
+   "species": "zebra",
+   "split": "train"
+  },
+  "inat-163095503": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 76992,
+   "species": "zebra",
+   "split": "train"
+  },
+  "inat-436938501": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 163291,
+   "species": "zebra",
+   "split": "train"
+  },
+  "inat-244041832": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 81400,
+   "species": "zebra",
+   "split": "train"
+  },
+  "inat-50371107": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 134732,
+   "species": "zebra",
+   "split": "train"
+  },
+  "inat-99627264": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 66399,
+   "species": "monkey",
+   "split": "validation"
+  },
+  "inat-523180410": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 316442,
+   "species": "monkey",
+   "split": "validation"
+  },
+  "inat-57729184": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 64756,
+   "species": "monkey",
+   "split": "validation"
+  },
+  "inat-28635341": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 36254,
+   "species": "monkey",
+   "split": "validation"
+  },
+  "inat-558327909": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 79761,
+   "species": "monkey",
+   "split": "validation"
+  },
+  "inat-895884": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 83055,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-12801990": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 120749,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-549011570": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 98622,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-260580930": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 107636,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-19625009": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 54843,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-440553179": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 176261,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-56247487": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 138360,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-382192944": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 94835,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-593773322": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 245078,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-476935714": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 100132,
+   "species": "monkey",
+   "split": "train"
+  },
+  "22809284": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3139886,
+   "species": "dog",
+   "split": "validation"
+  },
+  "inat-47515304": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 187509,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-20542304": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 54784,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-392581885": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 168965,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-331644860": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 205562,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-541126733": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 131485,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-127279233": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 97496,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-612451986": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 80074,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-58336941": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 56285,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-348837029": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 111608,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-175318890": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 46224,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-242398398": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 97647,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-422895395": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 49177,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-110486897": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 87654,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-392584949": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 192629,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-468562439": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 133604,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-600792359": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 132865,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-12713186": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 105743,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-2626569": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 86807,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-542661926": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 134934,
+   "species": "monkey",
+   "split": "train"
+  },
+  "inat-334265351": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 30905,
+   "species": "eagle",
+   "split": "validation"
+  },
+  "inat-296113197": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 58150,
+   "species": "eagle",
+   "split": "validation"
+  },
+  "inat-222207380": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 36247,
+   "species": "eagle",
+   "split": "validation"
+  },
+  "inat-21170351": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 9113,
+   "species": "eagle",
+   "split": "validation"
+  },
+  "inat-247754231": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 50894,
+   "species": "eagle",
+   "split": "validation"
+  },
+  "inat-403639248": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 20047,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-513863462": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 212549,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-176232192": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 100138,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-600593413": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 73738,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-49244687": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 102550,
+   "species": "eagle",
+   "split": "train"
+  },
+  "116519886": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 825954,
+   "species": "dog",
+   "split": "train"
+  },
+  "inat-112188157": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 18859,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-631265943": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 46250,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-200608451": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 189515,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-344198821": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 13053,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-345336160": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 32812,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-122564002": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 113778,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-344293289": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 70507,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-54148673": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 142568,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-551848336": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 86940,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-629505155": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 57137,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-580400945": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 26628,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-362642967": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 33338,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-552151492": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 49808,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-232154647": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 10483,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-11218215": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 58122,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-365214276": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 218439,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-199120526": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 151714,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-60105807": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 83942,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-570324517": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 63463,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-58193563": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 91388,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-120823804": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 85297,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-310107963": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 59807,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-243061245": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 134705,
+   "species": "eagle",
+   "split": "train"
+  },
+  "inat-451006170": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 34211,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-2970421": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 163919,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-4754477": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 172196,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-649551245": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 29010,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-258497308": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 43630,
+   "species": "owl",
+   "split": "validation"
+  },
+  "inat-408807127": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 257695,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-579255566": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 123850,
+   "species": "owl",
+   "split": "validation"
+  },
+  "inat-6542744": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 65682,
+   "species": "owl",
+   "split": "validation"
+  },
+  "inat-357170362": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 69713,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-470087047": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 174107,
+   "species": "owl",
+   "split": "validation"
+  },
+  "inat-400218288": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 51978,
+   "species": "owl",
+   "split": "validation"
+  },
+  "inat-89909173": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 105969,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-181598879": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 143354,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-464374794": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 38458,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-343832881": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 40402,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-264835127": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 90856,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-175457284": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 53595,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-597098981": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 188238,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-120865393": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 128093,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-601205359": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 151278,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-370171323": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 134961,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-211094638": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 146791,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-343509678": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 49955,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-528489029": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 119361,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-161884457": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 156665,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-350477972": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 82206,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-177689606": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 16279,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-112697544": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 70568,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-257388318": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 86771,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-110638959": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 37792,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-347537096": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 19570,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-35636269": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 195371,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-97469225": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 167693,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-59730026": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 198536,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-265422617": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 217115,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-427724222": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 186050,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-170406670": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 54664,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-317323923": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 162415,
+   "species": "owl",
+   "split": "train"
+  },
+  "inat-486732693": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 21610,
+   "species": "chicken",
+   "split": "validation"
+  },
+  "inat-240442410": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 173042,
+   "species": "chicken",
+   "split": "validation"
+  },
+  "inat-551810876": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 118140,
+   "species": "chicken",
+   "split": "validation"
+  },
+  "inat-121782636": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 204356,
+   "species": "chicken",
+   "split": "validation"
+  },
+  "inat-356160890": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 83003,
+   "species": "chicken",
+   "split": "validation"
+  },
+  "inat-43973343": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 62136,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-59228513": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 91999,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-585251937": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 129714,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-133917209": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 95041,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-319743857": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 173178,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-92534456": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 293679,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-507594405": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 190558,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-469709742": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 41665,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-349091024": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 164451,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-264533009": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 153550,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-673018532": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 68894,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-58899007": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 118416,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-671554191": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 128681,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-134539854": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 87645,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-3784873": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 229022,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-672942491": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 69174,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-410202504": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 181428,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-476550767": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 262253,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-466273583": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 128392,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-46777998": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 155230,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-255590439": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 138244,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-729605681": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 91224,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-467736456": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 176843,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-117887965": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 138588,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-309572732": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 102423,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-622053293": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 65517,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-320871023": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 148172,
+   "species": "chicken",
+   "split": "train"
+  },
+  "inat-481792431": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 32817,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-195514206": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 171159,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-180394066": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 94048,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-276357350": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 88068,
+   "species": "duck",
+   "split": "validation"
+  },
+  "inat-308466763": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 239728,
+   "species": "duck",
+   "split": "train"
+  },
+  "121860793": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 9220503,
+   "species": "dog",
+   "split": "validation"
+  },
+  "inat-62736971": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 198816,
+   "species": "duck",
+   "split": "validation"
+  },
+  "inat-451375712": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 99195,
+   "species": "duck",
+   "split": "validation"
+  },
+  "inat-337790678": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 48052,
+   "species": "duck",
+   "split": "validation"
+  },
+  "inat-115141581": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 179285,
+   "species": "duck",
+   "split": "validation"
+  },
+  "inat-105367306": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 113486,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-458307949": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 28895,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-373369816": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 49897,
+   "species": "duck",
+   "split": "train"
+  },
+  "131641833": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 80171,
+   "species": "dog",
+   "split": "train"
+  },
+  "inat-116793572": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 87004,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-96775": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 32657,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-621861400": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 116919,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-32774133": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 65404,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-177479326": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 85196,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-290373164": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 189388,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-470859153": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 210302,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-126405965": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 173679,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-331539870": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 135162,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-170994987": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 111271,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-353707135": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 30495,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-173020103": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 96020,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-94136093": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 142916,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-47607231": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 38770,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-471042179": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 195232,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-183151342": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 88177,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-176925603": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 60710,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-264672256": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 104986,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-462081046": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 46564,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-50309186": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 145133,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-26297743": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 24151,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-252877439": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 60962,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-30268842": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 63845,
+   "species": "duck",
+   "split": "train"
+  },
+  "inat-246134767": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 91927,
+   "species": "parrot",
+   "split": "validation"
+  },
+  "inat-53847619": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 53997,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-353000973": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 79580,
+   "species": "parrot",
+   "split": "validation"
+  },
+  "inat-59779586": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 43304,
+   "species": "parrot",
+   "split": "validation"
+  },
+  "inat-177478766": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 26429,
+   "species": "parrot",
+   "split": "validation"
+  },
+  "inat-2148345": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 120256,
+   "species": "parrot",
+   "split": "validation"
+  },
+  "inat-49571056": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 190261,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-395655070": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 209938,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-229352372": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 110409,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-154022742": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 116331,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-412477110": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 51776,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-172959642": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 47691,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-478281813": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 208355,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-384672622": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 111249,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-252999998": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 58597,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-349488229": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 193389,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-30212558": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 65317,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-54688478": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 212228,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-175092775": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 86427,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-61876398": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 155717,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-147415773": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 110811,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-582858917": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 138195,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-322737772": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 326137,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-386289202": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 239312,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-505550169": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 33310,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-255623679": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 68817,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-105189664": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 127638,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-346313107": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 180445,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-94136727": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 227520,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-7022252": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 64151,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-128805746": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 163320,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-1179786": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 44157,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-1216194": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 21174,
+   "species": "parrot",
+   "split": "train"
+  },
+  "inat-551776284": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 131473,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-115704": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 38529,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-279211794": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 61186,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-359129885": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 121579,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-1199914": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 81191,
+   "species": "penguin",
+   "split": "validation"
+  },
+  "inat-279147961": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 45933,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-459761210": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 119253,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-253044037": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 67137,
+   "species": "penguin",
+   "split": "validation"
+  },
+  "inat-686515659": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 83760,
+   "species": "penguin",
+   "split": "validation"
+  },
+  "inat-446804475": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 130629,
+   "species": "penguin",
+   "split": "validation"
+  },
+  "inat-358659548": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 77613,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-20805220": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 65649,
+   "species": "penguin",
+   "split": "validation"
+  },
+  "inat-251293817": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 73041,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-356643024": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 165662,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-2912294": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 71959,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-475035937": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 219184,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-104255": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 59368,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-703500232": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 160167,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-28418984": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 96369,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-875775": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 128685,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-452832438": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 78295,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-470445059": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 50723,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-500379206": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 121786,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-229769670": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 33792,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-459761195": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 63375,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-181352508": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 108770,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-466892159": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 252261,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-137288415": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 99397,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-504949320": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 297499,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-7373216": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 170327,
+   "species": "penguin",
+   "split": "train"
+  },
+  "100150893": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5781420,
+   "species": "dog",
+   "split": "train"
+  },
+  "inat-351768766": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 29759,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-229759130": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 53391,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-11367815": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 26940,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-129036177": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 140102,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-301925995": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 22478,
+   "species": "flamingo",
+   "split": "validation"
+  },
+  "inat-309251217": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 72838,
+   "species": "penguin",
+   "split": "train"
+  },
+  "inat-13759359": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 163513,
+   "species": "flamingo",
+   "split": "validation"
+  },
+  "inat-350839165": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 108734,
+   "species": "flamingo",
+   "split": "validation"
+  },
+  "inat-98423459": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 137623,
+   "species": "flamingo",
+   "split": "validation"
+  },
+  "inat-110442742": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 77463,
+   "species": "flamingo",
+   "split": "validation"
+  },
+  "inat-64073975": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 167323,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-64524005": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 66544,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-171988790": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 28523,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-400069254": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 43400,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-327195813": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 27300,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-392983236": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 104141,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-448080337": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 232999,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-164433338": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 118498,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-327904575": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 28143,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-483670515": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 158219,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-317743816": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 149123,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-365451672": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 73917,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-448080539": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 261829,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-167243348": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 52951,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-58963097": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 91442,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-679424000": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 25030,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "143571500": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 9816497,
+   "species": "dog",
+   "split": "train"
+  },
+  "inat-327050524": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 92873,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-650400893": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 88368,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "9939869": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1855483,
+   "species": "dog",
+   "split": "train"
+  },
+  "inat-411420865": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 60573,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-333626795": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 46421,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-565766833": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 40696,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-57530089": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 50164,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-237570625": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 43333,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-186536361": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 113325,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-367653844": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 96915,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-93094523": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 137917,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-324582163": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 276637,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-408137050": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 66374,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-565765124": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 43901,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-173028536": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 38121,
+   "species": "ostrich",
+   "split": "validation"
+  },
+  "inat-93095406": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 182077,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-120956041": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 108608,
+   "species": "flamingo",
+   "split": "train"
+  },
+  "inat-49861570": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 92399,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-585240366": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 230560,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-49854225": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 70904,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-110397207": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 55825,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-410703952": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 154569,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-446427659": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 55772,
+   "species": "ostrich",
+   "split": "validation"
+  },
+  "inat-419513491": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 135366,
+   "species": "ostrich",
+   "split": "validation"
+  },
+  "inat-290501518": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 78464,
+   "species": "ostrich",
+   "split": "validation"
+  },
+  "inat-536767423": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 72255,
+   "species": "ostrich",
+   "split": "validation"
+  },
+  "inat-110412944": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 92984,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-55506762": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 144064,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-465600411": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 66359,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-315756616": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 98272,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-190287901": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 81007,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-439852043": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 31169,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-63786386": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 196550,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-333711376": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 45794,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-74381917": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 96459,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-107756221": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 100984,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-228207770": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 81672,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-138993053": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 35370,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-299256538": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 165995,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-447705657": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 165645,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-457875095": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 150944,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-131880269": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 112594,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-135457718": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 76421,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-227872774": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 125005,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-227873122": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 130504,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-108288375": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 134890,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-472022371": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 51898,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-97591380": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 154746,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-487863832": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 71887,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-621846407": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 49115,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-550815221": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 113137,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-2415459": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 54165,
+   "species": "crocodile",
+   "split": "validation"
+  },
+  "inat-76937520": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 133805,
+   "species": "ostrich",
+   "split": "train"
+  },
+  "inat-464307479": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 138269,
+   "species": "crocodile",
+   "split": "validation"
+  },
+  "inat-458764802": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 211782,
+   "species": "crocodile",
+   "split": "validation"
+  },
+  "inat-132120596": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 180154,
+   "species": "crocodile",
+   "split": "validation"
+  },
+  "inat-170384551": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 148505,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-106663266": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 148336,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-567539543": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 200482,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-2996345": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 124456,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-341243348": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 114128,
+   "species": "crocodile",
+   "split": "validation"
+  },
+  "inat-440970746": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 293473,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-9155899": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 44631,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-443205031": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 96970,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-363301656": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 106325,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-174241093": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 150630,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-125697861": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 191160,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-107830399": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 116062,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-363301507": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 82815,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-203390448": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 63058,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-188450126": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 158582,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-78409213": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 62758,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-110412180": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 101173,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-425753930": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 993247,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-62892016": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 71567,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-350136538": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 40339,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-601101959": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 147633,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-629307582": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 173206,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-251368576": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 149569,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-51609320": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 71115,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-1068147": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 124220,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-22073105": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 204842,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-448717006": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 88836,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-550814775": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 98240,
+   "species": "crocodile",
+   "split": "train"
+  },
+  "inat-352985244": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 145157,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-190032452": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 105141,
+   "species": "alligator",
+   "split": "validation"
+  },
+  "inat-286583752": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 245373,
+   "species": "alligator",
+   "split": "validation"
+  },
+  "inat-17639375": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 194055,
+   "species": "alligator",
+   "split": "validation"
+  },
+  "inat-63658093": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 129511,
+   "species": "alligator",
+   "split": "validation"
+  },
+  "inat-619680043": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 45136,
+   "species": "alligator",
+   "split": "validation"
+  },
+  "inat-116343680": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 192035,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-162722603": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 153570,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-640493843": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 213361,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-403364412": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 105449,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-437670873": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 66972,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-128658604": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 131402,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-113744549": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 75623,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-113342133": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 73807,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-178455413": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 215613,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-32333770": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 91481,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-73365880": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 299420,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-109298868": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 107210,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-294477002": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 204566,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-409374761": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 56141,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-107094205": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 110217,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-384102280": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 169135,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-263172211": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 113823,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-403364593": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 114943,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-188188177": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 103508,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-250512311": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 122821,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-3908367": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 118163,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-35498086": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 57256,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-132279752": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 51431,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-125636326": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 168877,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-470415785": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 186085,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-150449827": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 139483,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-29631948": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 121918,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-109793637": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 107039,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-287729504": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 161973,
+   "species": "alligator",
+   "split": "train"
+  },
+  "inat-430028534": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 200552,
+   "species": "snake",
+   "split": "validation"
+  },
+  "inat-257963854": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 57783,
+   "species": "snake",
+   "split": "validation"
+  },
+  "inat-62074097": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 49333,
+   "species": "snake",
+   "split": "validation"
+  },
+  "inat-74170469": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 122204,
+   "species": "snake",
+   "split": "validation"
+  },
+  "inat-15579254": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 123075,
+   "species": "snake",
+   "split": "validation"
+  },
+  "inat-3863981": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 114431,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-480990967": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 126783,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-524246878": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 245012,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-188224706": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 78039,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-24116499": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 278166,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-27347517": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 57255,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-445929918": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 240127,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-28516312": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 97946,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-91537613": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 105544,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-89005976": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 47325,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-122332630": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 37490,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-48733105": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 201799,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-76041077": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 201483,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-151861657": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 158842,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-346770854": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 134322,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-30098719": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 100234,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-354096307": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 69323,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-27212920": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 222686,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-255047686": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 74205,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-353998943": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 74936,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-578834546": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 145811,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-1520773": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 105160,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-39768378": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 101980,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-99085291": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 93245,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-63668789": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 52276,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-93251976": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 204801,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-74336329": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 71639,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-513903242": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 278840,
+   "species": "snake",
+   "split": "train"
+  },
+  "inat-4241656": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 63625,
+   "species": "turtle",
+   "split": "validation"
+  },
+  "inat-58416803": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 143705,
+   "species": "turtle",
+   "split": "validation"
+  },
+  "inat-61008816": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 87551,
+   "species": "turtle",
+   "split": "validation"
+  },
+  "inat-52549959": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 107061,
+   "species": "turtle",
+   "split": "validation"
+  },
+  "inat-110662725": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 105899,
+   "species": "turtle",
+   "split": "validation"
+  },
+  "inat-55805257": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 107701,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-10069781": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 119684,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-88503116": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 176502,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-23833432": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 131997,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-17279347": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 92071,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-78630799": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 118619,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-362473430": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 44713,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-96319302": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 137433,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-1503556": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 172840,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-128112196": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 86362,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-71753055": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 124488,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-13445379": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 23194,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-120834277": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 165966,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-153772165": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 55114,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-428968449": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 38440,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-387353156": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 187919,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-12908472": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 179355,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-6565335": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 101714,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-222342416": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 90706,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-355933997": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 58584,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-44650": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 74094,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-134664922": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 337017,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-594375940": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 163835,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-108166124": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 142157,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-183028089": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 107288,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-306289521": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 176515,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-59628157": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 69836,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-177836196": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 56180,
+   "species": "turtle",
+   "split": "train"
+  },
+  "inat-214728124": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 89708,
+   "species": "lizard",
+   "split": "validation"
+  },
+  "inat-34465930": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 121779,
+   "species": "lizard",
+   "split": "validation"
+  },
+  "inat-723515466": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 115479,
+   "species": "lizard",
+   "split": "validation"
+  },
+  "inat-337805779": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 43737,
+   "species": "lizard",
+   "split": "validation"
+  },
+  "inat-390838131": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 211277,
+   "species": "lizard",
+   "split": "validation"
+  },
+  "inat-50862707": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 161966,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-22706522": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 162889,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-117850": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 52006,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-365043923": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 83296,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-271285953": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 251633,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-189202497": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 145637,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-350174315": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 221121,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-117644897": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 64240,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-516813666": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 233192,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-328483141": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 230855,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-16228636": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 54262,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-495010717": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 73671,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-546798722": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 93086,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-1591739": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 121011,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-367324059": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 263365,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-170329676": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 93705,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-413826365": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 32910,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-128383462": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 303751,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-177581587": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 57973,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-313399670": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 152413,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-456737303": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 58431,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-285118058": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 171350,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-234117657": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 153609,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-520894370": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 57664,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-229086062": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 130821,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-495041365": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 217999,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-556063513": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 98001,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-262804801": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 24539,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-334294775": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 100933,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-84926950": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 78627,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-33275779": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 102661,
+   "species": "bee",
+   "split": "validation"
+  },
+  "inat-527745218": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 284369,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-29317147": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 76322,
+   "species": "lizard",
+   "split": "train"
+  },
+  "inat-288238366": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 68539,
+   "species": "bee",
+   "split": "validation"
+  },
+  "inat-2305605": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 54041,
+   "species": "bee",
+   "split": "validation"
+  },
+  "inat-166003551": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 33957,
+   "species": "bee",
+   "split": "validation"
+  },
+  "inat-415361692": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 129254,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-16377371": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 96394,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-139926384": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 103598,
+   "species": "bee",
+   "split": "validation"
+  },
+  "inat-194142578": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 155536,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-217394043": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 164613,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-112241344": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 121846,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-646898645": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 202158,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-103116228": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 97180,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-323687628": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 71298,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-204239737": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 57715,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-208890074": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 97897,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-314806917": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 306718,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-189483375": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 144589,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-4742408": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 62769,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-131757988": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 109483,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-289112905": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 298269,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-89193168": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 23969,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-50962190": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 106744,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-628123395": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 131644,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-483135100": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 148242,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-115362897": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 86461,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-102437763": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 47704,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-180731456": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 44508,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-29786739": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 20767,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-466286765": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 81982,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-115576685": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 47307,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-5692357": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 53520,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-291701214": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 32877,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-4648344": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 117864,
+   "species": "bee",
+   "split": "train"
+  },
+  "inat-48011428": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 91058,
+   "species": "butterfly",
+   "split": "validation"
+  },
+  "inat-394447828": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 204478,
+   "species": "butterfly",
+   "split": "validation"
+  },
+  "inat-13808384": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 53682,
+   "species": "butterfly",
+   "split": "validation"
+  },
+  "inat-4503292": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 69442,
+   "species": "butterfly",
+   "split": "validation"
+  },
+  "inat-110333639": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 92701,
+   "species": "butterfly",
+   "split": "validation"
+  },
+  "inat-4871987": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 64784,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-46547792": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 128317,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-14825615": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 89243,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-136273568": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 64807,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-84167411": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 112816,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-160512975": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 133929,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-59232023": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 34150,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-26370266": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 257212,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-525765561": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 72644,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-230995584": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 203822,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-241946998": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 90584,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-58865565": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 66154,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-4096862": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 134840,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-492111997": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 159477,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-2762667": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 134073,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-154750168": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 81306,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-39318766": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 73543,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-189680875": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 147434,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-100110318": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 113832,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-67971233": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 82225,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-318283292": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 191545,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-25312775": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 246309,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-10269445": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 57282,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-512017993": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 210930,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-60367305": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 49501,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-148866876": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 82183,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-456741489": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 97001,
+   "species": "butterfly",
+   "split": "train"
+  },
+  "inat-671999555": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 78161,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-54993079": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 181260,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-157573226": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 23816,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-612352976": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 140320,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-554341563": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 127370,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-636544197": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 140873,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-486786981": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 58900,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-185136556": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 178291,
+   "species": "ant",
+   "split": "validation"
+  },
+  "inat-451808820": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 120442,
+   "species": "ant",
+   "split": "validation"
+  },
+  "inat-211654606": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 113903,
+   "species": "ant",
+   "split": "validation"
+  },
+  "inat-368781887": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 186270,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-77314274": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 59307,
+   "species": "ant",
+   "split": "validation"
+  },
+  "inat-454076749": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 100930,
+   "species": "ant",
+   "split": "validation"
+  },
+  "inat-188473616": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 192874,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-226790298": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 94165,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-12637310": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 114858,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-1842313": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 86879,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-52865813": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 69571,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-353765041": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 187106,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-2772174": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 16821,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-411144004": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 99518,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-506664334": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 198190,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-806908": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 64230,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-350860654": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 245936,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-167879315": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 142451,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-213577767": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 343613,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-599475789": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 35309,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-40788295": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 231269,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-477122926": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 80383,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-210032324": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 95883,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-58465198": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 103684,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-548777510": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 58904,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-29099437": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 86489,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-6045027": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 107845,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-256628885": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 138176,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-31552832": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 92770,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-13479616": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 57305,
+   "species": "beetle",
+   "split": "validation"
+  },
+  "inat-422526180": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 46422,
+   "species": "beetle",
+   "split": "validation"
+  },
+  "inat-2951723": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 78230,
+   "species": "beetle",
+   "split": "validation"
+  },
+  "inat-162907737": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 89012,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-15152305": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 60044,
+   "species": "beetle",
+   "split": "validation"
+  },
+  "inat-4878185": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 95500,
+   "species": "beetle",
+   "split": "validation"
+  },
+  "inat-109618153": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 103906,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-43493826": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 131330,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-163739577": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 93269,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-210126411": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 131882,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-59048042": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 117541,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-45181359": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 192801,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-59402136": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 60815,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-41689552": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 107507,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-173116641": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 93379,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-265389138": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 147264,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-129702524": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 61816,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-59830522": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 51302,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-21785229": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 73419,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-4726344": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 50611,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-292179100": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 8936252,
+   "species": "ant",
+   "split": "train"
+  },
+  "inat-18333703": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 54040,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-328561887": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 149818,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-514740709": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 104738,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-69278141": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 68770,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-18333696": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 52393,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-230276985": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 126539,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-731759807": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 56313,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-52276730": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 123943,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-305496274": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 205414,
+   "species": "grasshopper",
+   "split": "validation"
+  },
+  "inat-188140249": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 72662,
+   "species": "grasshopper",
+   "split": "validation"
+  },
+  "inat-21173800": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 27129,
+   "species": "grasshopper",
+   "split": "validation"
+  },
+  "inat-31118856": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 84237,
+   "species": "grasshopper",
+   "split": "validation"
+  },
+  "inat-45083726": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 59383,
+   "species": "grasshopper",
+   "split": "validation"
+  },
+  "inat-21682560": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 82468,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-143997052": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 214446,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-42481515": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 122909,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-190420561": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 47916,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-192448904": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 53893,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-60329750": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 79931,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-268458164": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 75418,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-183067431": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 105462,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-15317753": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 188299,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-12158781": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 141744,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-203986729": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 82745,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-178237581": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 76754,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-254259026": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 63638,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-64731666": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 149898,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-597009299": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 74957,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-520864401": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 183039,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-340283906": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 177799,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-94554508": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 51528,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-270078290": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 168981,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-137667900": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 50033,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-113481941": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 55762,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-574593709": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 80704,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-389550355": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 248678,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-137688899": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 45773,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-24770405": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 69932,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-235954040": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 55754,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-243679112": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 40053,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-262500185": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 107568,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-421139709": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 141716,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-177534340": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 176862,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-154883429": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 40204,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-111258716": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 103003,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-219945707": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 284629,
+   "species": "dragonfly",
+   "split": "validation"
+  },
+  "inat-223910537": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 35767,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-445897237": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 69771,
+   "species": "dragonfly",
+   "split": "validation"
+  },
+  "inat-83507340": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 86210,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-20461844": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 121596,
+   "species": "dragonfly",
+   "split": "validation"
+  },
+  "inat-25789191": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 209389,
+   "species": "dragonfly",
+   "split": "validation"
+  },
+  "inat-5454508": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 98371,
+   "species": "dragonfly",
+   "split": "validation"
+  },
+  "inat-15321319": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 10323095,
+   "species": "grasshopper",
+   "split": "train"
+  },
+  "inat-4938013": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 55025,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-45827902": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 171201,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-27904476": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 13113507,
+   "species": "beetle",
+   "split": "train"
+  },
+  "inat-45149827": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 123927,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-167891130": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 86616,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-437875144": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 83296,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-2596616": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 79121,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-332005580": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 89081,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-55685918": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 112300,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-187712612": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 158050,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-349737132": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 105731,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-509671384": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 98795,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-34412637": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 124159,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-70126199": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 118094,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-154883886": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 29005,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-38246608": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 60980,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-28211097": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 29962,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-282228501": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 145826,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-252034551": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 65716,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-664554467": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 32206,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-17394744": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 82409,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-64762540": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 116349,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-9165605": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 47223,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-160633437": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 102399,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-355631697": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 66693,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-147818990": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 41509,
+   "species": "dragonfly",
+   "split": "train"
+  },
+  "inat-198086637": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 28996,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-271563344": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 122230,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-295587287": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 189291,
+   "species": "ladybug",
+   "split": "validation"
+  },
+  "inat-570654": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 131523,
+   "species": "ladybug",
+   "split": "validation"
+  },
+  "inat-78364261": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 84420,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-334980959": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 163240,
+   "species": "ladybug",
+   "split": "validation"
+  },
+  "inat-161024470": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 135233,
+   "species": "ladybug",
+   "split": "validation"
+  },
+  "inat-224148009": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 110425,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-441159638": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 171607,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-506480091": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 81096,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-143226671": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 55251,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-550380119": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 138649,
+   "species": "ladybug",
+   "split": "validation"
+  },
+  "inat-258244756": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 62760,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-373266151": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 127520,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-375875537": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 102434,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-10101411": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 84223,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-31271217": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 22172,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-166850330": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 28889,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-422432963": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 86075,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-43490334": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 129162,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-29801254": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 79575,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-418165325": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 152027,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-12473502": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 109099,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-195464653": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 74924,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-113493443": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 211263,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-224375946": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 155387,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-296791407": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 100196,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-450940904": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 35914,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-207503460": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 39957,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-402548622": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 156474,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-159015708": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 87959,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-15191494": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 45010,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-126733006": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 129155,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-46640028": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 81277,
+   "species": "ladybug",
+   "split": "train"
+  },
+  "inat-189612590": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 163148,
+   "species": "dolphin",
+   "split": "ood_validation"
+  },
+  "inat-9280144": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 16267,
+   "species": "dolphin",
+   "split": "ood_validation"
+  },
+  "inat-341667124": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 250572,
+   "species": "dolphin",
+   "split": "ood_validation"
+  },
+  "inat-368901016": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 188732,
+   "species": "dolphin",
+   "split": "ood_validation"
+  },
+  "inat-116167552": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 43464,
+   "species": "dolphin",
+   "split": "ood_validation"
+  },
+  "inat-593431789": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 112882,
+   "species": "dolphin",
+   "split": "ood_validation"
+  },
+  "inat-380921709": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 98057,
+   "species": "dolphin",
+   "split": "ood_validation"
+  },
+  "inat-282690764": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 187611,
+   "species": "dolphin",
+   "split": "ood_validation"
+  },
+  "inat-402424055": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 95789,
+   "species": "dolphin",
+   "split": "ood_validation"
+  },
+  "inat-181337170": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 155718,
+   "species": "dolphin",
+   "split": "ood_validation"
+  },
+  "inat-202100427": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 175686,
+   "species": "snail",
+   "split": "ood_validation"
+  },
+  "inat-513518239": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 47712,
+   "species": "snail",
+   "split": "ood_validation"
+  },
+  "inat-198807049": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 157816,
+   "species": "snail",
+   "split": "ood_validation"
+  },
+  "inat-552828019": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 203874,
+   "species": "snail",
+   "split": "ood_validation"
+  },
+  "inat-277296037": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 162306,
+   "species": "snail",
+   "split": "ood_validation"
+  },
+  "inat-189184505": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 138082,
+   "species": "snail",
+   "split": "ood_validation"
+  },
+  "inat-362287299": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 200415,
+   "species": "snail",
+   "split": "ood_validation"
+  },
+  "inat-52872323": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 110717,
+   "species": "snail",
+   "split": "ood_validation"
+  },
+  "inat-69115794": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 175936,
+   "species": "snail",
+   "split": "ood_validation"
+  },
+  "inat-178252924": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 174178,
+   "species": "moose",
+   "split": "ood_validation"
+  },
+  "inat-368695438": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 77383,
+   "species": "moose",
+   "split": "ood_validation"
+  },
+  "inat-592781328": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 148311,
+   "species": "moose",
+   "split": "ood_validation"
+  },
+  "inat-104336704": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 13114,
+   "species": "moose",
+   "split": "ood_validation"
+  },
+  "inat-207574401": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 105612,
+   "species": "moose",
+   "split": "ood_validation"
+  },
+  "inat-458933375": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 404106,
+   "species": "moose",
+   "split": "ood_validation"
+  },
+  "inat-386908311": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 127841,
+   "species": "moose",
+   "split": "ood_validation"
+  },
+  "inat-86108810": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 150237,
+   "species": "moose",
+   "split": "ood_validation"
+  },
+  "2987589": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1754795,
+   "species": "dog",
+   "split": "train"
+  },
+  "34658146": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2763939,
+   "species": "dog",
+   "split": "train"
+  },
+  "41077033": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 369317,
+   "species": "dog",
+   "split": "train"
+  },
+  "13279024": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 844659,
+   "species": "dog",
+   "split": "train"
+  },
+  "51439817": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5744379,
+   "species": "dog",
+   "split": "train"
+  },
+  "160138150": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1468262,
+   "species": "dog",
+   "split": "train"
+  },
+  "77930540": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1262120,
+   "species": "dog",
+   "split": "train"
+  },
+  "97162230": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 11212736,
+   "species": "dog",
+   "split": "train"
+  },
+  "51439737": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5368379,
+   "species": "dog",
+   "split": "train"
+  },
+  "94204770": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1285139,
+   "species": "dog",
+   "split": "train"
+  },
+  "116519887": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4376475,
+   "species": "dog",
+   "split": "train"
+  },
+  "13293835": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1051360,
+   "species": "dog",
+   "split": "train"
+  },
+  "46855454": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2642800,
+   "species": "dog",
+   "split": "train"
+  },
+  "94379551": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2566879,
+   "species": "dog",
+   "split": "train"
+  },
+  "100150891": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5227327,
+   "species": "dog",
+   "split": "train"
+  },
+  "116675279": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5059725,
+   "species": "dog",
+   "split": "train"
+  },
+  "131641351": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 146468,
+   "species": "dog",
+   "split": "train"
+  },
+  "107583216": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 16823516,
+   "species": "cat",
+   "split": "train"
+  },
+  "107583192": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 14118087,
+   "species": "cat",
+   "split": "train"
+  },
+  "137634068": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3295122,
+   "species": "cat",
+   "split": "train"
+  },
+  "21253159": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3581936,
+   "species": "cat",
+   "split": "validation"
+  },
+  "89243338": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2928969,
+   "species": "cat",
+   "split": "validation"
+  },
+  "184752527": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 582212,
+   "species": "cat",
+   "split": "validation"
+  },
+  "163439778": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2163640,
+   "species": "cat",
+   "split": "validation"
+  },
+  "154629294": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2938859,
+   "species": "cat",
+   "split": "train"
+  },
+  "86450678": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4237358,
+   "species": "cat",
+   "split": "validation"
+  },
+  "131320642": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1890298,
+   "species": "cat",
+   "split": "train"
+  },
+  "107361411": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 327789,
+   "species": "cat",
+   "split": "train"
+  },
+  "9809267": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3017217,
+   "species": "cat",
+   "split": "train"
+  },
+  "9437797": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2125399,
+   "species": "cat",
+   "split": "train"
+  },
+  "12127693": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2833605,
+   "species": "cat",
+   "split": "train"
+  },
+  "154629295": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2449303,
+   "species": "cat",
+   "split": "train"
+  },
+  "193566555": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 9132253,
+   "species": "cat",
+   "split": "train"
+  },
+  "11010144": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1653479,
+   "species": "cat",
+   "split": "train"
+  },
+  "148381583": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 15292825,
+   "species": "cat",
+   "split": "train"
+  },
+  "32507829": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4652034,
+   "species": "cat",
+   "split": "train"
+  },
+  "63912912": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 6630478,
+   "species": "cat",
+   "split": "train"
+  },
+  "157302597": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2221340,
+   "species": "cat",
+   "split": "train"
+  },
+  "22849852": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2119028,
+   "species": "cat",
+   "split": "train"
+  },
+  "132353712": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2291022,
+   "species": "cat",
+   "split": "train"
+  },
+  "132488691": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1129106,
+   "species": "cat",
+   "split": "train"
+  },
+  "12676003": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8132575,
+   "species": "cat",
+   "split": "train"
+  },
+  "83442815": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4106207,
+   "species": "cat",
+   "split": "train"
+  },
+  "73471816": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1908469,
+   "species": "cat",
+   "split": "train"
+  },
+  "136634167": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1250059,
+   "species": "cat",
+   "split": "train"
+  },
+  "176984148": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3594729,
+   "species": "cat",
+   "split": "train"
+  },
+  "107361406": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 520386,
+   "species": "cat",
+   "split": "train"
+  },
+  "107583210": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 15593249,
+   "species": "cat",
+   "split": "train"
+  },
+  "11390310": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3119885,
+   "species": "cat",
+   "split": "train"
+  },
+  "68960758": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8231099,
+   "species": "cat",
+   "split": "train"
+  },
+  "178887206": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 21817513,
+   "species": "cat",
+   "split": "train"
+  },
+  "137634066": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3561400,
+   "species": "cat",
+   "split": "train"
+  },
+  "150103579": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1846018,
+   "species": "horse",
+   "split": "train"
+  },
+  "29569008": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 6066866,
+   "species": "horse",
+   "split": "train"
+  },
+  "9456234": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 78356,
+   "species": "horse",
+   "split": "validation"
+  },
+  "151756268": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 14117095,
+   "species": "horse",
+   "split": "train"
+  },
+  "74078588": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7894178,
+   "species": "horse",
+   "split": "validation"
+  },
+  "132794933": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 548283,
+   "species": "horse",
+   "split": "train"
+  },
+  "132794931": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 378060,
+   "species": "horse",
+   "split": "train"
+  },
+  "511525": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 1902341,
+   "species": "horse",
+   "split": "validation"
+  },
+  "31306226": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 10520237,
+   "species": "horse",
+   "split": "validation"
+  },
+  "3511801": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1749548,
+   "species": "horse",
+   "split": "validation"
+  },
+  "472074": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 886526,
+   "species": "horse",
+   "split": "train"
+  },
+  "146991616": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 6024114,
+   "species": "horse",
+   "split": "train"
+  },
+  "90636902": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 10610788,
+   "species": "horse",
+   "split": "train"
+  },
+  "37204145": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 31588060,
+   "species": "horse",
+   "split": "train"
+  },
+  "150103580": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2660088,
+   "species": "horse",
+   "split": "train"
+  },
+  "109869165": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 6936226,
+   "species": "horse",
+   "split": "train"
+  },
+  "159666915": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 198099,
+   "species": "horse",
+   "split": "train"
+  },
+  "13075179": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 71361,
+   "species": "horse",
+   "split": "train"
+  },
+  "71700911": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 477801,
+   "species": "horse",
+   "split": "train"
+  },
+  "119845077": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4768223,
+   "species": "horse",
+   "split": "train"
+  },
+  "77664892": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 9108433,
+   "species": "horse",
+   "split": "train"
+  },
+  "101591666": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 26510373,
+   "species": "horse",
+   "split": "train"
+  },
+  "39093186": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3377509,
+   "species": "horse",
+   "split": "train"
+  },
+  "24866530": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 360036,
+   "species": "horse",
+   "split": "train"
+  },
+  "308048": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 198870,
+   "species": "horse",
+   "split": "train"
+  },
+  "37205676": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 16951532,
+   "species": "horse",
+   "split": "train"
+  },
+  "151756341": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7194267,
+   "species": "horse",
+   "split": "train"
+  },
+  "74284734": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 6379859,
+   "species": "horse",
+   "split": "train"
+  },
+  "82467952": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7727313,
+   "species": "horse",
+   "split": "train"
+  },
+  "66748669": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 9784071,
+   "species": "horse",
+   "split": "train"
+  },
+  "79609977": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1138844,
+   "species": "horse",
+   "split": "train"
+  },
+  "168281793": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 24430935,
+   "species": "horse",
+   "split": "train"
+  },
+  "11314693": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3242052,
+   "species": "cow",
+   "split": "train"
+  },
+  "23197255": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3947451,
+   "species": "cow",
+   "split": "validation"
+  },
+  "132652099": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1522751,
+   "species": "cow",
+   "split": "validation"
+  },
+  "808501": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 908691,
+   "species": "cow",
+   "split": "validation"
+  },
+  "2588846": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5177410,
+   "species": "cow",
+   "split": "validation"
+  },
+  "11314756": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4067774,
+   "species": "cow",
+   "split": "train"
+  },
+  "11314609": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4416127,
+   "species": "cow",
+   "split": "train"
+  },
+  "11314640": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4375866,
+   "species": "cow",
+   "split": "train"
+  },
+  "25297821": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 9336239,
+   "species": "cow",
+   "split": "validation"
+  },
+  "49279106": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3706949,
+   "species": "cow",
+   "split": "train"
+  },
+  "180986311": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1874624,
+   "species": "cow",
+   "split": "train"
+  },
+  "11314507": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4366652,
+   "species": "cow",
+   "split": "train"
+  },
+  "177311492": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 18756084,
+   "species": "cow",
+   "split": "train"
+  },
+  "11314739": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4223925,
+   "species": "cow",
+   "split": "train"
+  },
+  "86579859": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5545538,
+   "species": "cow",
+   "split": "train"
+  },
+  "7421277": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5509695,
+   "species": "cow",
+   "split": "train"
+  },
+  "113530003": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4104882,
+   "species": "cow",
+   "split": "train"
+  },
+  "190482219": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 6341205,
+   "species": "cow",
+   "split": "train"
+  },
+  "150378335": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 6920621,
+   "species": "cow",
+   "split": "train"
+  },
+  "11314666": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4250580,
+   "species": "cow",
+   "split": "train"
+  },
+  "190482214": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 6685304,
+   "species": "cow",
+   "split": "train"
+  },
+  "45581404": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1625389,
+   "species": "cow",
+   "split": "train"
+  },
+  "116919312": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 11120080,
+   "species": "cow",
+   "split": "train"
+  },
+  "68986": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 787749,
+   "species": "cow",
+   "split": "train"
+  },
+  "156457669": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 10457022,
+   "species": "cow",
+   "split": "train"
+  },
+  "151033633": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1112953,
+   "species": "cow",
+   "split": "train"
+  },
+  "105034644": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2615331,
+   "species": "cow",
+   "split": "train"
+  },
+  "119889039": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4896355,
+   "species": "cow",
+   "split": "train"
+  },
+  "11314709": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3901550,
+   "species": "cow",
+   "split": "train"
+  },
+  "150848849": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 6807697,
+   "species": "cow",
+   "split": "train"
+  },
+  "105034645": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5957125,
+   "species": "cow",
+   "split": "train"
+  },
+  "150848850": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7920135,
+   "species": "cow",
+   "split": "train"
+  },
+  "11314578": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3690788,
+   "species": "cow",
+   "split": "train"
+  },
+  "60732966": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 623352,
+   "species": "cow",
+   "split": "train"
+  },
+  "7868883": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2355888,
+   "species": "cow",
+   "split": "train"
+  },
+  "11314561": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4401796,
+   "species": "cow",
+   "split": "train"
+  },
+  "11314534": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3402686,
+   "species": "cow",
+   "split": "train"
+  },
+  "80188413": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8183734,
+   "species": "sheep",
+   "split": "validation"
+  },
+  "151757338": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4730575,
+   "species": "sheep",
+   "split": "validation"
+  },
+  "80954075": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 16204898,
+   "species": "sheep",
+   "split": "validation"
+  },
+  "121299821": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 6445655,
+   "species": "sheep",
+   "split": "train"
+  },
+  "58683585": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4829948,
+   "species": "sheep",
+   "split": "train"
+  },
+  "135940967": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4964864,
+   "species": "sheep",
+   "split": "validation"
+  },
+  "121299829": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5296159,
+   "species": "sheep",
+   "split": "train"
+  },
+  "195862274": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4426945,
+   "species": "sheep",
+   "split": "validation"
+  },
+  "132422483": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4254153,
+   "species": "sheep",
+   "split": "train"
+  },
+  "16818": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1455261,
+   "species": "sheep",
+   "split": "train"
+  },
+  "158322955": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 24907541,
+   "species": "sheep",
+   "split": "train"
+  },
+  "158324215": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 15690410,
+   "species": "sheep",
+   "split": "train"
+  },
+  "7213563": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3140290,
+   "species": "sheep",
+   "split": "train"
+  },
+  "121299825": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 6457718,
+   "species": "sheep",
+   "split": "train"
+  },
+  "145961540": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5536934,
+   "species": "sheep",
+   "split": "train"
+  },
+  "121299824": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 6396755,
+   "species": "sheep",
+   "split": "train"
+  },
+  "130777949": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3654277,
+   "species": "sheep",
+   "split": "train"
+  },
+  "58683580": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4936620,
+   "species": "sheep",
+   "split": "train"
+  },
+  "130700388": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5561116,
+   "species": "sheep",
+   "split": "train"
+  },
+  "180986309": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2553614,
+   "species": "sheep",
+   "split": "train"
+  },
+  "57598159": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 6000270,
+   "species": "sheep",
+   "split": "train"
+  },
+  "158324213": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 13862617,
+   "species": "sheep",
+   "split": "train"
+  },
+  "145961539": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 6281171,
+   "species": "sheep",
+   "split": "train"
+  },
+  "131858819": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 213420,
+   "species": "sheep",
+   "split": "train"
+  },
+  "99293771": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3463863,
+   "species": "sheep",
+   "split": "train"
+  },
+  "149324214": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7780738,
+   "species": "sheep",
+   "split": "train"
+  },
+  "191692321": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2099061,
+   "species": "sheep",
+   "split": "train"
+  },
+  "121299827": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5919110,
+   "species": "sheep",
+   "split": "train"
+  },
+  "121299820": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 6311241,
+   "species": "sheep",
+   "split": "train"
+  },
+  "104072350": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7670864,
+   "species": "sheep",
+   "split": "train"
+  },
+  "161209421": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 15987320,
+   "species": "sheep",
+   "split": "train"
+  },
+  "92690950": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2098189,
+   "species": "sheep",
+   "split": "train"
+  },
+  "121299822": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5934895,
+   "species": "sheep",
+   "split": "train"
+  },
+  "153798114": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2295625,
+   "species": "goat",
+   "split": "validation"
+  },
+  "25648388": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 9192022,
+   "species": "goat",
+   "split": "validation"
+  },
+  "167021762": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7635489,
+   "species": "goat",
+   "split": "train"
+  },
+  "161011499": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7825334,
+   "species": "goat",
+   "split": "train"
+  },
+  "161011500": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7593037,
+   "species": "goat",
+   "split": "train"
+  },
+  "161011494": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7986232,
+   "species": "goat",
+   "split": "train"
+  },
+  "17794820": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1692890,
+   "species": "goat",
+   "split": "validation"
+  },
+  "167021767": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7525517,
+   "species": "goat",
+   "split": "train"
+  },
+  "146252684": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1081217,
+   "species": "goat",
+   "split": "train"
+  },
+  "31222936": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8325604,
+   "species": "goat",
+   "split": "train"
+  },
+  "147695503": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 9785672,
+   "species": "goat",
+   "split": "validation"
+  },
+  "167021759": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7616527,
+   "species": "goat",
+   "split": "train"
+  },
+  "136259184": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4260318,
+   "species": "goat",
+   "split": "validation"
+  },
+  "2624500": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1483580,
+   "species": "goat",
+   "split": "train"
+  },
+  "131527224": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 102006,
+   "species": "goat",
+   "split": "train"
+  },
+  "141831720": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5476187,
+   "species": "goat",
+   "split": "train"
+  },
+  "131428677": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2112023,
+   "species": "goat",
+   "split": "train"
+  },
+  "146252699": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2435065,
+   "species": "goat",
+   "split": "train"
+  },
+  "149704630": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 12277654,
+   "species": "goat",
+   "split": "train"
+  },
+  "131826910": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 14621440,
+   "species": "goat",
+   "split": "train"
+  },
+  "42998869": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2803712,
+   "species": "goat",
+   "split": "train"
+  },
+  "167021760": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2588326,
+   "species": "goat",
+   "split": "train"
+  },
+  "59890649": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1193107,
+   "species": "goat",
+   "split": "train"
+  },
+  "146252693": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1849415,
+   "species": "goat",
+   "split": "train"
+  },
+  "103795": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 630917,
+   "species": "goat",
+   "split": "train"
+  },
+  "45178299": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3562467,
+   "species": "goat",
+   "split": "train"
+  },
+  "131826897": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5512750,
+   "species": "goat",
+   "split": "train"
+  },
+  "28266021": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2157388,
+   "species": "goat",
+   "split": "train"
+  },
+  "120181960": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2487882,
+   "species": "goat",
+   "split": "train"
+  },
+  "2624490": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1260297,
+   "species": "goat",
+   "split": "train"
+  },
+  "26051455": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8736624,
+   "species": "goat",
+   "split": "train"
+  },
+  "71470738": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 578727,
+   "species": "goat",
+   "split": "train"
+  },
+  "2624517": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1409815,
+   "species": "goat",
+   "split": "train"
+  },
+  "26954959": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8305833,
+   "species": "pig",
+   "split": "validation"
+  },
+  "163281083": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3363281,
+   "species": "pig",
+   "split": "validation"
+  },
+  "101318151": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3518504,
+   "species": "pig",
+   "split": "train"
+  },
+  "92317958": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 6498638,
+   "species": "pig",
+   "split": "train"
+  },
+  "92317934": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8349686,
+   "species": "pig",
+   "split": "train"
+  },
+  "92317922": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 9472654,
+   "species": "pig",
+   "split": "train"
+  },
+  "92317901": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7285025,
+   "species": "pig",
+   "split": "train"
+  },
+  "53018291": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1368515,
+   "species": "pig",
+   "split": "train"
+  },
+  "26530005": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1516509,
+   "species": "pig",
+   "split": "train"
+  },
+  "94028564": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5886139,
+   "species": "pig",
+   "split": "train"
+  },
+  "154922639": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8171321,
+   "species": "pig",
+   "split": "validation"
+  },
+  "150881020": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 756778,
+   "species": "pig",
+   "split": "validation"
+  },
+  "4565880": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8419708,
+   "species": "pig",
+   "split": "validation"
+  },
+  "26530004": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2097099,
+   "species": "pig",
+   "split": "train"
+  },
+  "4487317": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 919461,
+   "species": "pig",
+   "split": "train"
+  },
+  "92318035": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 9743038,
+   "species": "pig",
+   "split": "train"
+  },
+  "7541628": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3358554,
+   "species": "pig",
+   "split": "train"
+  },
+  "94028566": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8604793,
+   "species": "pig",
+   "split": "train"
+  },
+  "92318029": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 14477342,
+   "species": "pig",
+   "split": "train"
+  },
+  "5205033": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2516250,
+   "species": "pig",
+   "split": "train"
+  },
+  "71542316": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1093270,
+   "species": "pig",
+   "split": "train"
+  },
+  "84375": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1068532,
+   "species": "pig",
+   "split": "train"
+  },
+  "105380359": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4551824,
+   "species": "pig",
+   "split": "train"
+  },
+  "71543046": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1332332,
+   "species": "pig",
+   "split": "train"
+  },
+  "2666884": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1791695,
+   "species": "pig",
+   "split": "train"
+  },
+  "26530006": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1297453,
+   "species": "pig",
+   "split": "train"
+  },
+  "101318154": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3631179,
+   "species": "pig",
+   "split": "train"
+  },
+  "92318041": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8458498,
+   "species": "pig",
+   "split": "train"
+  },
+  "87853431": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 886320,
+   "species": "pig",
+   "split": "train"
+  },
+  "84522320": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 10481233,
+   "species": "pig",
+   "split": "train"
+  },
+  "92317956": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 6055052,
+   "species": "pig",
+   "split": "train"
+  },
+  "92317911": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 11710804,
+   "species": "pig",
+   "split": "train"
+  },
+  "41748780": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 866646,
+   "species": "elephant",
+   "split": "validation"
+  },
+  "146584050": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 10814035,
+   "species": "elephant",
+   "split": "train"
+  },
+  "116011310": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4628432,
+   "species": "elephant",
+   "split": "validation"
+  },
+  "82200192": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2183198,
+   "species": "elephant",
+   "split": "validation"
+  },
+  "163664261": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7427835,
+   "species": "elephant",
+   "split": "train"
+  },
+  "83997417": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8476342,
+   "species": "elephant",
+   "split": "train"
+  },
+  "163664240": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 13130432,
+   "species": "elephant",
+   "split": "train"
+  },
+  "179280826": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7365639,
+   "species": "elephant",
+   "split": "train"
+  },
+  "74484704": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 19692080,
+   "species": "elephant",
+   "split": "validation"
+  },
+  "125937469": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 395288,
+   "species": "elephant",
+   "split": "train"
+  },
+  "58441967": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 683545,
+   "species": "elephant",
+   "split": "train"
+  },
+  "151040899": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 396049,
+   "species": "elephant",
+   "split": "train"
+  },
+  "79735071": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2411465,
+   "species": "elephant",
+   "split": "train"
+  },
+  "91854281": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 12960873,
+   "species": "elephant",
+   "split": "train"
+  },
+  "180972909": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 21594502,
+   "species": "elephant",
+   "split": "train"
+  },
+  "83741313": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 10311892,
+   "species": "elephant",
+   "split": "train"
+  },
+  "24311973": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1458573,
+   "species": "elephant",
+   "split": "train"
+  },
+  "17903111": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 377022,
+   "species": "elephant",
+   "split": "train"
+  },
+  "81754720": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 10078825,
+   "species": "elephant",
+   "split": "train"
+  },
+  "170362424": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 30216617,
+   "species": "elephant",
+   "split": "train"
+  },
+  "153798112": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3437166,
+   "species": "elephant",
+   "split": "train"
+  },
+  "196080378": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 9642091,
+   "species": "lion",
+   "split": "train"
+  },
+  "116363289": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 421421,
+   "species": "lion",
+   "split": "train"
+  },
+  "77073158": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5804433,
+   "species": "lion",
+   "split": "validation"
+  },
+  "114891374": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 10159688,
+   "species": "lion",
+   "split": "train"
+  },
+  "151039020": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 10190533,
+   "species": "lion",
+   "split": "validation"
+  },
+  "4782819": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4061406,
+   "species": "lion",
+   "split": "validation"
+  },
+  "116327300": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 371260,
+   "species": "lion",
+   "split": "train"
+  },
+  "73811000": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 803221,
+   "species": "lion",
+   "split": "validation"
+  },
+  "32826255": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 11681600,
+   "species": "lion",
+   "split": "validation"
+  },
+  "15726381": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1601813,
+   "species": "lion",
+   "split": "train"
+  },
+  "54082186": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 12084663,
+   "species": "lion",
+   "split": "train"
+  },
+  "121188762": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8273660,
+   "species": "lion",
+   "split": "train"
+  },
+  "39505212": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 9498610,
+   "species": "lion",
+   "split": "train"
+  },
+  "49757957": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4326229,
+   "species": "lion",
+   "split": "train"
+  },
+  "24541214": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5210752,
+   "species": "lion",
+   "split": "train"
+  },
+  "882958": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 859788,
+   "species": "lion",
+   "split": "train"
+  },
+  "26301623": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2220178,
+   "species": "lion",
+   "split": "train"
+  },
+  "131221870": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 96226,
+   "species": "lion",
+   "split": "train"
+  },
+  "41878911": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 10035797,
+   "species": "lion",
+   "split": "train"
+  },
+  "116315991": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 412877,
+   "species": "lion",
+   "split": "train"
+  },
+  "148411375": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3706101,
+   "species": "lion",
+   "split": "train"
+  },
+  "151513139": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1028888,
+   "species": "lion",
+   "split": "train"
+  },
+  "68826399": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 14150665,
+   "species": "lion",
+   "split": "train"
+  },
+  "248602": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 388600,
+   "species": "lion",
+   "split": "train"
+  },
+  "91854276": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 13792712,
+   "species": "lion",
+   "split": "train"
+  },
+  "49800842": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 6541021,
+   "species": "lion",
+   "split": "train"
+  },
+  "49756319": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1235595,
+   "species": "lion",
+   "split": "train"
+  },
+  "30835153": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 15112069,
+   "species": "lion",
+   "split": "train"
+  },
+  "116324415": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 370938,
+   "species": "lion",
+   "split": "train"
+  },
+  "21289377": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3280170,
+   "species": "lion",
+   "split": "train"
+  },
+  "30835262": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 16385437,
+   "species": "lion",
+   "split": "train"
+  },
+  "121086546": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 21295612,
+   "species": "lion",
+   "split": "train"
+  },
+  "40023045": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 12671789,
+   "species": "lion",
+   "split": "train"
+  },
+  "129494421": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8979435,
+   "species": "lion",
+   "split": "train"
+  },
+  "138471226": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 18309445,
+   "species": "tiger",
+   "split": "train"
+  },
+  "54881903": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4947968,
+   "species": "tiger",
+   "split": "train"
+  },
+  "75633865": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3801088,
+   "species": "tiger",
+   "split": "train"
+  },
+  "138480057": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 16825030,
+   "species": "tiger",
+   "split": "train"
+  },
+  "138471202": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 19173878,
+   "species": "tiger",
+   "split": "train"
+  },
+  "54882115": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4947968,
+   "species": "tiger",
+   "split": "train"
+  },
+  "138480065": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 25195499,
+   "species": "tiger",
+   "split": "train"
+  },
+  "16021446": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 560949,
+   "species": "tiger",
+   "split": "validation"
+  },
+  "11165933": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4305026,
+   "species": "tiger",
+   "split": "validation"
+  },
+  "87584480": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3653423,
+   "species": "tiger",
+   "split": "validation"
+  },
+  "191449710": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2087648,
+   "species": "tiger",
+   "split": "validation"
+  },
+  "2106760": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5726388,
+   "species": "tiger",
+   "split": "train"
+  },
+  "61295118": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 6464856,
+   "species": "tiger",
+   "split": "train"
+  },
+  "79892910": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8192423,
+   "species": "tiger",
+   "split": "train"
+  },
+  "76495995": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 9194796,
+   "species": "tiger",
+   "split": "train"
+  },
+  "74996676": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 209829,
+   "species": "tiger",
+   "split": "train"
+  },
+  "138480056": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 19495634,
+   "species": "tiger",
+   "split": "train"
+  },
+  "75633847": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4194304,
+   "species": "tiger",
+   "split": "train"
+  },
+  "138471216": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 13761413,
+   "species": "tiger",
+   "split": "train"
+  },
+  "42072138": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 16758365,
+   "species": "tiger",
+   "split": "train"
+  },
+  "49761150": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 500790,
+   "species": "tiger",
+   "split": "train"
+  },
+  "42072159": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 12980837,
+   "species": "tiger",
+   "split": "train"
+  },
+  "1048562": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 766671,
+   "species": "tiger",
+   "split": "train"
+  },
+  "96346987": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 925660,
+   "species": "tiger",
+   "split": "train"
+  },
+  "138471205": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 16976511,
+   "species": "tiger",
+   "split": "train"
+  },
+  "8890924": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 737472,
+   "species": "tiger",
+   "split": "train"
+  },
+  "67317246": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 22125325,
+   "species": "tiger",
+   "split": "train"
+  },
+  "138471213": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 15915315,
+   "species": "tiger",
+   "split": "train"
+  },
+  "138480061": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 21041265,
+   "species": "tiger",
+   "split": "train"
+  },
+  "197434409": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7450453,
+   "species": "bear",
+   "split": "train"
+  },
+  "52474662": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7507118,
+   "species": "bear",
+   "split": "train"
+  },
+  "197434412": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8762390,
+   "species": "bear",
+   "split": "train"
+  },
+  "27220036": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3094651,
+   "species": "bear",
+   "split": "validation"
+  },
+  "197434398": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8027971,
+   "species": "bear",
+   "split": "train"
+  },
+  "46854733": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5731039,
+   "species": "bear",
+   "split": "validation"
+  },
+  "52452680": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2695585,
+   "species": "bear",
+   "split": "train"
+  },
+  "34567165": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1732051,
+   "species": "bear",
+   "split": "validation"
+  },
+  "1193803": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 860230,
+   "species": "bear",
+   "split": "validation"
+  },
+  "197434397": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8716042,
+   "species": "bear",
+   "split": "train"
+  },
+  "52745369": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2848509,
+   "species": "bear",
+   "split": "train"
+  },
+  "120078844": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4416736,
+   "species": "bear",
+   "split": "train"
+  },
+  "197434410": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8772797,
+   "species": "bear",
+   "split": "train"
+  },
+  "38456823": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 155069,
+   "species": "bear",
+   "split": "train"
+  },
+  "11400244": {
+   "status": "ok",
+   "sha256_match": true,
+   "source_bytes": 449201,
+   "species": "bear",
+   "split": "train"
+  },
+  "23241619": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 891618,
+   "species": "bear",
+   "split": "train"
+  },
+  "197434419": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7709021,
+   "species": "bear",
+   "split": "train"
+  },
+  "27317020": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1019095,
+   "species": "bear",
+   "split": "train"
+  },
+  "197434425": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4516918,
+   "species": "bear",
+   "split": "train"
+  },
+  "120317711": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 11822579,
+   "species": "bear",
+   "split": "train"
+  },
+  "35495250": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7714739,
+   "species": "bear",
+   "split": "train"
+  },
+  "197434395": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7624218,
+   "species": "bear",
+   "split": "train"
+  },
+  "197434417": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 10114379,
+   "species": "bear",
+   "split": "train"
+  },
+  "52039778": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1484313,
+   "species": "rabbit",
+   "split": "validation"
+  },
+  "150606096": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3471247,
+   "species": "rabbit",
+   "split": "validation"
+  },
+  "136255952": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7013333,
+   "species": "rabbit",
+   "split": "validation"
+  },
+  "91995923": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4865566,
+   "species": "rabbit",
+   "split": "validation"
+  },
+  "128701358": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3400239,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "27504159": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 899899,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "128538984": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3744449,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "99783812": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1408581,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "24245119": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 428660,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "79253805": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5713548,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "153868623": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3633620,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "25016408": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 578783,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "117639283": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8573882,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "157588690": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 12685718,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "119139368": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4959916,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "128538985": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3701387,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "138888755": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 256251,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "128725847": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2821467,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "44893900": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4854907,
+   "species": "rabbit",
+   "split": "train"
+  },
+  "130991534": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3765527,
+   "species": "zebra",
+   "split": "train"
+  },
+  "55664696": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8048379,
+   "species": "zebra",
+   "split": "train"
+  },
+  "130991519": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2376074,
+   "species": "zebra",
+   "split": "train"
+  },
+  "131044023": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 1717109,
+   "species": "zebra",
+   "split": "train"
+  },
+  "44371362": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 6274004,
+   "species": "zebra",
+   "split": "validation"
+  },
+  "55664180": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 14373357,
+   "species": "zebra",
+   "split": "train"
+  },
+  "51317116": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 5657545,
+   "species": "zebra",
+   "split": "train"
+  },
+  "36538424": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 8905935,
+   "species": "zebra",
+   "split": "validation"
+  },
+  "128138069": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3517189,
+   "species": "zebra",
+   "split": "train"
+  },
+  "1086147": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 701038,
+   "species": "zebra",
+   "split": "train"
+  },
+  "69824981": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 9753264,
+   "species": "zebra",
+   "split": "train"
+  },
+  "130991522": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4357207,
+   "species": "zebra",
+   "split": "train"
+  },
+  "128236388": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3581321,
+   "species": "zebra",
+   "split": "train"
+  },
+  "128236387": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 2805512,
+   "species": "zebra",
+   "split": "train"
+  },
+  "71586941": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 484842,
+   "species": "zebra",
+   "split": "train"
+  },
+  "55664688": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 7927871,
+   "species": "zebra",
+   "split": "train"
+  },
+  "68549884": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 6175669,
+   "species": "zebra",
+   "split": "train"
+  },
+  "128272484": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 4097100,
+   "species": "zebra",
+   "split": "train"
+  },
+  "23393726": {
+   "status": "ok",
+   "sha256_match": false,
+   "source_bytes": 3536300,
+   "species": "zebra",
+   "split": "train"
+  }
+ }
+}

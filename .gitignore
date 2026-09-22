@@ -8,3 +8,12 @@ models/
 gpt6-benchmark/
 benchmark-progress.json
 stop-gpt6-benchmark
+# Scratch output of the ternary (Bonsai 2 27B) run; its results, features, classifier and report are kept.
+ternary/logs/
+ternary/*.out
+ternary/*.tmp
+ternary/benchmark-progress.json
+ternary/replay/
+# Re-collected training, validation and calibration photographs are not redistributed
+# (see PHOTO-LICENSES.md); the 71 shipped replay photographs stay tracked regardless of this rule.
+data/*.jpg
