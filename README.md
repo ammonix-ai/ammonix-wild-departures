@@ -25,9 +25,25 @@ A comparison of the same task against GPT-6 is shown in the video on the Ammonix
 Its recorded results are not part of this repository; `benchmark_gpt6.py` lets you measure
 it yourself with your own API key.
 
-## Three ways to use this repository
+## Four ways to use this repository
 
-### 1. Watch the measured replay: no GPU, no model, no packages
+### 1. Run the live airport on your own GPU: 8 GB is enough
+
+The film's terminal, driven by the live model: the 21 curated passengers of the film and any
+photograph you drop in are decided and answered by the 1.75-bit ternary Bonsai 2 27B on your
+GPU. Every time on the page is one measured request on your machine. Windows: double-click
+`Wild Departures.bat`. By hand, on any platform with Python 3.10 or newer:
+
+```text
+python -m venv .venv                      then activate it and: pip install -r requirements.txt
+python setup.py                           pinned model (5.95 GB), vision projector (0.63 GB), llama.cpp fork binaries
+python serve_ternary.py --live            opens http://127.0.0.1:8767
+```
+
+`python serve_ternary.py` without `--live` replays the measured laptop run in the same page.
+The model, the fork and the measurements are described in the ternary section below.
+
+### 2. Watch the measured replay of the FP16 run: no GPU, no model, no packages
 
 ```text
 python -m http.server 8766
@@ -36,7 +52,7 @@ python -m http.server 8766
 Open http://127.0.0.1:8766. The scene replays the recorded decisions and timings of all 71
 photographs from `results.json`.
 
-### 2. Check and refit the decision layer: no GPU, no photographs
+### 3. Check and refit the decision layer: no GPU, no photographs
 
 `features/features.npz` holds the frozen 5,120-value state of all 1,282 photographs
 (train, validation, test and the unknown-animal sets). Needs `numpy` and `xgboost`.
@@ -50,7 +66,7 @@ python evaluate_features.py --classifier retrained
 `train.py --device cuda` is the setting the released classifier was fitted with. A CPU fit is
 not bit-identical; when tried it gave the same 67/70 on the held-out photographs.
 
-### 3. Fresh inference: needs the checkpoint and a large GPU
+### 4. Fresh inference in the FP16 reconstruction: needs the checkpoint and a large GPU
 
 Download `unsloth/Qwen3.8-27B-unsloth-bnb-4bit` at revision
 `8aa5f05d26b7205477066e1449e0af13f762a299` into a folder and name it in `settings.json` (copy
@@ -132,14 +148,36 @@ above, the refit `ammonix-xgboost.ubj`, `novelty.npz` and `training.json`, the 1
 `REPORT.md` with the full comparison, the protocol deviations and the thermal condition (the laptop's
 GPU was throttled to a median 600 MHz during the benchmark).
 
-Scripts: `recollect.py` re-obtains the 1,211 unshipped photographs; `engine_ternary.py` is the
-counterpart of `engine.py` on top of `llama-server`; `extract_ternary.py`, `train_ternary.py`,
-`evaluate_ternary.py`, `compare_ternary.py`, `benchmark_ternary.py` and `report_ternary.py` are the
-pipeline; `serve_ternary.py` replays the run in the browser and, with `--live`, re-measures a
-photograph on the ternary model. They need the fork's `llama-server` binary and the two GGUF files in a
-`runtime/` folder next to this repository (`runtime/bin/llama-server.exe`, `runtime/models/*.gguf`) or
-the paths in the `AMMONIX_TERNARY_*` environment variables, plus `numpy`, `pillow`, `requests`,
-`xgboost` and `imagehash`; no PyTorch. The released FP16 pipeline, files and results are untouched.
+### The live airport
+
+`serve_ternary.py --live` is the film's terminal on the live model. The 21 curated passengers of
+the film (`passengers.json`: 18 held-out photographs, two from a separate challenge set, and the
+kangaroo) pass through the checkpoint one by one, and a photograph of your own can be dropped
+in as an extra passenger. One `llama-server` process of the PrismML fork, started with
+`--embeddings --pooling last`, serves both paths: the state for the Ammonix decision through its
+embeddings endpoint and the generated answers through its completion endpoint; the server
+switches its context per request, and the state is bit-identical before and after a generation.
+The cache is erased before every request, so every number on the page is one measured
+wall-clock request on your machine, not a mean and not a replay; each request is also appended
+to `logs/live-<date>.jsonl`. With `OPENAI_API_KEY` set in the terminal, the page can compare
+against GPT-6 at maximum reasoning instead of the local answer (one paid request per passenger).
+
+Without `--live` the same page replays the measured laptop run. A live run of the 21 passengers
+with the same files on an RTX PRO 6000 (96 GB, not throttled) gave 19/20 known passengers
+correct (the dog decided as bear, as on the laptop), the kangaroo rejected and resolved by
+System Two, median decision 180 ms and median full answer 326 ms. The laptop measurement above
+is the one that counts for an 8 GB card.
+
+Scripts: `setup.py` fetches the pinned model files and the fork's binaries into `models/` and
+`llama/` (both git-ignored; ../runtime next to the repository and the `AMMONIX_TERNARY_*`
+environment variables are still honoured); `Wild Departures.bat` creates `.venv` from
+`requirements.txt`, runs the setup once and starts the live airport; `airport.html` and
+`airport.js` are the page. `recollect.py` re-obtains the 1,211 unshipped photographs;
+`engine_ternary.py` is the counterpart of `engine.py` on top of `llama-server`;
+`extract_ternary.py`, `train_ternary.py`, `evaluate_ternary.py`, `compare_ternary.py`,
+`benchmark_ternary.py` and `report_ternary.py` are the pipeline. They need `numpy`, `pillow`,
+`requests`, `xgboost` and `imagehash`; no PyTorch. The released FP16 pipeline, files and results
+are untouched.
 
 ## Licences
 

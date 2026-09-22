@@ -1,0 +1,7 @@
+# The live airport and the ternary pipeline (no PyTorch: the model runs in llama-server).
+numpy
+xgboost
+pillow
+# Only recollect.py and report_ternary.py (re-obtaining the unshipped photographs, perceptual hashes).
+requests
+imagehash
