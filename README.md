@@ -25,6 +25,8 @@ A comparison of the same task against GPT-6 is shown in the video on the Ammonix
 Its recorded results are not part of this repository; `benchmark_gpt6.py` lets you measure
 it yourself with your own API key.
 
+**Community:** questions and discussion on the [Ammonix Discord](https://discord.gg/gXbBFNttTq). Security issues: contact@ammonix.ai.
+
 ## Four ways to use this repository
 
 ### 1. Run the live airport on your own GPU: 8 GB is enough
