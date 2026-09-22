@@ -107,6 +107,40 @@ validation data. A rejected photograph goes to a short generated answer.
 - Labels and image suitability had one visual audit, not an independent expert annotation.
 - The model runs in a reconstructed FP16 form, not an optimized low-latency deployment.
 
+## The same experiment on an 8 GB laptop GPU, in ternary weights
+
+The decision layer was rebuilt on the same base model in ternary weights: Bonsai 2 27B
+(`prism-ml/Ternary-Bonsai-2-27B-gguf`, PTQ1_0 packing, 1.75 bits per weight, Q8_0 vision projector),
+served by the PrismML llama.cpp fork on an NVIDIA GeForce RTX 3070 Ti Laptop GPU with 8 GB. The state
+is the same quantity as above, obtained from `llama-server` in embeddings mode with last-token pooling
+and the same 64 to 144 vision-token budget; the classifier was refit on the ternary states of the same
+1,009 training photographs, which were re-obtained from the sources recorded in `manifest.json`.
+
+| Measured on the same 70 held-out photographs | Released FP16 run | Ternary run |
+|---|---:|---:|
+| Top-1 accuracy | 67/70 (95.7%) | 68/70 (97.1%) |
+| Known photographs escalated | 1/70 | 0/70 |
+| Unknown animal (kangaroo) | rejected | rejected |
+| Median photo to Ammonix decision | 372 ms | 1,290 ms |
+| Median photo to complete generated answer | 1,509 ms | 2,838 ms |
+
+The ternary state is not the FP16 state (median cosine similarity 0.65 over all 1,282 photographs, and
+the released classifier applied unchanged to it scores 41/70), so refitting is what carries the result
+across. Everything of that run is under `ternary/`: `results.json` and `raw-trials.json` in the schema
+above, the refit `ammonix-xgboost.ubj`, `novelty.npz` and `training.json`, the 1,282 ternary states in
+`features.npz`, per-photograph extraction timings, the re-collection log, the GPU telemetry, and
+`REPORT.md` with the full comparison, the protocol deviations and the thermal condition (the laptop's
+GPU was throttled to a median 600 MHz during the benchmark).
+
+Scripts: `recollect.py` re-obtains the 1,211 unshipped photographs; `engine_ternary.py` is the
+counterpart of `engine.py` on top of `llama-server`; `extract_ternary.py`, `train_ternary.py`,
+`evaluate_ternary.py`, `compare_ternary.py`, `benchmark_ternary.py` and `report_ternary.py` are the
+pipeline; `serve_ternary.py` replays the run in the browser and, with `--live`, re-measures a
+photograph on the ternary model. They need the fork's `llama-server` binary and the two GGUF files in a
+`runtime/` folder next to this repository (`runtime/bin/llama-server.exe`, `runtime/models/*.gguf`) or
+the paths in the `AMMONIX_TERNARY_*` environment variables, plus `numpy`, `pillow`, `requests`,
+`xgboost` and `imagehash`; no PyTorch. The released FP16 pipeline, files and results are untouched.
+
 ## Licences
 
 Research use of the code and data files is free under the **Ammonix Research License** (see
