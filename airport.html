@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#18106d">
+<title>Ammonix · Wild Departures · live</title>
+<link rel="icon" type="image/png" href="brand/ammonix-logo.png">
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#edf0f9;color:#211d4b;font:14px 'Segoe UI',sans-serif;min-height:100vh;display:grid;place-items:center}
+main{width:min(100%,1600px,calc((100dvh - 84px) * 16 / 9));min-width:0;background:#fff;box-shadow:0 16px 64px #18106d0a}
+canvas{display:block;width:100%;aspect-ratio:16/9;background:#f5f7fc}
+nav{display:grid;grid-template-columns:auto auto auto minmax(160px,1fr) auto 100px;align-items:center;gap:10px 14px;padding:14px 22px;background:#fff;border-top:1px solid #e0e4f2}
+button,label.file{background:#4a5ac9;color:#fff;border:1px solid #4a5ac9;border-radius:9px;padding:10px 18px;font:600 14px 'Segoe UI';cursor:pointer;text-decoration:none;transition:background .15s,box-shadow .15s;white-space:nowrap;display:inline-block}
+button:hover,label.file:hover{background:#18106d;border-color:#18106d}
+#restart,label.file{background:#f1f3fc;color:#18106d;border-color:#d8def2}
+#restart:hover,label.file:hover{background:#e8ecfc;color:#18106d}
+label.file input{display:none}
+select{font:600 13px 'Segoe UI';color:#18106d;background:#f1f3fc;border:1px solid #d8def2;border-radius:9px;padding:9px 12px}
+#seek{grid-column:4;grid-row:1;width:100%}
+#mode{grid-column:1/5;grid-row:2}
+nav>a{grid-column:5/7;grid-row:2;text-align:right}
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid #b79bde;outline-offset:3px}
+button:disabled,label.file.disabled{opacity:.45;cursor:wait}
+input[type=range]{min-width:40px;accent-color:#4a5ac9}
+small{color:#666b85}
+#status{grid-column:6;grid-row:1;min-width:95px;text-align:right;font-variant-numeric:tabular-nums}
+a{color:#4a5ac9;text-underline-offset:3px}
+@media(max-width:900px){main{width:100%}nav{grid-template-columns:auto auto 1fr;padding:12px;gap:10px}small{font-size:11px}#seek{grid-column:1/4;grid-row:2}select{grid-column:1/3;grid-row:3}#mode{grid-column:1/4;grid-row:4}#status{grid-column:3;grid-row:3;min-width:0}nav>a{grid-column:1/4;grid-row:5;text-align:left}}
+@media(prefers-reduced-motion:reduce){button{transition:none}}
+</style>
+</head>
+<body>
+<main>
+<canvas id="scene" width="1600" height="900" aria-label="Ammonix animal airport: passengers are photographs; the Ammonix decision, the classifier probabilities and the full generated answer are shown separately, with their measured times"></canvas>
+<nav aria-label="Airport controls">
+<button id="play" disabled>Loading…</button>
+<button id="restart" disabled>Restart</button>
+<label class="file" id="uploadLabel" title="Send your own photograph through the checkpoint">Scan your own photo<input type="file" id="upload" accept="image/*"></label>
+<input id="seek" type="range" min="0" max="1000" value="0" aria-label="Playback position">
+<select id="rival" hidden aria-label="Comparison answer"><option value="local">Local model answer</option><option value="gpt6">GPT-6 · max reasoning</option></select>
+<small id="status">Preparing terminal</small>
+<small id="mode">Connecting to the terminal…</small>
+<a href="credits.html">Image credits</a>
+</nav>
+</main>
+<script src="airport.js"></script>
+</body>
+</html>

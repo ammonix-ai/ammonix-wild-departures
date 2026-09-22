@@ -12818,5 +12818,25 @@
     "license_url": "https://creativecommons.org/licenses/by/4.0/",
     "author": "Shane Walker",
     "title": "Macropus giganteus"
+  },
+  {
+    "id": "inat-695006402",
+    "species": "penguin",
+    "split": "challenge",
+    "source": "https://www.inaturalist.org/observations/379923817",
+    "license": "CC-BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "author": "Slunky",
+    "title": "Spheniscus mendiculus"
+  },
+  {
+    "id": "inat-708782345",
+    "species": "alligator",
+    "split": "challenge",
+    "source": "https://www.inaturalist.org/observations/387085026",
+    "license": "CC-BY",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "author": "Emma Hans",
+    "title": "Alligator mississippiensis"
   }
 ]

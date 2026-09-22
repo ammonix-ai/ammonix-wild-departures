@@ -5,6 +5,10 @@ settings.json
 retrained/
 work/
 models/
+# The Python environment, the llama.cpp binaries and the server logs that setup.py / Wild Departures.bat create.
+.venv/
+llama/
+logs/
 gpt6-benchmark/
 benchmark-progress.json
 stop-gpt6-benchmark

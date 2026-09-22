@@ -6,10 +6,14 @@ prompt position, conditioned on the photograph and the fixed prompt. llama-serve
 `--embeddings --pooling last` returns exactly that vector (the output of the final norm, which
 Hugging Face calls last_hidden_state), un-normalized when the request asks for embd_normalize -1.
 
-The embeddings restriction disables generation, so an Engine runs in one of two modes, 'feature'
-or 'generate', each with its own llama-server process on the same weights. Paths default to
-../runtime next to the repository (bin/llama-server.exe, models/*.gguf); override them with the
-environment variables AMMONIX_TERNARY_RUNTIME, AMMONIX_TERNARY_MODEL, AMMONIX_TERNARY_MMPROJ.
+An Engine runs in one of three modes. 'both' (the default, used by the live airport) starts one
+llama-server with `--embeddings --pooling last` and uses it for the state and for generation: the
+server switches its context between the two per request, so one copy of the weights serves both
+paths. 'feature' and 'generate' are the single-purpose modes of the laptop benchmark, one server
+process each. Paths: `python setup.py` puts llama-server under llama/ and the two GGUF files under
+models/ inside this folder; ../runtime next to the repository (bin/llama-server.exe, models/*.gguf)
+is the older layout and still found; the environment variables AMMONIX_TERNARY_RUNTIME,
+AMMONIX_TERNARY_MODEL and AMMONIX_TERNARY_MMPROJ override everything.
 AMMONIX_TERNARY_MMPROJ_CPU=1 keeps the vision projector in system RAM (about 600 MB of GPU memory
 freed, but about 4 s of CPU image encoding per photograph on this laptop); by default it is on the GPU.
 """
@@ -21,9 +25,27 @@ import numpy as np
 from PIL import Image
 
 RUNTIME = Path(os.environ.get('AMMONIX_TERNARY_RUNTIME') or ROOT.parent / 'runtime')
-SERVER_EXE = RUNTIME / 'bin' / 'llama-server.exe'
-MODEL = Path(os.environ.get('AMMONIX_TERNARY_MODEL') or RUNTIME / 'models' / 'Ternary-Bonsai-2-27B-PTQ1_0.gguf')
-MMPROJ = Path(os.environ.get('AMMONIX_TERNARY_MMPROJ') or RUNTIME / 'models' / 'Ternary-Bonsai-2-27B-mmproj-Q8_0.gguf')
+MODEL_FILE = 'Ternary-Bonsai-2-27B-PTQ1_0.gguf'
+MMPROJ_FILE = 'Ternary-Bonsai-2-27B-mmproj-Q8_0.gguf'
+
+
+def _first_existing(*candidates):
+    for path in candidates:
+        if path is not None and Path(path).exists():
+            return Path(path)
+    return Path(candidates[0])
+
+
+def _server_binary():
+    name = 'llama-server.exe' if os.name == 'nt' else 'llama-server'
+    local = ROOT / 'llama'
+    found = next((p for p in local.rglob(name) if p.is_file()), None) if local.exists() else None
+    return _first_existing(os.environ.get('AMMONIX_TERNARY_RUNTIME') and RUNTIME / 'bin' / name, found, RUNTIME / 'bin' / name)
+
+
+SERVER_EXE = _server_binary()
+MODEL = _first_existing(os.environ.get('AMMONIX_TERNARY_MODEL'), ROOT / 'models' / MODEL_FILE, RUNTIME / 'models' / MODEL_FILE)
+MMPROJ = _first_existing(os.environ.get('AMMONIX_TERNARY_MMPROJ'), ROOT / 'models' / MMPROJ_FILE, RUNTIME / 'models' / MMPROJ_FILE)
 PORT = int(os.environ.get('AMMONIX_TERNARY_PORT', '8090'))
 OUT = ROOT / 'ternary'
 LOGS = OUT / 'logs'
@@ -43,16 +65,16 @@ def render(prompt, marker=MARKER):
 
 
 class Engine:
-    def __init__(self, mode='feature', warmup=3):
-        if mode not in ('feature', 'generate'):
+    def __init__(self, mode='both', warmup=3):
+        if mode not in ('both', 'feature', 'generate'):
             raise ValueError(mode)
         self.mode = mode
         self.base = f'http://127.0.0.1:{PORT}'
         self.proc = None
         self.last_generation = None
-        for path in (SERVER_EXE, MODEL, MMPROJ):
+        for path, what in ((SERVER_EXE, 'llama-server of the PrismML fork'), (MODEL, 'ternary model'), (MMPROJ, 'vision projector')):
             if not path.exists():
-                raise FileNotFoundError(path)
+                raise FileNotFoundError(f'The {what} is missing: {path}. Run `python setup.py` first.')
         if self._alive():
             raise RuntimeError(f'Something already answers on {self.base}; stop it before starting an Engine.')
         args = [str(SERVER_EXE), '-m', str(MODEL), '--mmproj', str(MMPROJ),
@@ -67,7 +89,7 @@ class Engine:
         self.mmproj_on_cpu = os.environ.get('AMMONIX_TERNARY_MMPROJ_CPU', '0') in ('1', 'true', 'yes')
         if self.mmproj_on_cpu:
             args.append('--no-mmproj-offload')
-        if mode == 'feature':
+        if mode in ('feature', 'both'):
             args += ['--embeddings', '--pooling', 'last']
         self.args = args
         (LOGS / 'slots').mkdir(parents=True, exist_ok=True)   # --slot-save-path enables the slot erase action
@@ -83,9 +105,9 @@ class Engine:
         # Separate warmup; never included in reported latency.
         for _ in range(warmup):
             image = Image.new('RGB', (384, 384), (40, 100, 60))
-            if mode == 'feature':
+            if mode in ('feature', 'both'):
                 self.feature(image)
-            else:
+            if mode in ('generate', 'both'):
                 self.generate(image)
 
     # ----- server lifecycle -----
@@ -150,18 +172,21 @@ class Engine:
         return server == ours, server, ours
 
     def _payload(self, image):
+        """A photograph as base64: a path, the raw JPEG/PNG bytes, or a PIL image."""
         if isinstance(image, Image.Image):
             buf = io.BytesIO()
             image.convert('RGB').save(buf, 'JPEG', quality=95)
             raw = buf.getvalue()
+        elif isinstance(image, (bytes, bytearray)):
+            raw = bytes(image)
         else:
             raw = Path(image).read_bytes()
         return base64.b64encode(raw).decode('ascii')
 
     # ----- the two paths -----
     def feature(self, image, prompt=PROMPT):
-        if self.mode != 'feature':
-            raise RuntimeError('This Engine was started in generate mode; use Engine(mode="feature").')
+        if self.mode == 'generate':
+            raise RuntimeError('This Engine was started in generate mode; use Engine(mode="feature") or the default mode "both".')
         start = time.perf_counter()
         b64 = self._payload(image)
         processed = time.perf_counter()
@@ -177,8 +202,8 @@ class Engine:
         return emb, {'preprocess_ms': (processed - start) * 1000, 'qwen_ms': (done - processed) * 1000, 'feature_ms': (done - start) * 1000}
 
     def generate(self, image, prompt=PROMPT, max_new_tokens=24):
-        if self.mode != 'generate':
-            raise RuntimeError('This Engine was started in feature mode; use Engine(mode="generate").')
+        if self.mode == 'feature':
+            raise RuntimeError('This Engine was started in feature mode; use Engine(mode="generate") or the default mode "both".')
         start = time.perf_counter()
         b64 = self._payload(image)
         res = self._post('/completion', {'prompt': {'prompt_string': render(prompt, self.marker), 'multimodal_data': [b64]},

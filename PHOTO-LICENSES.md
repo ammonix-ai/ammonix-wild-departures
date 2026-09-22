@@ -6,12 +6,14 @@ chose. Ammonix claims no rights in them.
 
 ## What is shipped
 
-71 photographs: the 70 held-out test photographs and one photograph of an unknown animal. They
-were resized for the demonstration, and the replay shows them inside a composed scene.
+73 photographs: the 70 held-out test photographs, one photograph of an unknown animal, and two
+photographs from a separate challenge set (a Galápagos penguin and an American alligator, both
+CC BY from iNaturalist) that the film's curated 21-passenger sequence uses. They were resized
+for the demonstration, and the replay shows them inside a composed scene.
 
 | Licence | Photographs |
 |---|---:|
-| CC BY (attribution) | 40 |
+| CC BY (attribution) | 42 |
 | CC BY-SA (attribution, share-alike) | 24 |
 | CC0 | 7 |
 
