@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Wild Departures: the Ammonix decision layer on photographs"
+type: software
+abstract: "The Ammonix decision layer on animal photographs compared with a traditional LLM on a held-out benchmark, runnable locally on an 8 GB GPU."
+authors:
+  - family-names: Ruppersberg
+    given-names: Peter
+    affiliation: Ammonix
+  - family-names: Grieder
+    given-names: Lea
+    affiliation: Ammonix
+  - family-names: Todorov
+    given-names: Matthew
+    affiliation: Ammonix
+  - family-names: Glauser
+    given-names: Adele
+    affiliation: Ammonix
+  - family-names: Glauser
+    given-names: Duangjai
+    affiliation: Ammonix
+  - family-names: Stingele
+    given-names: Francesca
+    affiliation: Ammonix
+version: "v1.3"
+date-released: "2026-09-28"
+url: "https://github.com/ammonix-ai/ammonix-wild-departures"
+repository-code: "https://github.com/ammonix-ai/ammonix-wild-departures"
+license-url: "https://github.com/ammonix-ai/ammonix-wild-departures/blob/main/LICENSE"
